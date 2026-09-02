@@ -1,0 +1,79 @@
+{
+  "matrix_before_filter": [
+    61961,
+    29267
+  ],
+  "matrix_after_filter": [
+    61961,
+    29266
+  ],
+  "removed_feature_code": "ADFU",
+  "removed_feature_product": "hypothetical protein",
+  "removed_feature_original_index": 20456,
+  "tRNA_feature_policy": "Input matrix already excludes all tRNA product/code features.",
+  "targets": [
+    "Ala",
+    "Arg",
+    "Asn",
+    "Asp",
+    "Cys",
+    "Gln",
+    "Glu",
+    "Gly",
+    "His",
+    "Ile",
+    "Leu",
+    "Lys",
+    "Met",
+    "Phe",
+    "Pro",
+    "Ser",
+    "Thr",
+    "Trp",
+    "Tyr",
+    "Val",
+    "Sec"
+  ],
+  "seeds": [
+    42
+  ],
+  "test_fraction": 0.2,
+  "split_policy": "Each tRNA type uses presence-stratified 80:20 splits; classification and raw-count regression share the same split for a target and seed.",
+  "feature_importance": "One fixed seed-42 fit per tRNA type and task; gain is normalized to 100% within each fitted model and the normalized top 10 are displayed without repeat error bars.",
+  "classification_params": {
+    "objective": "binary",
+    "metric": "aucpr",
+    "n_estimators": 1000,
+    "learning_rate": 0.02,
+    "num_leaves": 95,
+    "max_depth": -1,
+    "colsample_bytree": 0.9,
+    "subsample": 0.9,
+    "subsample_freq": 5,
+    "min_child_samples": 10,
+    "lambda_l2": 0.1,
+    "scale_pos_weight": 14.0208,
+    "force_col_wise": true,
+    "verbosity": -1,
+    "n_jobs": 16,
+    "random_state": 42
+  },
+  "regression_params": {
+    "objective": "regression",
+    "metric": "l2",
+    "n_estimators": 1000,
+    "learning_rate": 0.02,
+    "num_leaves": 95,
+    "max_depth": -1,
+    "colsample_bytree": 0.9,
+    "subsample": 0.9,
+    "subsample_freq": 5,
+    "min_child_samples": 10,
+    "lambda_l2": 0.1,
+    "force_col_wise": true,
+    "verbosity": -1,
+    "n_jobs": 16,
+    "random_state": 42
+  },
+  "training_parallelism": "Models run serially; each LightGBM fit uses n_jobs=16."
+}

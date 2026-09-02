@@ -1,0 +1,4 @@
+stratum,group_1,group_2,test,U,p_raw,p_bh
+all,conjugative,mobilizable,two-sided Mann-Whitney U,115628.0,0.2877878217217652,0.2877878217217652
+all,conjugative,non-mobilizable,two-sided Mann-Whitney U,427282.0,1.6956585369238467e-36,5.08697561077154e-36
+all,mobilizable,non-mobilizable,two-sided Mann-Whitney U,612754.0,1.7954040929519687e-34,2.6931061394279533e-34

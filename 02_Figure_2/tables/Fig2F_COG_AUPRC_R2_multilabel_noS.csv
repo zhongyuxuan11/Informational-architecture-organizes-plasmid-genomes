@@ -1,0 +1,23 @@
+COG,AUPRC_test_mean,AUPRC_test_sd,R2_test_mean,R2_test_sd,COG_description,X_Label
+L,0.8379400327127624,0.0075915295426293,0.706041317396514,0.0629777333132441,"Replication, recombination and repair","L: Replication, recombination and repair"
+M,0.8219552887084071,0.0056866165237078,0.6688984836217328,0.0726723513098142,Cell wall/membrane/envelope biogenesis,M: Cell wall/membrane/envelope biogenesis
+K,0.8178668426846128,0.0046662444422337,0.7129753648890332,0.0375166018996999,Transcription,K: Transcription
+O,0.8078431852658042,0.0082949927657848,0.6877118047166225,0.0648677215092181,"Post-translational modification, protein turnover, chaperones","O: Post-translational modification, protein turnover, chaperones"
+U,0.8045027139621951,0.003860249090997,0.7097469803841573,0.0523164196030613,"Intracellular trafficking, secretion, vesicular transport","U: Intracellular trafficking, secretion, vesicular transport"
+T,0.8038727243385492,0.0088662340203853,0.7087173494646102,0.0443122987204563,Signal transduction mechanisms,T: Signal transduction mechanisms
+D,0.7960679708188275,0.0083032589936016,0.6200044181434675,0.0736043034206688,"Cell cycle control, cell division, chromosome partitioning","D: Cell cycle control, cell division, chromosome partitioning"
+E,0.7938741659044511,0.0029497176193218,0.6808813961052375,0.0538579778428043,Amino acid transport and metabolism,E: Amino acid transport and metabolism
+G,0.7911022374707013,0.0109496320260354,0.6841947049261856,0.0650853698564081,Carbohydrate transport and metabolism,G: Carbohydrate transport and metabolism
+H,0.7907727391485798,0.0045421977729515,0.6842710737999624,0.0707446463040682,Coenzyme transport and metabolism,H: Coenzyme transport and metabolism
+C,0.7901296710928546,0.0084352228482805,0.717107139499895,0.0546390265623989,Energy production and conversion,C: Energy production and conversion
+P,0.7888357059338582,0.0066990997015857,0.6350167157217596,0.0503841480724164,Inorganic ion transport and metabolism,P: Inorganic ion transport and metabolism
+F,0.7863191601889832,0.0123318220014099,0.70141371400927,0.055271182824447,Nucleotide transport and metabolism,F: Nucleotide transport and metabolism
+J,0.7852350459882818,0.0036921860588895,0.7075765791970051,0.0715803399793264,"Translation, ribosomal structure and biogenesis","J: Translation, ribosomal structure and biogenesis"
+Q,0.7802520607780224,0.0047164713360636,0.6583734772943336,0.0355025728414263,"Secondary metabolites biosynthesis, transport and catabolism","Q: Secondary metabolites biosynthesis, transport and catabolism"
+V,0.7761412621772453,0.0156413452939681,0.5278912283077751,0.1021339023153334,Defense mechanisms,V: Defense mechanisms
+N,0.7672178037021796,0.0026697270185897,0.5925442159366097,0.0183620275682532,Cell motility,N: Cell motility
+I,0.7386801686725891,0.0039495532384821,0.6487833689810248,0.0672949369351412,Lipid transport and metabolism,I: Lipid transport and metabolism
+A,0.5277153582299745,0.0042324521512725,0.3743008358920566,0.0912152725323251,RNA processing and modification,A: RNA processing and modification
+Z,0.5204795228785263,0.0079273414426977,0.4327233893019501,0.0528086255184621,Cytoskeleton,Z: Cytoskeleton
+W,0.5032894354896696,0.0013921992737297,0.2875502773467771,0.0588737385897674,Extracellular structures,W: Extracellular structures
+B,0.3561206334569178,0.0059378062847837,0.211992041446829,0.0227950759431686,Chromatin structure and dynamics,B: Chromatin structure and dynamics

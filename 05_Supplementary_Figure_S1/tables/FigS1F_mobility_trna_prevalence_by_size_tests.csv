@@ -1,0 +1,7 @@
+stratum,group_1,group_2,test,odds_ratio,p_raw,p_bh
+<100 kb,conjugative,mobilizable,two-sided Fisher exact,1.7505876545147232,0.0016519560035783648,0.0016519560035783648
+<100 kb,conjugative,non-mobilizable,two-sided Fisher exact,12.021000388391814,7.204186333304088e-114,1.0806279499956132e-113
+<100 kb,mobilizable,non-mobilizable,two-sided Fisher exact,6.866837177441498,2.123503135779503e-150,6.370509407338509e-150
+≥100 kb,conjugative,mobilizable,two-sided Fisher exact,5.172946280357666,6.841357881707257e-102,1.0262036822560887e-101
+≥100 kb,conjugative,non-mobilizable,two-sided Fisher exact,7.999049947825004,0.0,0.0
+≥100 kb,mobilizable,non-mobilizable,two-sided Fisher exact,1.5463237996880834,6.354743364026764e-14,6.354743364026764e-14

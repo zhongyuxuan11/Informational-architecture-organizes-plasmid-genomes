@@ -1,0 +1,80 @@
+{
+  "scope": "downstream-only",
+  "legacy_upstream_constraints": {
+    "archived_CCI_filter": "old archived tables used CCI > 0; this downstream run retains all finite CCI >= 0 from the supplied input",
+    "initiation_codon": "the supplied upstream CCI input may retain initiation codons; this script does not recalculate gene-level CCI"
+  },
+  "inputs": {
+    "triad_gene_cci": {
+      "path": "D:\\LAB\\PTG_code\\Fig3_CCI_latest_20260831\\tables\\01_gene_level_pooled_CCI_no_hypothetical_triad_genomes.csv",
+      "size_bytes": 1965536229,
+      "mtime_ns": 1788156534721505300,
+      "sha256": "96e164c9809443f8e7f0b65f8f065cefb369e29bd0bab8c8ac584807cda26f9e"
+    },
+    "cog_map": {
+      "path": "D:\\LAB\\PTG_code\\Fig3_CCI_latest_20260831\\inputs_small\\Fig3_COG_multilabel_noS_mapping_minimal.csv",
+      "size_bytes": 2140309,
+      "mtime_ns": 1786936947083303900,
+      "sha256": "07d7519f2673881ccb7d19d87f854ed6e78ca41d20f1ebf6d09265c04368fbea"
+    },
+    "cog_performance": {
+      "path": "D:\\LAB\\PTG_code\\Fig3_CCI_latest_20260831\\inputs_small\\Fig2F_COG_AUPRC_R2_multilabel_noS.csv",
+      "size_bytes": 3467,
+      "mtime_ns": 1782916501300897000,
+      "sha256": "e5a3b846e8a9d54aa655715c438e2c98ab45c869bbcb706c356fe9f9aa41a19c"
+    },
+    "plasmid_big_gene_cci": {
+      "path": "D:\\LAB\\PTG_code\\Fig3_CCI_latest_20260831\\inputs_small\\Fig3F_plasmid_big_gene_CCI.csv",
+      "size_bytes": 222993,
+      "mtime_ns": 1785291938496577200,
+      "sha256": "0e9faba44d488be152e9dcafb3cc5a6a6df024a5941868f0b47d05ff8bdcd6f0"
+    },
+    "phylum_big_gene_summary": {
+      "path": "D:\\LAB\\PTG_code\\Fig3_CCI_latest_20260831\\inputs_small\\Fig3F_phylum_plasmid_balanced_big_gene_CCI_plasmid_n_ge10.csv",
+      "size_bytes": 1028,
+      "mtime_ns": 1785291938496577200,
+      "sha256": "3b23cb915768d4c5c89eb78d09cdc1d5f839d7cd4b5da37b0aa4444b04dd34f2"
+    }
+  },
+  "validation": {
+    "validated_invalid_cci_row_n": 0,
+    "invalid_cci_policy": "fail_fast",
+    "size_strata": [
+      "Length < 100000",
+      "Length >= 100000"
+    ]
+  },
+  "thresholds": {
+    "min_product_gene_n": 50,
+    "product_gene_n_rule": "> 50",
+    "min_phylum_plasmid_n": 10,
+    "phylum_plasmid_n_rule": ">= 10",
+    "top_product_n": 10
+  },
+  "statistics": {
+    "CDS_global_test": "Kruskal-Wallis test treating every valid CDS as an independent observation",
+    "CDS_pairwise_tests": "three two-sided Mann-Whitney U tests treating every valid CDS as independent, with Benjamini-Hochberg correction",
+    "all_gene_histogram": "1200 common equal-width bins spanning the observed global minimum and maximum; every CDS contributes; no clipping",
+    "box_statistics": "sample standard deviation and Tukey 1.5-IQR observed whiskers",
+    "product_CCI": "gene-level median within normalized product",
+    "COG_CCI": "median of product medians, not gene-frequency weighted",
+    "COG_performance": "mean held-out classification AUPRC and regression R2 for models trained within each non-S COG category",
+    "phylum_CCI": "one CCI calculated directly from codon counts pooled across all retained CDSs per tRNA-positive plasmid, using only that plasmid's tRNAs"
+  },
+  "output_row_counts": {
+    "package/FigS11C_CDS_level_CCI_group_stats.csv": 3,
+    "package/Fig3B_all_gene_distribution_histogram.csv": 3600,
+    "package/Fig3B_all_gene_distribution_stats.csv": 3,
+    "package/FigS11C_CDS_Kruskal_Wallis.csv": 1,
+    "package/FigS11C_CDS_pairwise_Mann_Whitney_BH.csv": 3,
+    "package/Fig3_gene_level_CCI_tRNA_positive_plasmid_genes_minimal.csv": 734716,
+    "package/Fig3C_product_median_CCI_all.csv": 17547,
+    "package/Fig3C_product_median_CCI_gene_n_gt50.csv": 1888,
+    "package/Fig3C_top10_product_gene_CCI_distribution.csv": 781,
+    "package/Fig3_COG_multilabel_noS_mapping_minimal.csv": 20075,
+    "package/Fig3D_COG_median_CCI_noS_multilabel.csv": 22,
+    "package/Fig3D_COG_performance_vs_product_median_CCI.csv": 22,
+    "package/Fig3E_plasmid_level_CCI_for_phylum.csv": 2794,
+    "package/Fig3E_phylum_plasmid_level_CCI_plasmid_n_ge10.csv": 8
+  }
+}

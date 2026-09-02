@@ -1,0 +1,6 @@
+{
+  "mean_validation_AUPRC": 0.8992291621060948,
+  "selected_classifier_family": "RandomForest",
+  "selection_rule": "highest mean internal-validation AUPRC across seeds 42, 43, and 44",
+  "test_data_used_for_selection": false
+}

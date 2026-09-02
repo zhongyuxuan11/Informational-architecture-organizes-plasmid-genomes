@@ -1,0 +1,782 @@
+Genome_ID,Replicon_ID,Product,Product_norm,CCI_gene
+GCF_000025625.1,NC_013923.1,sensory rhodopsin transducer,sensory rhodopsin transducer,0.2666666666666666
+GCF_000017145.1,NC_009620.1,sensory rhodopsin transducer,sensory rhodopsin transducer,1.75
+GCF_000017145.1,NC_009620.1,sensory rhodopsin transducer,sensory rhodopsin transducer,2.8909090909090907
+GCF_000017145.1,NC_009620.1,"phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN","phosphonate metabolism protein/1,5-bisphosphokinase (prpp-forming) phnn",2.253968253968254
+GCF_000020045.1,NC_010625.1,hemagglutinin repeat-containing protein,hemagglutinin repeat-containing protein,1.8
+GCF_000146005.2,NZ_CP031226.1,lipoprotein,lipoprotein,1.270972005733007
+GCF_000154745.2,NC_018421.1,tryptophan-rich sensory protein,tryptophan-rich sensory protein,2.4000000000000004
+GCF_000154765.2,NC_018291.1,tryptophan-rich sensory protein,tryptophan-rich sensory protein,2.6666666666666665
+GCF_000194745.1,NC_015377.1,hemagglutinin repeat-containing protein,hemagglutinin repeat-containing protein,1.908872901678657
+GCF_000196015.1,NC_007974.2,hemagglutinin repeat-containing protein,hemagglutinin repeat-containing protein,1.6487434800244447
+GCF_000211235.1,NC_017177.1,DUF4116 domain-containing protein,duf4116 domain-containing protein,4.0
+GCF_000211235.1,NC_017177.1,DUF4116 domain-containing protein,duf4116 domain-containing protein,3.0
+GCF_000211235.1,NC_017177.1,DUF4116 domain-containing protein,duf4116 domain-containing protein,3.0
+GCF_000211235.1,NC_017177.1,DUF4116 domain-containing protein,duf4116 domain-containing protein,2.6666666666666665
+GCF_000211235.1,NC_017177.1,DUF4116 domain-containing protein,duf4116 domain-containing protein,4.0
+GCF_000211235.1,NC_017177.1,DUF4116 domain-containing protein,duf4116 domain-containing protein,4.0
+GCF_000211235.1,NC_017177.1,DUF4116 domain-containing protein,duf4116 domain-containing protein,2.6666666666666665
+GCF_000211235.1,NC_017177.1,DUF4116 domain-containing protein,duf4116 domain-containing protein,4.0
+GCF_000211235.1,NC_017177.1,DUF4116 domain-containing protein,duf4116 domain-containing protein,4.0
+GCF_000211235.1,NC_017177.1,DUF4116 domain-containing protein,duf4116 domain-containing protein,4.0
+GCF_000211235.1,NC_017177.1,DUF4116 domain-containing protein,duf4116 domain-containing protein,3.0
+GCF_000211235.1,NC_017177.1,DUF4116 domain-containing protein,duf4116 domain-containing protein,4.0
+GCF_000211235.1,NC_017177.1,DUF4116 domain-containing protein,duf4116 domain-containing protein,4.0
+GCF_000211235.1,NC_017177.1,DUF4116 domain-containing protein,duf4116 domain-containing protein,4.0
+GCF_000211235.1,NC_017177.1,DUF4116 domain-containing protein,duf4116 domain-containing protein,3.2
+GCF_000211235.1,NC_017177.1,DUF4116 domain-containing protein,duf4116 domain-containing protein,4.0
+GCF_000211235.1,NC_017177.1,DUF4116 domain-containing protein,duf4116 domain-containing protein,3.0
+GCF_000211235.1,NC_017177.1,DUF4116 domain-containing protein,duf4116 domain-containing protein,4.0
+GCF_000211235.1,NC_017177.1,DUF4116 domain-containing protein,duf4116 domain-containing protein,4.0
+GCF_000211235.1,NC_017177.1,DUF4116 domain-containing protein,duf4116 domain-containing protein,2.0
+GCF_000211235.1,NC_017177.1,DUF4116 domain-containing protein,duf4116 domain-containing protein,4.0
+GCF_000211235.1,NC_017177.1,DUF4116 domain-containing protein,duf4116 domain-containing protein,2.2857142857142856
+GCF_000211235.1,NC_017177.1,DUF4116 domain-containing protein,duf4116 domain-containing protein,3.333333333333333
+GCF_000211235.1,NC_017177.1,DUF4116 domain-containing protein,duf4116 domain-containing protein,4.0
+GCF_000211235.1,NC_017177.1,DUF4116 domain-containing protein,duf4116 domain-containing protein,1.0
+GCF_000211235.1,NC_017177.1,DUF4116 domain-containing protein,duf4116 domain-containing protein,4.0
+GCF_000211235.1,NC_017177.1,DUF4116 domain-containing protein,duf4116 domain-containing protein,2.0
+GCF_000211235.1,NC_017177.1,DUF4116 domain-containing protein,duf4116 domain-containing protein,2.6666666666666665
+GCF_000211235.1,NC_017177.1,DUF4116 domain-containing protein,duf4116 domain-containing protein,2.0
+GCF_000211235.1,NC_017177.1,DUF4116 domain-containing protein,duf4116 domain-containing protein,2.0
+GCF_000211235.1,NC_017177.1,DUF4116 domain-containing protein,duf4116 domain-containing protein,0.0
+GCF_000211235.1,NC_017177.1,DUF4116 domain-containing protein,duf4116 domain-containing protein,0.0
+GCF_000211235.1,NC_017177.1,DUF4116 domain-containing protein,duf4116 domain-containing protein,1.3333333333333333
+GCF_000211235.1,NC_017177.1,DUF4116 domain-containing protein,duf4116 domain-containing protein,2.0
+GCF_000211235.1,NC_017177.1,DUF4116 domain-containing protein,duf4116 domain-containing protein,3.2
+GCF_000211235.1,NC_017177.1,DUF4116 domain-containing protein,duf4116 domain-containing protein,1.3333333333333333
+GCF_000211235.1,NC_017177.1,DUF4116 domain-containing protein,duf4116 domain-containing protein,4.0
+GCF_000211235.1,NC_017177.1,DUF4116 domain-containing protein,duf4116 domain-containing protein,0.0
+GCF_000211235.1,NC_017177.1,DUF4116 domain-containing protein,duf4116 domain-containing protein,0.0
+GCF_000211235.1,NC_017177.1,DUF4116 domain-containing protein,duf4116 domain-containing protein,0.0
+GCF_000211235.1,NC_017177.1,DUF4116 domain-containing protein,duf4116 domain-containing protein,3.0
+GCF_000240905.2,NZ_CP019188.1,DUF1382 family protein,duf1382 family protein,2.0
+GCF_000304415.1,NC_018701.1,"phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN","phosphonate metabolism protein/1,5-bisphosphokinase (prpp-forming) phnn",2.8421052631578947
+GCF_000304415.1,NC_018701.1,sensory rhodopsin transducer,sensory rhodopsin transducer,0.75
+GCF_000304415.1,NC_018701.1,sensory rhodopsin transducer,sensory rhodopsin transducer,2.7272727272727275
+GCF_000320385.2,NC_019849.2,"phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN","phosphonate metabolism protein/1,5-bisphosphokinase (prpp-forming) phnn",2.8421052631578947
+GCF_000320385.2,NC_019849.2,sensory rhodopsin transducer,sensory rhodopsin transducer,1.125
+GCF_000320385.2,NC_019849.2,sensory rhodopsin transducer,sensory rhodopsin transducer,2.7272727272727275
+GCF_000376545.2,NZ_CP015231.1,"phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN","phosphonate metabolism protein/1,5-bisphosphokinase (prpp-forming) phnn",1.2928571428571427
+GCF_000814225.1,NZ_CP010386.1,crAss001_48 related protein,crass001_48 related protein,2.0
+GCF_000826835.2,NZ_CP080276.1,tryptophan-rich sensory protein,tryptophan-rich sensory protein,0.75
+GCF_001050915.2,NZ_CP021218.1,sensory rhodopsin transducer,sensory rhodopsin transducer,1.375
+GCF_001050915.2,NZ_CP021218.1,sensory rhodopsin transducer,sensory rhodopsin transducer,2.113636363636364
+GCF_001050915.2,NZ_CP021218.1,"phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN","phosphonate metabolism protein/1,5-bisphosphokinase (prpp-forming) phnn",2.0210526315789474
+GCF_001449005.1,NZ_CP013104.1,hemagglutinin repeat-containing protein,hemagglutinin repeat-containing protein,1.6363636363636362
+GCF_001454985.1,NZ_CP013298.1,lipoprotein,lipoprotein,0.9285714285714286
+GCF_001455145.1,NZ_CP013332.1,DUF4116 domain-containing protein,duf4116 domain-containing protein,0.5
+GCF_001578125.1,NZ_CP012733.1,DUF1382 family protein,duf1382 family protein,2.0
+GCF_001578125.1,NZ_CP012736.1,DUF1382 family protein,duf1382 family protein,2.0
+GCF_001587135.1,NZ_CP012940.1,type III effector protein,type iii effector protein,1.4285714285714286
+GCF_001587135.1,NZ_CP012940.1,type III effector protein,type iii effector protein,3.984375
+GCF_001587135.1,NZ_CP012940.1,type III effector protein,type iii effector protein,4.250000000000001
+GCF_001587135.1,NZ_CP012940.1,lipoprotein,lipoprotein,3.454545454545455
+GCF_001587135.1,NZ_CP012940.1,type III effector protein,type iii effector protein,3.193548387096774
+GCF_001587135.1,NZ_CP012940.1,type III effector protein,type iii effector protein,3.0
+GCF_001587135.1,NZ_CP012940.1,hemagglutinin repeat-containing protein,hemagglutinin repeat-containing protein,5.571428571428572
+GCF_001587135.1,NZ_CP012940.1,hemagglutinin repeat-containing protein,hemagglutinin repeat-containing protein,4.076335877862596
+GCF_001587135.1,NZ_CP012940.1,lipoprotein,lipoprotein,4.965517241379311
+GCF_001587135.1,NZ_CP012940.1,hemagglutinin repeat-containing protein,hemagglutinin repeat-containing protein,3.903930131004367
+GCF_001587135.1,NZ_CP012940.1,type III effector protein,type iii effector protein,3.52
+GCF_001587135.1,NZ_CP012940.1,type III effector protein,type iii effector protein,3.4029850746268657
+GCF_001587135.1,NZ_CP012940.1,type III effector protein,type iii effector protein,3.6
+GCF_001644805.2,NZ_CP172971.1,type III effector protein,type iii effector protein,3.504
+GCF_001644805.2,NZ_CP172971.1,type III effector protein,type iii effector protein,3.386138613861386
+GCF_001644805.2,NZ_CP172971.1,hemagglutinin repeat-containing protein,hemagglutinin repeat-containing protein,3.882352941176471
+GCF_001644805.2,NZ_CP172971.1,hemagglutinin repeat-containing protein,hemagglutinin repeat-containing protein,4.117154811715482
+GCF_001644805.2,NZ_CP172971.1,type III effector protein,type iii effector protein,3.090909090909091
+GCF_001644805.2,NZ_CP172971.1,hemagglutinin repeat-containing protein,hemagglutinin repeat-containing protein,4.176470588235294
+GCF_001644805.2,NZ_CP172971.1,type III effector protein,type iii effector protein,3.2
+GCF_001644805.2,NZ_CP172971.1,type III effector protein,type iii effector protein,3.483870967741936
+GCF_001888185.1,NZ_CP016365.1,tryptophan-rich sensory protein,tryptophan-rich sensory protein,0.0
+GCF_001900675.1,NZ_CP010146.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,1.0952380952380951
+GCF_001908795.1,NZ_CP018464.1,lipoprotein,lipoprotein,0.0
+GCF_001969345.1,NZ_CP019308.1,tryptophan-rich sensory protein,tryptophan-rich sensory protein,1.8
+GCF_002164595.2,NZ_CP032875.1,DUF1382 family protein,duf1382 family protein,1.8333333333333333
+GCF_002164635.4,NZ_CP022228.3,DUF1382 family protein,duf1382 family protein,1.8333333333333333
+GCF_002164645.3,NZ_CP028585.2,DUF1382 family protein,duf1382 family protein,1.8333333333333333
+GCF_002197025.1,NZ_CP021795.1,"phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN","phosphonate metabolism protein/1,5-bisphosphokinase (prpp-forming) phnn",2.8421052631578947
+GCF_002197025.1,NZ_CP021795.1,sensory rhodopsin transducer,sensory rhodopsin transducer,2.7272727272727275
+GCF_002197025.1,NZ_CP021795.1,sensory rhodopsin transducer,sensory rhodopsin transducer,0.75
+GCF_002197045.1,NZ_CP021810.1,sensory rhodopsin transducer,sensory rhodopsin transducer,0.75
+GCF_002197045.1,NZ_CP021810.1,sensory rhodopsin transducer,sensory rhodopsin transducer,2.7272727272727275
+GCF_002197045.1,NZ_CP021810.1,"phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN","phosphonate metabolism protein/1,5-bisphosphokinase (prpp-forming) phnn",2.8421052631578947
+GCF_002197085.1,NZ_CP021814.1,"phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN","phosphonate metabolism protein/1,5-bisphosphokinase (prpp-forming) phnn",2.8421052631578947
+GCF_002197085.1,NZ_CP021814.1,sensory rhodopsin transducer,sensory rhodopsin transducer,1.125
+GCF_002197085.1,NZ_CP021814.1,sensory rhodopsin transducer,sensory rhodopsin transducer,2.7272727272727275
+GCF_002197105.1,NZ_CP021828.1,"phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN","phosphonate metabolism protein/1,5-bisphosphokinase (prpp-forming) phnn",2.8421052631578947
+GCF_002197105.1,NZ_CP021828.1,sensory rhodopsin transducer,sensory rhodopsin transducer,2.7272727272727275
+GCF_002197105.1,NZ_CP021828.1,sensory rhodopsin transducer,sensory rhodopsin transducer,1.125
+GCF_002197125.1,NZ_CP021820.1,sensory rhodopsin transducer,sensory rhodopsin transducer,1.058823529411765
+GCF_002197125.1,NZ_CP021820.1,sensory rhodopsin transducer,sensory rhodopsin transducer,2.7272727272727275
+GCF_002197125.1,NZ_CP021820.1,"phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN","phosphonate metabolism protein/1,5-bisphosphokinase (prpp-forming) phnn",2.8421052631578947
+GCF_002197145.1,NZ_CP021806.1,"phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN","phosphonate metabolism protein/1,5-bisphosphokinase (prpp-forming) phnn",2.8421052631578947
+GCF_002197145.1,NZ_CP021806.1,sensory rhodopsin transducer,sensory rhodopsin transducer,2.7272727272727275
+GCF_002197145.1,NZ_CP021806.1,sensory rhodopsin transducer,sensory rhodopsin transducer,1.058823529411765
+GCF_002197165.1,NZ_CP021831.1,sensory rhodopsin transducer,sensory rhodopsin transducer,1.125
+GCF_002197165.1,NZ_CP021831.1,sensory rhodopsin transducer,sensory rhodopsin transducer,2.7272727272727275
+GCF_002197165.1,NZ_CP021831.1,"phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN","phosphonate metabolism protein/1,5-bisphosphokinase (prpp-forming) phnn",2.8421052631578947
+GCF_002202195.1,NZ_CP021962.1,lipoprotein,lipoprotein,1.0
+GCF_002381365.1,NZ_CP021048.1,tryptophan-rich sensory protein,tryptophan-rich sensory protein,2.25
+GCF_002381385.1,NZ_CP021041.1,tryptophan-rich sensory protein,tryptophan-rich sensory protein,2.25
+GCF_002407245.1,NZ_CP010682.1,tryptophan-rich sensory protein,tryptophan-rich sensory protein,0.75
+GCF_002412025.1,NZ_CP010644.1,tryptophan-rich sensory protein,tryptophan-rich sensory protein,0.75
+GCF_002412045.1,NZ_CP010768.1,tryptophan-rich sensory protein,tryptophan-rich sensory protein,0.6666666666666666
+GCF_002848565.1,NZ_CP025467.1,lipoprotein,lipoprotein,1.0
+GCF_002848565.1,NZ_CP025467.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,2.0
+GCF_002860085.1,NZ_CP019054.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,1.0952380952380951
+GCF_002888685.1,NZ_CP010596.1,tryptophan-rich sensory protein,tryptophan-rich sensory protein,2.6666666666666665
+GCF_002888715.1,NZ_CP010806.1,tryptophan-rich sensory protein,tryptophan-rich sensory protein,0.75
+GCF_002891665.1,NZ_CP010697.1,tryptophan-rich sensory protein,tryptophan-rich sensory protein,2.4000000000000004
+GCF_002891905.1,NZ_CP010657.1,tryptophan-rich sensory protein,tryptophan-rich sensory protein,0.6666666666666666
+GCF_002891925.1,NZ_CP010717.1,tryptophan-rich sensory protein,tryptophan-rich sensory protein,0.6666666666666666
+GCF_002891945.1,NZ_CP010736.1,tryptophan-rich sensory protein,tryptophan-rich sensory protein,2.4000000000000004
+GCF_002891965.1,NZ_CP010630.1,tryptophan-rich sensory protein,tryptophan-rich sensory protein,2.4000000000000004
+GCF_002891985.1,NZ_CP010624.1,tryptophan-rich sensory protein,tryptophan-rich sensory protein,2.4000000000000004
+GCF_002892005.1,NZ_CP010669.1,tryptophan-rich sensory protein,tryptophan-rich sensory protein,2.4000000000000004
+GCF_002892025.1,NZ_CP010612.1,tryptophan-rich sensory protein,tryptophan-rich sensory protein,2.6666666666666665
+GCF_002892045.1,NZ_CP010663.1,tryptophan-rich sensory protein,tryptophan-rich sensory protein,2.6666666666666665
+GCF_002892065.1,NZ_CP010706.1,tryptophan-rich sensory protein,tryptophan-rich sensory protein,2.6666666666666665
+GCF_002892085.1,NZ_CP010726.1,tryptophan-rich sensory protein,tryptophan-rich sensory protein,2.6666666666666665
+GCF_002892125.1,NZ_CP010751.1,tryptophan-rich sensory protein,tryptophan-rich sensory protein,2.6666666666666665
+GCF_002892145.1,NZ_CP010757.1,tryptophan-rich sensory protein,tryptophan-rich sensory protein,2.6666666666666665
+GCF_002892165.1,NZ_CP010742.1,tryptophan-rich sensory protein,tryptophan-rich sensory protein,2.4000000000000004
+GCF_002892185.1,NZ_CP010651.1,tryptophan-rich sensory protein,tryptophan-rich sensory protein,2.4000000000000004
+GCF_002892205.1,NZ_CP010618.1,tryptophan-rich sensory protein,tryptophan-rich sensory protein,2.4000000000000004
+GCF_002892225.1,NZ_CP010600.1,tryptophan-rich sensory protein,tryptophan-rich sensory protein,2.6666666666666665
+GCF_002892245.1,NZ_CP010690.1,tryptophan-rich sensory protein,tryptophan-rich sensory protein,0.75
+GCF_002892265.1,NZ_CP010746.1,tryptophan-rich sensory protein,tryptophan-rich sensory protein,2.4000000000000004
+GCF_002900365.1,NZ_CP025980.1,DUF4116 domain-containing protein,duf4116 domain-containing protein,2.625
+GCF_002949345.1,NZ_CP026808.1,DUF1382 family protein,duf1382 family protein,2.0
+GCF_002949555.1,NZ_CP026816.1,DUF1382 family protein,duf1382 family protein,2.0
+GCF_002949615.1,NZ_CP026818.1,DUF1382 family protein,duf1382 family protein,2.0
+GCF_003031325.1,NZ_CP024877.1,lipoprotein,lipoprotein,3.0
+GCF_003073335.1,NZ_CP028997.1,lipoprotein,lipoprotein,3.0
+GCF_003112225.1,NZ_CP028125.1,DUF1382 family protein,duf1382 family protein,2.0
+GCF_003240565.2,NZ_CP117258.1,hemagglutinin repeat-containing protein,hemagglutinin repeat-containing protein,0.3273408239700375
+GCF_003264955.1,NZ_CP030077.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,2.0
+GCF_003325055.1,NZ_CP030187.1,crAss001_48 related protein,crass001_48 related protein,1.0
+GCF_003325055.1,NZ_CP030188.1,DUF1382 family protein,duf1382 family protein,1.3333333333333333
+GCF_003428425.1,NZ_CP031723.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,2.0
+GCF_003432145.1,NZ_CP031791.1,lipoprotein,lipoprotein,3.0
+GCF_003432165.1,NZ_CP031803.1,lipoprotein,lipoprotein,2.0
+GCF_003433275.1,NZ_CP009051.1,DUF1382 family protein,duf1382 family protein,1.3333333333333333
+GCF_003443555.1,NZ_CP031953.1,tryptophan-rich sensory protein,tryptophan-rich sensory protein,2.4000000000000004
+GCF_003443575.1,NZ_CP031949.1,tryptophan-rich sensory protein,tryptophan-rich sensory protein,2.6666666666666665
+GCF_003443595.1,NZ_CP031957.1,tryptophan-rich sensory protein,tryptophan-rich sensory protein,0.6666666666666666
+GCF_003444755.1,NZ_CP019891.1,crAss001_48 related protein,crass001_48 related protein,2.0
+GCF_003571565.1,NZ_CP032183.1,crAss001_48 related protein,crass001_48 related protein,2.0
+GCF_003571565.1,NZ_CP032183.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,2.0
+GCF_003571565.1,NZ_CP032183.1,lipoprotein,lipoprotein,2.0
+GCF_003612915.1,NZ_CP031079.1,"phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN","phosphonate metabolism protein/1,5-bisphosphokinase (prpp-forming) phnn",0.7272727272727273
+GCF_003627755.1,NZ_CP032695.1,hemagglutinin repeat-containing protein,hemagglutinin repeat-containing protein,0.16
+GCF_003627755.1,NZ_CP032695.1,hemagglutinin repeat-containing protein,hemagglutinin repeat-containing protein,0.0
+GCF_003790525.1,NZ_CP033632.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,0.5869565217391304
+GCF_003949725.2,NZ_CP039932.1,crAss001_48 related protein,crass001_48 related protein,0.0
+GCF_004324025.2,NZ_CP047533.1,lipoprotein,lipoprotein,0.8142857142857143
+GCF_004337745.2,NZ_CP047538.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,1.3043478260869563
+GCF_004337745.2,NZ_CP047538.1,lipoprotein,lipoprotein,0.5454545454545455
+GCF_005222165.1,NZ_CP032328.1,lipoprotein,lipoprotein,0.9835057099762984
+GCF_005234135.1,NZ_CP039965.1,"phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN","phosphonate metabolism protein/1,5-bisphosphokinase (prpp-forming) phnn",1.2277804128644465
+GCF_008065415.1,NZ_CP041929.1,lipoprotein,lipoprotein,2.0
+GCF_008080655.1,NZ_CP040928.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,2.0
+GCF_008693445.1,NZ_CP044046.1,lipoprotein,lipoprotein,2.0
+GCF_008693865.1,NZ_CP044079.1,"phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN","phosphonate metabolism protein/1,5-bisphosphokinase (prpp-forming) phnn",1.0
+GCF_008727135.1,NZ_CP044141.1,DUF1382 family protein,duf1382 family protein,2.0
+GCF_008727535.1,NZ_CP044180.1,crAss001_48 related protein,crass001_48 related protein,1.0
+GCF_008931445.1,NZ_CP042508.1,crAss001_48 related protein,crass001_48 related protein,1.0
+GCF_008931525.1,NZ_CP042573.1,crAss001_48 related protein,crass001_48 related protein,2.0
+GCF_009363455.1,NZ_CP045356.1,lipoprotein,lipoprotein,1.3724137931034486
+GCF_009650355.1,NZ_CP045054.1,hemagglutinin repeat-containing protein,hemagglutinin repeat-containing protein,0.4285714285714285
+GCF_009650375.1,NZ_CP045058.1,hemagglutinin repeat-containing protein,hemagglutinin repeat-containing protein,0.4285714285714285
+GCF_009664245.1,NZ_CP026527.1,"phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN","phosphonate metabolism protein/1,5-bisphosphokinase (prpp-forming) phnn",2.8421052631578947
+GCF_009664245.1,NZ_CP026527.1,sensory rhodopsin transducer,sensory rhodopsin transducer,0.75
+GCF_009664245.1,NZ_CP026527.1,sensory rhodopsin transducer,sensory rhodopsin transducer,2.7272727272727275
+GCF_009676865.1,NZ_CP046066.1,lipoprotein,lipoprotein,1.3724137931034486
+GCF_009708195.1,NZ_CP046163.1,lipoprotein,lipoprotein,1.3724137931034486
+GCF_009728975.1,NZ_CP046273.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,2.0
+GCF_009730455.1,NZ_CP046333.1,hemagglutinin repeat-containing protein,hemagglutinin repeat-containing protein,1.6487434800244447
+GCF_009884415.1,NZ_CP045677.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,0.2608695652173913
+GCF_009931175.1,NZ_CP030322.1,lipoprotein,lipoprotein,2.0
+GCF_009949145.1,NZ_CP041417.1,lipoprotein,lipoprotein,0.755952380952381
+GCF_010319625.1,NZ_AP019819.1,crAss001_48 related protein,crass001_48 related protein,2.0
+GCF_010319625.1,NZ_AP019819.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,2.0
+GCF_011046245.1,NZ_CP049244.1,"phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN","phosphonate metabolism protein/1,5-bisphosphokinase (prpp-forming) phnn",1.1142857142857143
+GCF_011046895.1,NZ_CP049249.1,"phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN","phosphonate metabolism protein/1,5-bisphosphokinase (prpp-forming) phnn",1.1333333333333335
+GCF_011129215.1,NZ_CP040026.1,lipoprotein,lipoprotein,3.0
+GCF_012029695.2,NZ_CP061391.1,lipoprotein,lipoprotein,2.5
+GCF_012524235.2,NZ_CP053575.1,lipoprotein,lipoprotein,0.8666666666666667
+GCF_012975085.1,NZ_CP044336.1,crAss001_48 related protein,crass001_48 related protein,2.0
+GCF_013146705.1,NZ_CP045273.1,lipoprotein,lipoprotein,1.001344537815126
+GCF_013371725.1,NZ_CP055258.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,1.0952380952380951
+GCF_013426895.1,NZ_AP023176.1,hemagglutinin repeat-containing protein,hemagglutinin repeat-containing protein,2.170212765957447
+GCF_013591455.1,NZ_CP055600.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,0.1904761904761904
+GCF_013591455.1,NZ_CP055602.1,DUF1382 family protein,duf1382 family protein,4.0
+GCF_013731155.1,NZ_CP056156.1,lipoprotein,lipoprotein,0.9025974025974026
+GCF_013733095.1,NZ_CP056343.1,lipoprotein,lipoprotein,2.0
+GCF_014170615.1,NZ_CP059910.1,DUF1382 family protein,duf1382 family protein,2.0
+GCF_014596895.2,NZ_CP115037.1,lipoprotein,lipoprotein,2.0
+GCF_015136055.1,NZ_AP022453.1,lipoprotein,lipoprotein,2.0
+GCF_015136055.1,NZ_AP022453.1,crAss001_48 related protein,crass001_48 related protein,2.0
+GCF_015219805.1,NZ_CP063217.1,lipoprotein,lipoprotein,3.0
+GCF_015238655.1,NZ_CP050338.1,lipoprotein,lipoprotein,1.0
+GCF_015238895.1,NZ_CP050344.1,lipoprotein,lipoprotein,1.0
+GCF_015239135.1,NZ_CP050350.1,lipoprotein,lipoprotein,1.0
+GCF_015239295.1,NZ_CP050356.1,lipoprotein,lipoprotein,1.0
+GCF_015278095.1,NZ_CP063882.1,lipoprotein,lipoprotein,2.0
+GCF_015355875.1,NZ_CP064259.1,lipoprotein,lipoprotein,2.0
+GCF_015355895.1,NZ_CP064213.1,lipoprotein,lipoprotein,2.0
+GCF_015571555.1,NZ_CP062816.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,1.0952380952380951
+GCF_015571615.1,NZ_CP062827.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,1.0952380952380951
+GCF_015571655.1,NZ_CP062839.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,1.0952380952380951
+GCF_015571775.1,NZ_CP062884.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,1.0952380952380951
+GCF_015992425.1,NZ_CP065450.1,lipoprotein,lipoprotein,3.0
+GCF_016066025.1,NZ_CP065827.1,crAss001_48 related protein,crass001_48 related protein,1.8000000000000005
+GCF_016406285.1,NZ_CP066358.1,"phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN","phosphonate metabolism protein/1,5-bisphosphokinase (prpp-forming) phnn",2.7
+GCF_016406285.1,NZ_CP066358.1,sensory rhodopsin transducer,sensory rhodopsin transducer,1.058823529411765
+GCF_016406285.1,NZ_CP066358.1,sensory rhodopsin transducer,sensory rhodopsin transducer,2.7272727272727275
+GCF_016446335.1,NZ_CP048823.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,1.0952380952380951
+GCF_016839145.1,NZ_CP069303.1,lipoprotein,lipoprotein,1.3081481481481485
+GCF_016839145.1,NZ_CP069303.1,lipoprotein,lipoprotein,1.2684126984126984
+GCF_016864375.1,NZ_CP069356.1,"phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN","phosphonate metabolism protein/1,5-bisphosphokinase (prpp-forming) phnn",0.7845507433742729
+GCF_016903315.1,NZ_CP069885.1,DUF1382 family protein,duf1382 family protein,1.5
+GCF_016939615.1,NZ_CP070546.1,crAss001_48 related protein,crass001_48 related protein,2.0
+GCF_017220215.1,NZ_CP071130.1,"phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN","phosphonate metabolism protein/1,5-bisphosphokinase (prpp-forming) phnn",2.053639846743295
+GCF_017310465.1,NZ_CP064109.1,crAss001_48 related protein,crass001_48 related protein,2.0
+GCF_017310485.1,NZ_CP064116.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,2.0
+GCF_017488845.2,NZ_CP083371.1,"phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN","phosphonate metabolism protein/1,5-bisphosphokinase (prpp-forming) phnn",1.4395604395604398
+GCF_017570645.1,NZ_CP069679.1,DUF1382 family protein,duf1382 family protein,2.0
+GCF_017638985.1,NZ_CP067237.1,DUF1382 family protein,duf1382 family protein,2.0
+GCF_017726575.1,NZ_CP072306.1,crAss001_48 related protein,crass001_48 related protein,0.0
+GCF_017948245.1,NZ_CP072868.1,lipoprotein,lipoprotein,0.65
+GCF_018199995.1,NZ_CP073579.1,hemagglutinin repeat-containing protein,hemagglutinin repeat-containing protein,0.842911877394636
+GCF_018408855.1,NZ_AP024327.1,hemagglutinin repeat-containing protein,hemagglutinin repeat-containing protein,1.1062143097077597
+GCF_018454365.1,NZ_CP075317.1,lipoprotein,lipoprotein,2.0
+GCF_018729255.1,NZ_CP076061.1,hemagglutinin repeat-containing protein,hemagglutinin repeat-containing protein,1.7805403070951065
+GCF_019107685.1,NZ_CP077781.1,DUF1382 family protein,duf1382 family protein,1.5
+GCF_019175485.1,NZ_CP072889.1,lipoprotein,lipoprotein,0.8571428571428571
+GCF_019334545.1,NZ_CP079728.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,0.2608695652173913
+GCF_019443585.1,NZ_CP080364.1,lipoprotein,lipoprotein,2.0
+GCF_019823785.1,NZ_CP082006.1,lipoprotein,lipoprotein,2.0
+GCF_019904295.1,NZ_CP065362.1,"phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN","phosphonate metabolism protein/1,5-bisphosphokinase (prpp-forming) phnn",0.9363636363636364
+GCF_020138475.1,NZ_CP075931.1,crAss001_48 related protein,crass001_48 related protein,0.0
+GCF_020138515.1,NZ_CP075943.1,crAss001_48 related protein,crass001_48 related protein,0.0
+GCF_020139275.1,NZ_CP076003.1,crAss001_48 related protein,crass001_48 related protein,0.0
+GCF_020405145.1,NZ_CP084487.1,"phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN","phosphonate metabolism protein/1,5-bisphosphokinase (prpp-forming) phnn",1.0909090909090908
+GCF_020525725.1,NZ_CP084792.1,lipoprotein,lipoprotein,2.0
+GCF_020526005.1,NZ_CP084854.1,lipoprotein,lipoprotein,2.0
+GCF_020526005.1,NZ_CP084855.1,lipoprotein,lipoprotein,1.5777777777777775
+GCF_020827575.1,NZ_CP083486.1,DUF1382 family protein,duf1382 family protein,2.0
+GCF_020868245.1,NZ_CP086388.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,2.0
+GCF_021052565.1,NZ_CP088110.1,"phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN","phosphonate metabolism protein/1,5-bisphosphokinase (prpp-forming) phnn",2.2857142857142856
+GCF_021052565.1,NZ_CP088110.1,sensory rhodopsin transducer,sensory rhodopsin transducer,2.0
+GCF_021052565.1,NZ_CP088110.1,sensory rhodopsin transducer,sensory rhodopsin transducer,3.6
+GCF_021052665.1,NZ_CP088114.1,"phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN","phosphonate metabolism protein/1,5-bisphosphokinase (prpp-forming) phnn",1.5789473684210529
+GCF_021052665.1,NZ_CP088114.1,sensory rhodopsin transducer,sensory rhodopsin transducer,1.058823529411765
+GCF_021052665.1,NZ_CP088114.1,sensory rhodopsin transducer,sensory rhodopsin transducer,1.6363636363636362
+GCF_021166195.1,NZ_CP089018.1,lipoprotein,lipoprotein,3.0
+GCF_021245755.2,NZ_CP170139.1,lipoprotein,lipoprotein,2.0
+GCF_021397695.1,NZ_CP090147.1,crAss001_48 related protein,crass001_48 related protein,2.0
+GCF_021397695.1,NZ_CP090147.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,2.0
+GCF_021398115.1,NZ_CP090193.1,crAss001_48 related protein,crass001_48 related protein,2.0
+GCF_021398115.1,NZ_CP090193.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,2.0
+GCF_021442045.1,NZ_CP090470.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,0.2608695652173913
+GCF_021655475.1,NZ_AP024574.1,lipoprotein,lipoprotein,2.0
+GCF_021729785.1,NZ_CP058547.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,1.3333333333333333
+GCF_022353665.1,NZ_CP054975.1,lipoprotein,lipoprotein,3.0
+GCF_022354285.1,NZ_CP055187.1,crAss001_48 related protein,crass001_48 related protein,0.5
+GCF_022492855.1,NZ_CP092756.1,lipoprotein,lipoprotein,2.0
+GCF_022492875.1,NZ_CP092762.1,lipoprotein,lipoprotein,2.0
+GCF_022492895.1,NZ_CP092768.1,lipoprotein,lipoprotein,2.0
+GCF_022494725.1,NZ_CP091679.1,DUF1382 family protein,duf1382 family protein,2.0
+GCF_022625045.1,NZ_CP093536.1,type III effector protein,type iii effector protein,2.6801626016260163
+GCF_022625045.1,NZ_CP093536.1,hemagglutinin repeat-containing protein,hemagglutinin repeat-containing protein,2.3519384408376083
+GCF_022625045.1,NZ_CP093536.1,type III effector protein,type iii effector protein,2.367460317460317
+GCF_022625045.1,NZ_CP093536.1,hemagglutinin repeat-containing protein,hemagglutinin repeat-containing protein,2.321960186521194
+GCF_022625045.1,NZ_CP093536.1,hemagglutinin repeat-containing protein,hemagglutinin repeat-containing protein,2.060606060606061
+GCF_022625045.1,NZ_CP093536.1,hemagglutinin repeat-containing protein,hemagglutinin repeat-containing protein,2.656858208870593
+GCF_022625045.1,NZ_CP093536.1,type III effector protein,type iii effector protein,2.3065762740378397
+GCF_022625045.1,NZ_CP093536.1,type III effector protein,type iii effector protein,1.9980392156862743
+GCF_022625045.1,NZ_CP093536.1,type III effector protein,type iii effector protein,2.525774633500762
+GCF_022625045.1,NZ_CP093536.1,hemagglutinin repeat-containing protein,hemagglutinin repeat-containing protein,2.2754627271183563
+GCF_022625045.1,NZ_CP093536.1,hemagglutinin repeat-containing protein,hemagglutinin repeat-containing protein,2.2846277715842938
+GCF_022625045.1,NZ_CP093536.1,type III effector protein,type iii effector protein,1.86231884057971
+GCF_023547485.1,NZ_CP053648.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,2.0
+GCF_023657755.1,NZ_CP098153.1,lipoprotein,lipoprotein,2.0
+GCF_023657775.1,NZ_CP098158.1,lipoprotein,lipoprotein,1.5555555555555554
+GCF_023657875.1,NZ_CP098173.1,lipoprotein,lipoprotein,0.2727272727272727
+GCF_023734795.1,NZ_AP025766.1,crAss001_48 related protein,crass001_48 related protein,2.0
+GCF_023734795.1,NZ_AP025766.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,2.0
+GCF_023734815.1,NZ_AP025769.1,crAss001_48 related protein,crass001_48 related protein,2.0
+GCF_023734815.1,NZ_AP025769.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,2.0
+GCF_023734875.1,NZ_AP025776.1,crAss001_48 related protein,crass001_48 related protein,2.0
+GCF_023734875.1,NZ_AP025776.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,2.0
+GCF_023734895.1,NZ_AP025779.1,crAss001_48 related protein,crass001_48 related protein,2.0
+GCF_023735015.1,NZ_AP025794.1,crAss001_48 related protein,crass001_48 related protein,2.0
+GCF_023735015.1,NZ_AP025794.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,2.0
+GCF_023735195.1,NZ_AP025806.1,crAss001_48 related protein,crass001_48 related protein,2.0
+GCF_023735195.1,NZ_AP025806.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,2.0
+GCF_023735255.1,NZ_AP025814.1,crAss001_48 related protein,crass001_48 related protein,2.0
+GCF_023735315.1,NZ_AP025823.1,crAss001_48 related protein,crass001_48 related protein,2.0
+GCF_023735315.1,NZ_AP025823.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,2.0
+GCF_023735335.1,NZ_AP025825.1,crAss001_48 related protein,crass001_48 related protein,2.0
+GCF_023735355.1,NZ_AP025829.1,crAss001_48 related protein,crass001_48 related protein,2.0
+GCF_023735355.1,NZ_AP025829.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,2.0
+GCF_023735375.1,NZ_AP025832.1,crAss001_48 related protein,crass001_48 related protein,2.0
+GCF_023735375.1,NZ_AP025832.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,2.0
+GCF_023735395.1,NZ_AP025835.1,crAss001_48 related protein,crass001_48 related protein,2.0
+GCF_023735395.1,NZ_AP025835.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,2.0
+GCF_023735435.1,NZ_AP025841.1,crAss001_48 related protein,crass001_48 related protein,2.0
+GCF_023735435.1,NZ_AP025841.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,2.0
+GCF_023821965.1,NZ_CP098808.1,"phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN","phosphonate metabolism protein/1,5-bisphosphokinase (prpp-forming) phnn",1.0909090909090908
+GCF_023897035.1,NZ_CP053696.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,2.0
+GCF_024182005.1,NZ_AP025838.1,crAss001_48 related protein,crass001_48 related protein,2.0
+GCF_024182005.1,NZ_AP025838.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,2.0
+GCF_024206775.1,NZ_CP072993.1,"phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN","phosphonate metabolism protein/1,5-bisphosphokinase (prpp-forming) phnn",1.5238095238095235
+GCF_024380055.1,NZ_CP101518.1,"phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN","phosphonate metabolism protein/1,5-bisphosphokinase (prpp-forming) phnn",1.0909090909090908
+GCF_024628885.1,NZ_CP102393.1,lipoprotein,lipoprotein,1.0
+GCF_024637995.1,NZ_CP097387.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,0.2608695652173913
+GCF_024918375.1,NZ_CP103660.1,DUF1382 family protein,duf1382 family protein,1.3333333333333333
+GCF_024918815.1,NZ_CP103719.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,1.0952380952380951
+GCF_024971795.1,NZ_CP079768.1,DUF1382 family protein,duf1382 family protein,0.0
+GCF_024971815.1,NZ_CP079771.1,DUF1382 family protein,duf1382 family protein,0.0
+GCF_025142455.1,NZ_CP081167.1,tryptophan-rich sensory protein,tryptophan-rich sensory protein,2.6666666666666665
+GCF_025142595.1,NZ_CP081172.1,tryptophan-rich sensory protein,tryptophan-rich sensory protein,2.4000000000000004
+GCF_025142675.1,NZ_CP081213.1,tryptophan-rich sensory protein,tryptophan-rich sensory protein,2.4000000000000004
+GCF_025142695.1,NZ_CP081218.1,tryptophan-rich sensory protein,tryptophan-rich sensory protein,2.4000000000000004
+GCF_025142715.1,NZ_CP081222.1,tryptophan-rich sensory protein,tryptophan-rich sensory protein,2.4000000000000004
+GCF_025142735.1,NZ_CP081226.1,tryptophan-rich sensory protein,tryptophan-rich sensory protein,2.6666666666666665
+GCF_025142755.1,NZ_CP081231.1,tryptophan-rich sensory protein,tryptophan-rich sensory protein,2.4000000000000004
+GCF_025142775.1,NZ_CP081237.1,tryptophan-rich sensory protein,tryptophan-rich sensory protein,2.4000000000000004
+GCF_025142795.1,NZ_CP081241.1,tryptophan-rich sensory protein,tryptophan-rich sensory protein,1.8
+GCF_025142815.1,NZ_CP081245.1,tryptophan-rich sensory protein,tryptophan-rich sensory protein,2.6666666666666665
+GCF_025142835.1,NZ_CP081249.1,tryptophan-rich sensory protein,tryptophan-rich sensory protein,2.4000000000000004
+GCF_025142855.1,NZ_CP081254.1,tryptophan-rich sensory protein,tryptophan-rich sensory protein,2.4000000000000004
+GCF_025143105.1,NZ_CP081259.1,tryptophan-rich sensory protein,tryptophan-rich sensory protein,1.8
+GCF_025143215.1,NZ_CP081263.1,tryptophan-rich sensory protein,tryptophan-rich sensory protein,2.4000000000000004
+GCF_025143325.1,NZ_CP081268.1,tryptophan-rich sensory protein,tryptophan-rich sensory protein,2.6666666666666665
+GCF_025143405.1,NZ_CP081272.1,tryptophan-rich sensory protein,tryptophan-rich sensory protein,2.4000000000000004
+GCF_025143505.1,NZ_CP081277.1,tryptophan-rich sensory protein,tryptophan-rich sensory protein,2.4000000000000004
+GCF_025143665.1,NZ_CP081283.1,tryptophan-rich sensory protein,tryptophan-rich sensory protein,2.4000000000000004
+GCF_025200695.1,NZ_CP104148.1,"phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN","phosphonate metabolism protein/1,5-bisphosphokinase (prpp-forming) phnn",1.8928571428571428
+GCF_025200695.1,NZ_CP104148.1,sensory rhodopsin transducer,sensory rhodopsin transducer,1.75
+GCF_025200695.1,NZ_CP104148.1,sensory rhodopsin transducer,sensory rhodopsin transducer,3.1333333333333333
+GCF_025369675.1,NZ_CP104510.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,0.1904761904761904
+GCF_025583375.2,NZ_CP123268.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,1.0952380952380951
+GCF_025583565.2,NZ_CP123261.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,1.0952380952380951
+GCF_025917705.1,NZ_CP097357.1,lipoprotein,lipoprotein,1.166800505327337
+GCF_026000055.1,NZ_AP026896.1,lipoprotein,lipoprotein,1.229782913165266
+GCF_026000055.1,NZ_AP026896.1,lipoprotein,lipoprotein,1.3986927797411668
+GCF_026000055.1,NZ_AP026896.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,1.165233981152566
+GCF_026247905.1,NZ_CP110937.1,lipoprotein,lipoprotein,3.0
+GCF_026247925.1,NZ_CP110944.1,lipoprotein,lipoprotein,3.0
+GCF_026248885.1,NZ_CP110979.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,2.0
+GCF_026248885.1,NZ_CP110979.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,2.0
+GCF_026967655.1,NZ_CP114132.1,DUF1382 family protein,duf1382 family protein,1.288888888888889
+GCF_027886505.1,NZ_CP115674.1,crAss001_48 related protein,crass001_48 related protein,2.0
+GCF_027925565.1,NZ_AP027163.1,DUF1382 family protein,duf1382 family protein,2.0
+GCF_027925745.1,NZ_AP027178.1,DUF1382 family protein,duf1382 family protein,2.0
+GCF_027944895.1,NZ_CP116167.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,1.0952380952380951
+GCF_028219935.1,NZ_CP107315.1,lipoprotein,lipoprotein,2.0
+GCF_028219955.1,NZ_CP107323.1,lipoprotein,lipoprotein,1.0
+GCF_028219975.1,NZ_CP107330.1,lipoprotein,lipoprotein,1.0
+GCF_028219995.1,NZ_CP107337.1,lipoprotein,lipoprotein,1.0
+GCF_028220175.1,NZ_CP107348.1,lipoprotein,lipoprotein,1.0
+GCF_028220985.1,NZ_CP107375.1,lipoprotein,lipoprotein,1.0
+GCF_028221025.1,NZ_CP107386.1,lipoprotein,lipoprotein,1.0
+GCF_028622595.1,NZ_CP117630.1,crAss001_48 related protein,crass001_48 related protein,0.5714285714285714
+GCF_028898905.1,NZ_CP118569.1,crAss001_48 related protein,crass001_48 related protein,2.0
+GCF_028993555.1,NZ_CP118611.1,"phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN","phosphonate metabolism protein/1,5-bisphosphokinase (prpp-forming) phnn",1.75
+GCF_029026845.1,NZ_CP090221.1,lipoprotein,lipoprotein,2.0
+GCF_029069385.2,NZ_CP181509.1,crAss001_48 related protein,crass001_48 related protein,2.0
+GCF_029069385.2,NZ_CP181509.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,2.0
+GCF_029069865.2,NZ_CP181521.1,crAss001_48 related protein,crass001_48 related protein,2.0
+GCF_029069865.2,NZ_CP181521.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,2.0
+GCF_029070145.2,NZ_CP181525.1,crAss001_48 related protein,crass001_48 related protein,2.0
+GCF_029070145.2,NZ_CP181525.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,2.0
+GCF_029070185.2,NZ_CP181514.1,crAss001_48 related protein,crass001_48 related protein,2.0
+GCF_029070185.2,NZ_CP181514.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,2.0
+GCF_029075215.2,NZ_CP181501.1,crAss001_48 related protein,crass001_48 related protein,2.0
+GCF_029075215.2,NZ_CP181501.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,2.0
+GCF_029201625.2,NZ_CP104129.1,"phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN","phosphonate metabolism protein/1,5-bisphosphokinase (prpp-forming) phnn",2.052631578947368
+GCF_029219945.1,NZ_CP115942.1,type III effector protein,type iii effector protein,1.363046501914121
+GCF_029219945.1,NZ_CP115942.1,type III effector protein,type iii effector protein,1.4102389277389276
+GCF_029219945.1,NZ_CP115942.1,type III effector protein,type iii effector protein,1.4522681704260652
+GCF_029219945.1,NZ_CP115942.1,hemagglutinin repeat-containing protein,hemagglutinin repeat-containing protein,1.4145394245566891
+GCF_029219945.1,NZ_CP115942.1,type III effector protein,type iii effector protein,1.2564339488031349
+GCF_029219945.1,NZ_CP115942.1,type III effector protein,type iii effector protein,1.4576992575438723
+GCF_029219945.1,NZ_CP115942.1,type III effector protein,type iii effector protein,1.3102132001125808
+GCF_029219945.1,NZ_CP115942.1,type III effector protein,type iii effector protein,1.278092016678973
+GCF_029220025.1,NZ_CP115953.1,hemagglutinin repeat-containing protein,hemagglutinin repeat-containing protein,3.8538461538461535
+GCF_029220025.1,NZ_CP115953.1,type III effector protein,type iii effector protein,4.956521739130436
+GCF_029220025.1,NZ_CP115953.1,type III effector protein,type iii effector protein,2.806451612903226
+GCF_029220025.1,NZ_CP115953.1,lipoprotein,lipoprotein,3.7058823529411766
+GCF_029220025.1,NZ_CP115953.1,type III effector protein,type iii effector protein,3.414634146341464
+GCF_029220025.1,NZ_CP115953.1,type III effector protein,type iii effector protein,3.470588235294118
+GCF_029220025.1,NZ_CP115953.1,hemagglutinin repeat-containing protein,hemagglutinin repeat-containing protein,6.0
+GCF_029220025.1,NZ_CP115953.1,hemagglutinin repeat-containing protein,hemagglutinin repeat-containing protein,3.9746835443037978
+GCF_029220025.1,NZ_CP115953.1,type III effector protein,type iii effector protein,3.4936708860759493
+GCF_029220025.1,NZ_CP115953.1,type III effector protein,type iii effector protein,3.4285714285714284
+GCF_029220025.1,NZ_CP115953.1,type III effector protein,type iii effector protein,3.673469387755102
+GCF_029220025.1,NZ_CP115953.1,type III effector protein,type iii effector protein,1.2000000000000002
+GCF_029541785.1,NZ_CP089872.1,lipoprotein,lipoprotein,3.0
+GCF_029714265.1,NZ_CP121653.1,hemagglutinin repeat-containing protein,hemagglutinin repeat-containing protein,0.1883656509695291
+GCF_029714265.1,NZ_CP121653.1,hemagglutinin repeat-containing protein,hemagglutinin repeat-containing protein,0.1856540084388185
+GCF_029717905.1,NZ_CP099353.1,DUF1382 family protein,duf1382 family protein,2.8000000000000003
+GCF_029719585.1,NZ_CP099319.1,crAss001_48 related protein,crass001_48 related protein,2.0
+GCF_029719885.1,NZ_CP099330.1,DUF1382 family protein,duf1382 family protein,3.5
+GCF_029853835.1,NZ_CP122570.1,lipoprotein,lipoprotein,3.0
+GCF_029853875.1,NZ_CP122582.1,lipoprotein,lipoprotein,3.0
+GCF_029948145.1,NZ_CP124123.1,crAss001_48 related protein,crass001_48 related protein,2.0
+GCF_029962285.1,NZ_CP124742.1,DUF1382 family protein,duf1382 family protein,1.6
+GCF_029962285.1,NZ_CP124741.1,DUF1382 family protein,duf1382 family protein,1.6
+GCF_030013165.1,NZ_CP122640.1,DUF1382 family protein,duf1382 family protein,2.0
+GCF_030037445.1,NZ_CP124473.1,DUF1382 family protein,duf1382 family protein,2.0
+GCF_030053875.1,NZ_CP125735.1,lipoprotein,lipoprotein,2.0
+GCF_030060455.1,NZ_CP125871.1,tryptophan-rich sensory protein,tryptophan-rich sensory protein,2.4000000000000004
+GCF_030062055.1,NZ_CP110385.1,"phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN","phosphonate metabolism protein/1,5-bisphosphokinase (prpp-forming) phnn",1.334478021978022
+GCF_030168225.1,NZ_CP096816.1,lipoprotein,lipoprotein,3.0
+GCF_030169475.1,NZ_CP104619.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,2.0
+GCF_030344975.1,NZ_CP128256.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,1.0952380952380951
+GCF_030347175.1,NZ_CP126930.1,DUF1382 family protein,duf1382 family protein,2.0
+GCF_030369655.1,NZ_CP128486.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,1.1304347826086956
+GCF_030388245.1,NZ_CP098362.1,"phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN","phosphonate metabolism protein/1,5-bisphosphokinase (prpp-forming) phnn",1.45
+GCF_030389855.1,NZ_CP128965.1,DUF1382 family protein,duf1382 family protein,2.0
+GCF_030412885.1,NZ_CP129187.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,1.1304347826086956
+GCF_030419005.1,NZ_CP106953.1,hemagglutinin repeat-containing protein,hemagglutinin repeat-containing protein,1.5379061371841156
+GCF_030435705.1,NZ_CP129381.1,"phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN","phosphonate metabolism protein/1,5-bisphosphokinase (prpp-forming) phnn",1.3785714285714286
+GCF_030490675.1,NZ_CP129856.1,lipoprotein,lipoprotein,0.9154112554112556
+GCF_030534295.1,NZ_CP130562.1,lipoprotein,lipoprotein,3.0
+GCF_030845575.1,NZ_CP132636.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,0.2608695652173913
+GCF_030845595.1,NZ_CP132640.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,0.6859903381642513
+GCF_030845615.1,NZ_CP132647.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,0.2608695652173913
+GCF_030845855.1,NZ_CP132690.1,lipoprotein,lipoprotein,2.0
+GCF_030847805.1,NZ_CP126865.1,crAss001_48 related protein,crass001_48 related protein,2.0
+GCF_030847805.1,NZ_CP126865.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,2.0
+GCF_030847825.1,NZ_CP126870.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,0.1818181818181818
+GCF_030847905.1,NZ_CP126755.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,2.0
+GCF_030847905.1,NZ_CP126754.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,2.0
+GCF_030847925.1,NZ_CP126759.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,2.0
+GCF_030847925.1,NZ_CP126758.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,2.0
+GCF_030908705.1,NZ_CP133131.1,DUF1382 family protein,duf1382 family protein,2.0
+GCF_030913615.1,NZ_CP133185.1,DUF1382 family protein,duf1382 family protein,2.0
+GCF_031165635.1,NZ_CP133340.1,lipoprotein,lipoprotein,2.0
+GCF_032826355.1,NZ_CP133878.1,lipoprotein,lipoprotein,3.0
+GCF_032833155.1,NZ_CP134039.1,lipoprotein,lipoprotein,3.0
+GCF_033439065.1,NZ_CP137739.1,lipoprotein,lipoprotein,0.5
+GCF_033439065.1,NZ_CP137739.1,lipoprotein,lipoprotein,1.2857142857142858
+GCF_033439065.1,NZ_CP137739.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,1.3846153846153846
+GCF_033546895.1,NZ_CP137859.1,DUF1382 family protein,duf1382 family protein,4.0
+GCF_033555915.1,NZ_CP109864.1,tryptophan-rich sensory protein,tryptophan-rich sensory protein,1.1891447368421053
+GCF_033705735.1,NZ_CP131131.1,"phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN","phosphonate metabolism protein/1,5-bisphosphokinase (prpp-forming) phnn",2.0
+GCF_033807355.1,NZ_CP138518.1,lipoprotein,lipoprotein,1.0
+GCF_033865735.1,NZ_CP138770.1,crAss001_48 related protein,crass001_48 related protein,1.8000000000000005
+GCF_034479935.1,NZ_CP140291.1,lipoprotein,lipoprotein,2.0
+GCF_034494405.1,NZ_CP140422.1,crAss001_48 related protein,crass001_48 related protein,0.0
+GCF_034628625.1,NZ_CP140893.1,sensory rhodopsin transducer,sensory rhodopsin transducer,3.6
+GCF_034628625.1,NZ_CP140893.1,sensory rhodopsin transducer,sensory rhodopsin transducer,2.0
+GCF_034628625.1,NZ_CP140893.1,"phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN","phosphonate metabolism protein/1,5-bisphosphokinase (prpp-forming) phnn",2.2857142857142856
+GCF_034629665.1,NZ_CP140897.1,sensory rhodopsin transducer,sensory rhodopsin transducer,2.688888888888889
+GCF_034629665.1,NZ_CP140897.1,sensory rhodopsin transducer,sensory rhodopsin transducer,1.4025974025974026
+GCF_034629665.1,NZ_CP140897.1,"phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN","phosphonate metabolism protein/1,5-bisphosphokinase (prpp-forming) phnn",2.0428571428571427
+GCF_034630705.1,NZ_CP140904.1,sensory rhodopsin transducer,sensory rhodopsin transducer,3.6
+GCF_034630705.1,NZ_CP140904.1,sensory rhodopsin transducer,sensory rhodopsin transducer,2.0
+GCF_034630705.1,NZ_CP140904.1,"phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN","phosphonate metabolism protein/1,5-bisphosphokinase (prpp-forming) phnn",2.2857142857142856
+GCF_034632515.1,NZ_CP140918.1,sensory rhodopsin transducer,sensory rhodopsin transducer,3.6
+GCF_034632515.1,NZ_CP140918.1,sensory rhodopsin transducer,sensory rhodopsin transducer,2.0
+GCF_034632515.1,NZ_CP140918.1,"phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN","phosphonate metabolism protein/1,5-bisphosphokinase (prpp-forming) phnn",2.2857142857142856
+GCF_034634015.1,NZ_CP140932.1,sensory rhodopsin transducer,sensory rhodopsin transducer,3.6
+GCF_034634015.1,NZ_CP140932.1,sensory rhodopsin transducer,sensory rhodopsin transducer,2.0
+GCF_034634015.1,NZ_CP140932.1,"phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN","phosphonate metabolism protein/1,5-bisphosphokinase (prpp-forming) phnn",2.2857142857142856
+GCF_034638195.1,NZ_CP140968.1,sensory rhodopsin transducer,sensory rhodopsin transducer,2.466666666666667
+GCF_034638195.1,NZ_CP140968.1,sensory rhodopsin transducer,sensory rhodopsin transducer,1.4025974025974026
+GCF_034638195.1,NZ_CP140968.1,"phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN","phosphonate metabolism protein/1,5-bisphosphokinase (prpp-forming) phnn",2.0428571428571427
+GCF_035184745.2,NZ_CP144128.1,lipoprotein,lipoprotein,3.0
+GCF_035610345.1,NZ_CP141213.1,"phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN","phosphonate metabolism protein/1,5-bisphosphokinase (prpp-forming) phnn",2.4705882352941178
+GCF_036228565.1,NZ_CP109493.1,type III effector protein,type iii effector protein,1.7500000000000002
+GCF_036254055.1,NZ_CP141217.1,lipoprotein,lipoprotein,2.0
+GCF_036287375.2,NZ_CP142985.1,lipoprotein,lipoprotein,3.0
+GCF_036289205.1,NZ_CP137200.1,crAss001_48 related protein,crass001_48 related protein,2.0
+GCF_036289205.1,NZ_CP137200.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,2.0
+GCF_036289205.1,NZ_CP137200.1,lipoprotein,lipoprotein,2.0
+GCF_036352215.1,NZ_CP143580.1,lipoprotein,lipoprotein,1.033321017496282
+GCF_036497865.1,NZ_AP027577.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,2.0
+GCF_036503025.1,NZ_AP027746.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,2.0
+GCF_036511175.1,NZ_AP028855.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,1.0952380952380951
+GCF_036512675.1,NZ_AP028969.1,lipoprotein,lipoprotein,0.9380952380952382
+GCF_036866085.1,NZ_CP142295.1,hemagglutinin repeat-containing protein,hemagglutinin repeat-containing protein,1.4482758620689655
+GCF_037024855.1,NZ_CP146193.1,lipoprotein,lipoprotein,1.0
+GCF_037071415.1,NZ_CP143488.1,DUF4116 domain-containing protein,duf4116 domain-containing protein,1.045191682910981
+GCF_037071415.1,NZ_CP143488.1,DUF4116 domain-containing protein,duf4116 domain-containing protein,1.046087180220307
+GCF_037101255.1,NZ_AP028998.1,hemagglutinin repeat-containing protein,hemagglutinin repeat-containing protein,2.149732620320856
+GCF_037101255.1,NZ_AP028998.1,"phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN","phosphonate metabolism protein/1,5-bisphosphokinase (prpp-forming) phnn",1.6071428571428572
+GCF_037101255.1,NZ_AP028998.1,hemagglutinin repeat-containing protein,hemagglutinin repeat-containing protein,1.8053097345132745
+GCF_037482275.1,NZ_CP148090.1,sensory rhodopsin transducer,sensory rhodopsin transducer,1.125
+GCF_037482275.1,NZ_CP148090.1,sensory rhodopsin transducer,sensory rhodopsin transducer,2.7272727272727275
+GCF_037482275.1,NZ_CP148090.1,"phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN","phosphonate metabolism protein/1,5-bisphosphokinase (prpp-forming) phnn",2.8421052631578947
+GCF_037557155.1,NZ_CP148399.1,lipoprotein,lipoprotein,1.2000000000000002
+GCF_037821945.1,NZ_CP149138.1,DUF1382 family protein,duf1382 family protein,2.0
+GCF_037823755.1,NZ_CP149144.1,DUF1382 family protein,duf1382 family protein,2.0
+GCF_037824785.1,NZ_CP149156.1,DUF1382 family protein,duf1382 family protein,2.0
+GCF_037825795.1,NZ_CP149165.1,DUF1382 family protein,duf1382 family protein,2.0
+GCF_037826765.1,NZ_CP149169.1,DUF1382 family protein,duf1382 family protein,2.0
+GCF_037827835.1,NZ_CP149173.1,DUF1382 family protein,duf1382 family protein,2.0
+GCF_037828885.1,NZ_CP149177.1,DUF1382 family protein,duf1382 family protein,2.0
+GCF_037844235.1,NZ_CP149289.1,DUF1382 family protein,duf1382 family protein,2.0
+GCF_037844905.1,NZ_CP149161.1,DUF1382 family protein,duf1382 family protein,2.0
+GCF_037911825.1,NZ_CP084075.1,hemagglutinin repeat-containing protein,hemagglutinin repeat-containing protein,1.3436701705441338
+GCF_037911825.1,NZ_CP084075.1,lipoprotein,lipoprotein,1.060484114650781
+GCF_037920625.1,NZ_CP148584.1,lipoprotein,lipoprotein,1.2000000000000002
+GCF_038418305.1,NZ_CP157757.1,lipoprotein,lipoprotein,1.4285714285714286
+GCF_038418305.1,NZ_CP157758.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,1.1304347826086956
+GCF_038430245.1,NZ_CP131909.1,lipoprotein,lipoprotein,3.0
+GCF_038561975.1,NZ_CP151871.1,lipoprotein,lipoprotein,0.9184523809523808
+GCF_039653445.1,NZ_CP166445.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,2.0
+GCF_039692545.1,NZ_CP155589.1,type III effector protein,type iii effector protein,3.6
+GCF_039692545.1,NZ_CP155589.1,type III effector protein,type iii effector protein,3.4029850746268657
+GCF_039692545.1,NZ_CP155589.1,hemagglutinin repeat-containing protein,hemagglutinin repeat-containing protein,3.903930131004367
+GCF_039692545.1,NZ_CP155589.1,lipoprotein,lipoprotein,4.965517241379311
+GCF_039692545.1,NZ_CP155589.1,hemagglutinin repeat-containing protein,hemagglutinin repeat-containing protein,4.076335877862596
+GCF_039692545.1,NZ_CP155589.1,hemagglutinin repeat-containing protein,hemagglutinin repeat-containing protein,5.571428571428572
+GCF_039692545.1,NZ_CP155589.1,hemagglutinin repeat-containing protein,hemagglutinin repeat-containing protein,2.0
+GCF_039692545.1,NZ_CP155589.1,type III effector protein,type iii effector protein,3.984375
+GCF_039692545.1,NZ_CP155589.1,type III effector protein,type iii effector protein,3.096774193548387
+GCF_039692545.1,NZ_CP155589.1,type III effector protein,type iii effector protein,4.250000000000001
+GCF_039692545.1,NZ_CP155589.1,lipoprotein,lipoprotein,3.454545454545455
+GCF_039692545.1,NZ_CP155589.1,type III effector protein,type iii effector protein,3.193548387096774
+GCF_039692545.1,NZ_CP155589.1,type III effector protein,type iii effector protein,3.0
+GCF_039692545.1,NZ_CP155589.1,type III effector protein,type iii effector protein,1.4285714285714286
+GCF_039693335.1,NZ_CP155592.1,type III effector protein,type iii effector protein,3.6
+GCF_039693335.1,NZ_CP155592.1,type III effector protein,type iii effector protein,3.026548672566372
+GCF_039693335.1,NZ_CP155592.1,type III effector protein,type iii effector protein,3.4029850746268657
+GCF_039693335.1,NZ_CP155592.1,hemagglutinin repeat-containing protein,hemagglutinin repeat-containing protein,3.903930131004367
+GCF_039693335.1,NZ_CP155592.1,lipoprotein,lipoprotein,4.965517241379311
+GCF_039693335.1,NZ_CP155592.1,hemagglutinin repeat-containing protein,hemagglutinin repeat-containing protein,4.076335877862596
+GCF_039693335.1,NZ_CP155592.1,hemagglutinin repeat-containing protein,hemagglutinin repeat-containing protein,5.571428571428572
+GCF_039693335.1,NZ_CP155592.1,hemagglutinin repeat-containing protein,hemagglutinin repeat-containing protein,2.0
+GCF_039693335.1,NZ_CP155592.1,type III effector protein,type iii effector protein,3.984375
+GCF_039693335.1,NZ_CP155592.1,type III effector protein,type iii effector protein,4.250000000000001
+GCF_039693335.1,NZ_CP155592.1,lipoprotein,lipoprotein,3.454545454545455
+GCF_039693335.1,NZ_CP155592.1,type III effector protein,type iii effector protein,3.193548387096774
+GCF_039693335.1,NZ_CP155592.1,type III effector protein,type iii effector protein,3.0
+GCF_039693335.1,NZ_CP155592.1,type III effector protein,type iii effector protein,1.4285714285714286
+GCF_039725815.1,NZ_CP065205.1,DUF1382 family protein,duf1382 family protein,2.0
+GCF_039734745.1,NZ_CP166159.1,lipoprotein,lipoprotein,2.0
+GCF_040267575.1,NZ_CP158355.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,1.0952380952380951
+GCF_040436815.1,NZ_CP159151.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,1.0952380952380951
+GCF_040687985.1,NZ_CP159929.1,lipoprotein,lipoprotein,2.0
+GCF_040703095.1,NZ_CP160038.1,lipoprotein,lipoprotein,3.0
+GCF_041004185.1,NZ_CP163035.1,lipoprotein,lipoprotein,2.0
+GCF_041005335.1,NZ_CP163106.1,lipoprotein,lipoprotein,2.0
+GCF_041005335.1,NZ_CP163106.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,2.0
+GCF_041021885.1,NZ_CP157427.1,lipoprotein,lipoprotein,1.234733893557423
+GCF_041200275.1,NZ_CP165761.1,lipoprotein,lipoprotein,3.0
+GCF_041200285.1,NZ_CP165767.1,lipoprotein,lipoprotein,3.0
+GCF_041221905.1,NZ_CP165928.1,lipoprotein,lipoprotein,2.0
+GCF_041228115.3,NZ_CP166103.2,type III effector protein,type iii effector protein,1.237609612716477
+GCF_041228115.3,NZ_CP166103.2,type III effector protein,type iii effector protein,1.3498301414492195
+GCF_041228115.3,NZ_CP166103.2,type III effector protein,type iii effector protein,1.323490491271356
+GCF_041283535.1,NZ_CP166309.1,lipoprotein,lipoprotein,3.0
+GCF_041283545.1,NZ_CP166319.1,lipoprotein,lipoprotein,3.0
+GCF_041283575.1,NZ_CP166327.1,lipoprotein,lipoprotein,3.0
+GCF_041283585.1,NZ_CP166330.1,lipoprotein,lipoprotein,2.0
+GCF_041320055.1,NZ_CP100937.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,2.0
+GCF_041320055.1,NZ_CP100937.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,2.0
+GCF_041320125.1,NZ_CP100965.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,2.0
+GCF_041320135.1,NZ_CP100967.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,2.0
+GCF_041320625.1,NZ_CP166706.1,lipoprotein,lipoprotein,2.0
+GCF_041344915.1,NZ_CP166762.1,lipoprotein,lipoprotein,3.0
+GCF_041378885.1,NZ_CP166902.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,0.8374116318464144
+GCF_041378885.1,NZ_CP166902.1,lipoprotein,lipoprotein,2.0104761904761905
+GCF_041378905.1,NZ_CP166884.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,1.56
+GCF_041378905.1,NZ_CP166884.1,lipoprotein,lipoprotein,1.6666666666666663
+GCF_041378915.1,NZ_CP166889.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,2.0
+GCF_041378915.1,NZ_CP166889.1,lipoprotein,lipoprotein,2.0
+GCF_041378925.1,NZ_CP166893.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,2.0
+GCF_041378925.1,NZ_CP166893.1,lipoprotein,lipoprotein,2.0
+GCF_041410215.1,NZ_CP166977.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,2.0
+GCF_041410215.1,NZ_CP166977.1,lipoprotein,lipoprotein,2.0
+GCF_041411315.1,NZ_CP087508.1,lipoprotein,lipoprotein,1.0774603174603177
+GCF_041411315.1,NZ_CP087508.1,lipoprotein,lipoprotein,0.9589255601639504
+GCF_041411315.1,NZ_CP087508.1,lipoprotein,lipoprotein,0.9104363477765012
+GCF_041411315.1,NZ_CP087508.1,lipoprotein,lipoprotein,1.1325234561635922
+GCF_041411315.1,NZ_CP087508.1,lipoprotein,lipoprotein,1.1824589762089763
+GCF_041411325.1,NZ_CP087512.1,lipoprotein,lipoprotein,1.1824589762089763
+GCF_041411325.1,NZ_CP087512.1,lipoprotein,lipoprotein,1.1325234561635922
+GCF_041411325.1,NZ_CP087512.1,lipoprotein,lipoprotein,0.9104363477765012
+GCF_041411325.1,NZ_CP087512.1,lipoprotein,lipoprotein,0.9589255601639504
+GCF_041411325.1,NZ_CP087512.1,lipoprotein,lipoprotein,1.0774603174603177
+GCF_041514435.1,NZ_CP167950.1,lipoprotein,lipoprotein,3.0
+GCF_041514545.1,NZ_CP167956.1,lipoprotein,lipoprotein,3.0
+GCF_041514655.1,NZ_CP167960.1,lipoprotein,lipoprotein,3.0
+GCF_041714685.1,NZ_CP168236.1,type III effector protein,type iii effector protein,3.6
+GCF_041714685.1,NZ_CP168236.1,type III effector protein,type iii effector protein,3.4029850746268657
+GCF_041714685.1,NZ_CP168236.1,hemagglutinin repeat-containing protein,hemagglutinin repeat-containing protein,3.903930131004367
+GCF_041714685.1,NZ_CP168236.1,lipoprotein,lipoprotein,4.965517241379311
+GCF_041714685.1,NZ_CP168236.1,hemagglutinin repeat-containing protein,hemagglutinin repeat-containing protein,4.076335877862596
+GCF_041714685.1,NZ_CP168236.1,hemagglutinin repeat-containing protein,hemagglutinin repeat-containing protein,5.571428571428572
+GCF_041714685.1,NZ_CP168236.1,type III effector protein,type iii effector protein,3.984375
+GCF_041714685.1,NZ_CP168236.1,type III effector protein,type iii effector protein,4.250000000000001
+GCF_041714685.1,NZ_CP168236.1,lipoprotein,lipoprotein,3.454545454545455
+GCF_041714685.1,NZ_CP168236.1,type III effector protein,type iii effector protein,3.193548387096774
+GCF_041714685.1,NZ_CP168236.1,type III effector protein,type iii effector protein,3.0
+GCF_041714685.1,NZ_CP168236.1,type III effector protein,type iii effector protein,1.4285714285714286
+GCF_041714695.1,NZ_CP168234.1,type III effector protein,type iii effector protein,3.6
+GCF_041714695.1,NZ_CP168234.1,type III effector protein,type iii effector protein,3.0
+GCF_041714695.1,NZ_CP168234.1,type III effector protein,type iii effector protein,3.193548387096774
+GCF_041714695.1,NZ_CP168234.1,lipoprotein,lipoprotein,3.454545454545455
+GCF_041714695.1,NZ_CP168234.1,type III effector protein,type iii effector protein,4.250000000000001
+GCF_041714695.1,NZ_CP168234.1,type III effector protein,type iii effector protein,3.984375
+GCF_041714695.1,NZ_CP168234.1,hemagglutinin repeat-containing protein,hemagglutinin repeat-containing protein,5.571428571428572
+GCF_041714695.1,NZ_CP168234.1,hemagglutinin repeat-containing protein,hemagglutinin repeat-containing protein,4.076335877862596
+GCF_041714695.1,NZ_CP168234.1,lipoprotein,lipoprotein,4.965517241379311
+GCF_041714695.1,NZ_CP168234.1,hemagglutinin repeat-containing protein,hemagglutinin repeat-containing protein,3.903930131004367
+GCF_041714695.1,NZ_CP168234.1,type III effector protein,type iii effector protein,3.52
+GCF_041714695.1,NZ_CP168234.1,type III effector protein,type iii effector protein,3.4029850746268657
+GCF_041714695.1,NZ_CP168234.1,type III effector protein,type iii effector protein,1.4285714285714286
+GCF_041714705.1,NZ_CP168245.1,type III effector protein,type iii effector protein,3.6
+GCF_041714705.1,NZ_CP168245.1,type III effector protein,type iii effector protein,3.2727272727272725
+GCF_041714705.1,NZ_CP168245.1,type III effector protein,type iii effector protein,3.4029850746268657
+GCF_041714705.1,NZ_CP168245.1,hemagglutinin repeat-containing protein,hemagglutinin repeat-containing protein,3.903930131004367
+GCF_041714705.1,NZ_CP168245.1,lipoprotein,lipoprotein,4.965517241379311
+GCF_041714705.1,NZ_CP168245.1,hemagglutinin repeat-containing protein,hemagglutinin repeat-containing protein,4.076335877862596
+GCF_041714705.1,NZ_CP168245.1,hemagglutinin repeat-containing protein,hemagglutinin repeat-containing protein,5.571428571428572
+GCF_041714705.1,NZ_CP168245.1,type III effector protein,type iii effector protein,3.984375
+GCF_041714705.1,NZ_CP168245.1,type III effector protein,type iii effector protein,4.250000000000001
+GCF_041714705.1,NZ_CP168245.1,lipoprotein,lipoprotein,3.454545454545455
+GCF_041714705.1,NZ_CP168245.1,type III effector protein,type iii effector protein,3.193548387096774
+GCF_041714705.1,NZ_CP168245.1,type III effector protein,type iii effector protein,3.0
+GCF_041714705.1,NZ_CP168245.1,type III effector protein,type iii effector protein,1.4285714285714286
+GCF_041714715.1,NZ_CP168239.1,type III effector protein,type iii effector protein,3.6
+GCF_041714715.1,NZ_CP168239.1,type III effector protein,type iii effector protein,3.4029850746268657
+GCF_041714715.1,NZ_CP168239.1,type III effector protein,type iii effector protein,3.52
+GCF_041714715.1,NZ_CP168239.1,hemagglutinin repeat-containing protein,hemagglutinin repeat-containing protein,3.903930131004367
+GCF_041714715.1,NZ_CP168239.1,lipoprotein,lipoprotein,4.965517241379311
+GCF_041714715.1,NZ_CP168239.1,hemagglutinin repeat-containing protein,hemagglutinin repeat-containing protein,4.076335877862596
+GCF_041714715.1,NZ_CP168239.1,hemagglutinin repeat-containing protein,hemagglutinin repeat-containing protein,5.571428571428572
+GCF_041714715.1,NZ_CP168239.1,type III effector protein,type iii effector protein,3.984375
+GCF_041714715.1,NZ_CP168239.1,type III effector protein,type iii effector protein,4.250000000000001
+GCF_041714715.1,NZ_CP168239.1,lipoprotein,lipoprotein,3.454545454545455
+GCF_041714715.1,NZ_CP168239.1,type III effector protein,type iii effector protein,3.193548387096774
+GCF_041714715.1,NZ_CP168239.1,type III effector protein,type iii effector protein,3.0
+GCF_041714715.1,NZ_CP168239.1,type III effector protein,type iii effector protein,1.4285714285714286
+GCF_041714725.1,NZ_CP168243.1,type III effector protein,type iii effector protein,3.6
+GCF_041714725.1,NZ_CP168243.1,type III effector protein,type iii effector protein,3.4029850746268657
+GCF_041714725.1,NZ_CP168243.1,type III effector protein,type iii effector protein,3.52
+GCF_041714725.1,NZ_CP168243.1,hemagglutinin repeat-containing protein,hemagglutinin repeat-containing protein,3.903930131004367
+GCF_041714725.1,NZ_CP168243.1,hemagglutinin repeat-containing protein,hemagglutinin repeat-containing protein,4.076335877862596
+GCF_041714725.1,NZ_CP168243.1,hemagglutinin repeat-containing protein,hemagglutinin repeat-containing protein,5.571428571428572
+GCF_041714725.1,NZ_CP168243.1,type III effector protein,type iii effector protein,3.984375
+GCF_041714725.1,NZ_CP168243.1,type III effector protein,type iii effector protein,4.250000000000001
+GCF_041714725.1,NZ_CP168243.1,lipoprotein,lipoprotein,3.454545454545455
+GCF_041714725.1,NZ_CP168243.1,type III effector protein,type iii effector protein,3.193548387096774
+GCF_041714725.1,NZ_CP168243.1,type III effector protein,type iii effector protein,3.0
+GCF_041714725.1,NZ_CP168243.1,type III effector protein,type iii effector protein,1.4285714285714286
+GCF_041729625.1,NZ_CP168398.1,"phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN","phosphonate metabolism protein/1,5-bisphosphokinase (prpp-forming) phnn",2.0
+GCF_041860895.1,NZ_CP153599.1,lipoprotein,lipoprotein,3.0
+GCF_041889455.1,NZ_CP139929.1,lipoprotein,lipoprotein,2.0
+GCF_041893525.1,NZ_CP169069.1,tryptophan-rich sensory protein,tryptophan-rich sensory protein,0.0
+GCF_041930365.1,NZ_CP169339.1,lipoprotein,lipoprotein,1.0228710838104005
+GCF_042140285.1,NZ_CP169768.1,lipoprotein,lipoprotein,1.2263257575757571
+GCF_042140285.1,NZ_CP169768.1,hemagglutinin repeat-containing protein,hemagglutinin repeat-containing protein,0.9078201086358192
+GCF_042980585.1,NZ_CP135243.1,sensory rhodopsin transducer,sensory rhodopsin transducer,2.7272727272727275
+GCF_042980585.1,NZ_CP135243.1,sensory rhodopsin transducer,sensory rhodopsin transducer,1.125
+GCF_042980585.1,NZ_CP135243.1,"phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN","phosphonate metabolism protein/1,5-bisphosphokinase (prpp-forming) phnn",2.8421052631578947
+GCF_043099525.1,NZ_CP170855.1,lipoprotein,lipoprotein,0.9272727272727272
+GCF_043521465.1,NZ_CP171367.1,lipoprotein,lipoprotein,2.0
+GCF_043522075.1,NZ_CP171373.1,lipoprotein,lipoprotein,2.0
+GCF_043968025.1,NZ_CP143700.1,lipoprotein,lipoprotein,2.0
+GCF_043968025.1,NZ_CP143700.1,lipoprotein,lipoprotein,0.5714285714285714
+GCF_043968025.1,NZ_CP143700.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,2.0
+GCF_043969345.1,NZ_CP143709.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,2.0
+GCF_043969345.1,NZ_CP143709.1,lipoprotein,lipoprotein,2.0
+GCF_043969365.1,NZ_CP143713.1,lipoprotein,lipoprotein,2.0
+GCF_043970705.1,NZ_CP143730.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,2.0
+GCF_043970705.1,NZ_CP143730.1,lipoprotein,lipoprotein,2.0
+GCF_043972045.1,NZ_CP143742.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,2.0
+GCF_043972045.1,NZ_CP143742.1,lipoprotein,lipoprotein,2.0
+GCF_043974645.1,NZ_CP143762.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,2.0
+GCF_043974645.1,NZ_CP143762.1,lipoprotein,lipoprotein,2.0
+GCF_044324925.1,NZ_CP172219.1,DUF1382 family protein,duf1382 family protein,3.1333333333333333
+GCF_044344005.1,NZ_CP172343.1,lipoprotein,lipoprotein,2.0
+GCF_044793255.1,NZ_CP050248.1,lipoprotein,lipoprotein,2.0
+GCF_044793255.1,NZ_CP050248.1,lipoprotein,lipoprotein,2.0
+GCF_044793965.1,NZ_CP085015.1,lipoprotein,lipoprotein,0.0
+GCF_045037965.1,NZ_CP173615.1,lipoprotein,lipoprotein,0.8571428571428571
+GCF_045037965.1,NZ_CP173615.1,lipoprotein,lipoprotein,0.5454545454545455
+GCF_045040565.1,NZ_CP090653.1,tryptophan-rich sensory protein,tryptophan-rich sensory protein,0.6666666666666666
+GCF_045040595.1,NZ_CP090664.1,tryptophan-rich sensory protein,tryptophan-rich sensory protein,0.6666666666666666
+GCF_045207655.1,NZ_CP108785.1,type III effector protein,type iii effector protein,1.0907335907335909
+GCF_045207655.1,NZ_CP108785.1,type III effector protein,type iii effector protein,0.8142857142857143
+GCF_045287825.1,NZ_CP139126.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,0.8906142167011732
+GCF_045344195.1,NZ_CP149152.1,DUF1382 family protein,duf1382 family protein,2.0
+GCF_045344205.1,NZ_CP149148.1,DUF1382 family protein,duf1382 family protein,2.0
+GCF_046118635.1,NZ_CP176044.1,lipoprotein,lipoprotein,2.0
+GCF_046118685.1,NZ_CP175992.1,lipoprotein,lipoprotein,2.0
+GCF_046531815.1,NZ_CP058582.1,crAss001_48 related protein,crass001_48 related protein,1.8000000000000005
+GCF_046581325.1,NZ_CP142794.1,DUF1382 family protein,duf1382 family protein,3.1333333333333333
+GCF_046581375.1,NZ_CP142400.1,DUF1382 family protein,duf1382 family protein,3.1333333333333333
+GCF_046838385.1,NZ_CP177316.1,"phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN","phosphonate metabolism protein/1,5-bisphosphokinase (prpp-forming) phnn",1.1976190476190474
+GCF_047275775.1,NZ_CP178515.1,"phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN","phosphonate metabolism protein/1,5-bisphosphokinase (prpp-forming) phnn",1.2564814814814815
+GCF_047658125.1,NZ_CP180340.1,lipoprotein,lipoprotein,3.0
+GCF_047658995.1,NZ_CP180334.1,lipoprotein,lipoprotein,3.0
+GCF_047659005.1,NZ_CP180328.1,lipoprotein,lipoprotein,3.0
+GCF_047659015.1,NZ_CP180321.1,lipoprotein,lipoprotein,3.0
+GCF_047715505.1,NZ_CP180395.1,DUF1382 family protein,duf1382 family protein,2.0
+GCF_047716015.1,NZ_CP180401.1,lipoprotein,lipoprotein,3.0
+GCF_047922945.1,NZ_CP181327.1,lipoprotein,lipoprotein,2.0
+GCF_048391065.1,NZ_CP183025.1,lipoprotein,lipoprotein,3.0
+GCF_048541645.1,NZ_CP183354.1,lipoprotein,lipoprotein,1.0
+GCF_048541645.1,NZ_CP183354.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,2.0
+GCF_048565025.1,NZ_CP183388.1,lipoprotein,lipoprotein,3.0
+GCF_048568865.1,NZ_CP183779.1,lipoprotein,lipoprotein,2.0
+GCF_048568885.1,NZ_CP183787.1,lipoprotein,lipoprotein,2.0
+GCF_048568985.1,NZ_CP074792.1,lipoprotein,lipoprotein,0.7380952380952381
+GCF_048568985.1,NZ_CP074794.1,DUF1382 family protein,duf1382 family protein,2.125
+GCF_048572805.1,NZ_CP183852.1,crAss001_48 related protein,crass001_48 related protein,2.0
+GCF_048572805.1,NZ_CP183852.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,2.0
+GCF_048690735.1,NZ_CP127955.1,lipoprotein,lipoprotein,3.0
+GCF_048751875.1,NZ_CP127962.1,lipoprotein,lipoprotein,3.0
+GCF_048754195.1,NZ_CP128044.1,lipoprotein,lipoprotein,3.0
+GCF_048962285.1,NZ_CP185012.1,lipoprotein,lipoprotein,2.0
+GCF_049348255.1,NZ_CP186344.1,lipoprotein,lipoprotein,3.0
+GCF_049390655.1,NZ_CP038041.1,"phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN","phosphonate metabolism protein/1,5-bisphosphokinase (prpp-forming) phnn",0.7272727272727273
+GCF_049391675.1,NZ_CP038089.1,"phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN","phosphonate metabolism protein/1,5-bisphosphokinase (prpp-forming) phnn",0.8701298701298701
+GCF_049392085.1,NZ_CP038094.1,"phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN","phosphonate metabolism protein/1,5-bisphosphokinase (prpp-forming) phnn",0.7272727272727273
+GCF_049532525.1,NZ_CP186632.1,lipoprotein,lipoprotein,1.0149921355871012
+GCF_049532525.1,NZ_CP186632.1,lipoprotein,lipoprotein,1.159834252816709
+GCF_049532525.1,NZ_CP186632.1,lipoprotein,lipoprotein,1.3778675978253274
+GCF_049606955.1,NZ_CP187114.1,lipoprotein,lipoprotein,0.0
+GCF_049942725.1,NZ_CP187835.1,lipoprotein,lipoprotein,0.934205442161934
+GCF_049942725.1,NZ_CP187835.1,lipoprotein,lipoprotein,1.007935891269225
+GCF_049949245.1,NZ_CP188123.1,hemagglutinin repeat-containing protein,hemagglutinin repeat-containing protein,0.8807327132290316
+GCF_049949255.1,NZ_CP188103.1,lipoprotein,lipoprotein,1.0
+GCF_050263195.1,NZ_CP189878.1,DUF1382 family protein,duf1382 family protein,2.0
+GCF_050320085.1,NZ_CP190037.1,class 1 integron integrase IntI1,class 1 integron integrase inti1,1.0952380952380951
+GCF_900637865.1,NZ_LR134420.1,lipoprotein,lipoprotein,1.068323996265173
+GCF_900660545.1,NZ_LR214986.1,DUF4116 domain-containing protein,duf4116 domain-containing protein,0.7916014037743104
+GCF_900660545.1,NZ_LR214986.1,DUF4116 domain-containing protein,duf4116 domain-containing protein,0.9527110443777111
+GCF_900660545.1,NZ_LR214986.1,DUF4116 domain-containing protein,duf4116 domain-containing protein,0.686076694019062
+GCF_900660545.1,NZ_LR214986.1,DUF4116 domain-containing protein,duf4116 domain-containing protein,0.8313068853651632
+GCF_900660545.1,NZ_LR214986.1,DUF4116 domain-containing protein,duf4116 domain-containing protein,0.7945400280058481
+GCF_900660545.1,NZ_LR214986.1,DUF4116 domain-containing protein,duf4116 domain-containing protein,0.8049457389319564
+GCF_900660545.1,NZ_LR214986.1,DUF4116 domain-containing protein,duf4116 domain-containing protein,1.147359712305295
+GCF_901846895.1,NZ_LR594691.1,DUF4116 domain-containing protein,duf4116 domain-containing protein,1.4201318742985412
+GCF_904863075.1,NZ_LR890237.1,lipoprotein,lipoprotein,1.0
+GCF_904863135.1,NZ_LR890257.1,lipoprotein,lipoprotein,2.0
+GCF_904863215.1,NZ_LR890206.1,DUF1382 family protein,duf1382 family protein,2.0
+GCF_904863255.1,NZ_LR890336.1,DUF1382 family protein,duf1382 family protein,1.3333333333333333
+GCF_904863435.1,NZ_LR890293.1,lipoprotein,lipoprotein,2.0
+GCF_904864465.1,NZ_LR890429.1,lipoprotein,lipoprotein,2.0
+GCF_904865715.1,NZ_LR890503.1,lipoprotein,lipoprotein,2.0
+GCF_904865815.1,NZ_LR890518.1,lipoprotein,lipoprotein,2.0
+GCF_904866325.1,NZ_LR890635.1,lipoprotein,lipoprotein,2.0
+GCF_904866445.1,NZ_LR890705.1,lipoprotein,lipoprotein,2.0
+GCF_904866485.1,NZ_LR890724.1,DUF1382 family protein,duf1382 family protein,2.0
+GCF_946966015.1,NZ_OX337254.1,lipoprotein,lipoprotein,2.0
+GCF_963575375.1,NZ_OY754373.1,DUF1382 family protein,duf1382 family protein,3.1333333333333333
+GCF_964026365.1,NZ_OZ032137.1,sensory rhodopsin transducer,sensory rhodopsin transducer,1.6190476190476193
+GCF_964261745.1,NZ_OZ180036.1,"phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN","phosphonate metabolism protein/1,5-bisphosphokinase (prpp-forming) phnn",1.4350877192982456
+GCF_964261745.1,NZ_OZ180040.1,sensory rhodopsin transducer,sensory rhodopsin transducer,1.478095238095238
+GCF_964261745.1,NZ_OZ180037.1,hemagglutinin repeat-containing protein,hemagglutinin repeat-containing protein,1.850570683299132

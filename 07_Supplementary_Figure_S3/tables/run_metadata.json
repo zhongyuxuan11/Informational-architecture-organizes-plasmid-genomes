@@ -1,0 +1,35 @@
+{
+  "class_weight": "recomputed from the corresponding classification training subset",
+  "classification": "target-specific stratified three repeated 80:20 holdouts",
+  "feature_importance": "outer-training gain normalized to 100 percent per fitted model",
+  "hyperparameter_tuning": false,
+  "regression": "target-type-positive plasmids only with raw copy number",
+  "seeds": [
+    42,
+    43,
+    44
+  ],
+  "targets": [
+    "tRNA-Ala",
+    "tRNA-Arg",
+    "tRNA-Asn",
+    "tRNA-Asp",
+    "tRNA-Cys",
+    "tRNA-Gln",
+    "tRNA-Glu",
+    "tRNA-Gly",
+    "tRNA-His",
+    "tRNA-Ile",
+    "tRNA-Leu",
+    "tRNA-Lys",
+    "tRNA-Met",
+    "tRNA-Phe",
+    "tRNA-Pro",
+    "tRNA-Sec",
+    "tRNA-Ser",
+    "tRNA-Thr",
+    "tRNA-Trp",
+    "tRNA-Tyr",
+    "tRNA-Val"
+  ]
+}

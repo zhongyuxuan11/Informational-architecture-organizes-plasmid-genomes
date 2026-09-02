@@ -1,0 +1,101 @@
+target,task,Product_Key,Product,normalized_gain_pct
+tRNA-Ala,classification,5s ribosomal rna,5S ribosomal RNA,37.18165304883593
+tRNA-Ala,classification,16s ribosomal rna,16S ribosomal RNA,18.447244781266097
+tRNA-Ala,classification,atp-binding protein,ATP-binding protein,6.265044395061004
+tRNA-Ala,classification,nad-dependent dna ligase liga,NAD-dependent DNA ligase LigA,3.207773487451179
+tRNA-Ala,classification,hnh endonuclease,HNH endonuclease,2.8794053041206875
+tRNA-Arg,classification,metallophosphoesterase,Metallophosphoesterase,15.214657337237377
+tRNA-Arg,classification,5s ribosomal rna,5S ribosomal RNA,9.696744148744328
+tRNA-Arg,classification,16s ribosomal rna,16S ribosomal RNA,4.3282729930824475
+tRNA-Arg,classification,mfs transporter,MFS transporter,3.223468153951424
+tRNA-Arg,classification,gnat family n-acetyltransferase,GNAT family N-acetyltransferase,3.1740578788323504
+tRNA-Asn,classification,phage tail protein,Phage tail protein,24.454843191838346
+tRNA-Asn,classification,aaa family atpase,AAA family ATPase,14.608201158470147
+tRNA-Asn,classification,5s ribosomal rna,5S ribosomal RNA,5.9846167471904606
+tRNA-Asn,classification,dnab-like helicase c-terminal domain-containing protein,DnaB-like helicase C-terminal domain-containing protein,4.8360368897298445
+tRNA-Asn,classification,vrr-nuc domain-containing protein,VRR-NUC domain-containing protein,3.9278098895362477
+tRNA-Asp,classification,5s ribosomal rna,5S ribosomal RNA,37.11400894252841
+tRNA-Asp,classification,hnh endonuclease,HNH endonuclease,10.50526799527648
+tRNA-Asp,classification,hd domain-containing protein,HD domain-containing protein,5.601333871351589
+tRNA-Asp,classification,atp-binding protein,ATP-binding protein,5.480827297523363
+tRNA-Asp,classification,thymidine kinase,Thymidine kinase,3.1333806567769487
+tRNA-Cys,classification,helix-turn-helix domain-containing protein,Helix-turn-helix domain-containing protein,17.098489524655708
+tRNA-Cys,classification,5s ribosomal rna,5S ribosomal RNA,7.573218200118347
+tRNA-Cys,classification,16s ribosomal rna,16S ribosomal RNA,7.3401543568275605
+tRNA-Cys,classification,23s ribosomal rna,23S ribosomal RNA,6.545049806489719
+tRNA-Cys,classification,giy-yig nuclease family protein,GIY-YIG nuclease family protein,3.527526276749843
+tRNA-Gln,classification,5s ribosomal rna,5S ribosomal RNA,29.29799020546248
+tRNA-Gln,classification,hd domain-containing protein,HD domain-containing protein,19.169178920820315
+tRNA-Gln,classification,hnh endonuclease,HNH endonuclease,8.809837874638335
+tRNA-Gln,classification,amino acid permease,Amino acid permease,2.7663440553742755
+tRNA-Gln,classification,helix-turn-helix domain-containing protein,Helix-turn-helix domain-containing protein,2.106162527023729
+tRNA-Glu,classification,5s ribosomal rna,5S ribosomal RNA,32.16920779596072
+tRNA-Glu,classification,atp-binding protein,ATP-binding protein,11.063574238581081
+tRNA-Glu,classification,helix-turn-helix domain-containing protein,Helix-turn-helix domain-containing protein,4.772374890480625
+tRNA-Glu,classification,nad-dependent dna ligase liga,NAD-dependent DNA ligase LigA,3.3838091048959273
+tRNA-Glu,classification,para family protein,ParA family protein,2.8692375131429473
+tRNA-Gly,classification,16s ribosomal rna,16S ribosomal RNA,17.05741055965934
+tRNA-Gly,classification,helix-turn-helix domain-containing protein,Helix-turn-helix domain-containing protein,11.563163382661365
+tRNA-Gly,classification,5s ribosomal rna,5S ribosomal RNA,9.025385147338003
+tRNA-Gly,classification,is6-like element is26 family transposase,IS6-like element IS26 family transposase,2.733944116932007
+tRNA-Gly,classification,aaa family atpase,AAA family ATPase,2.1117137233000265
+tRNA-His,classification,5s ribosomal rna,5S ribosomal RNA,19.612488784101682
+tRNA-His,classification,hnh endonuclease,HNH endonuclease,16.6839051974486
+tRNA-His,classification,16s ribosomal rna,16S ribosomal RNA,9.692892486938604
+tRNA-His,classification,aaa family atpase,AAA family ATPase,8.859050492151441
+tRNA-His,classification,atp-dependent clp protease atp-binding subunit clpx,ATP-dependent Clp protease ATP-binding subunit ClpX,3.2839411918150425
+tRNA-Ile,classification,16s ribosomal rna,16S ribosomal RNA,12.018835046263236
+tRNA-Ile,classification,recombination-associated protein rdgc,Recombination-associated protein RdgC,10.064238090841835
+tRNA-Ile,classification,5s ribosomal rna,5S ribosomal RNA,6.271251527735807
+tRNA-Ile,classification,helix-turn-helix domain-containing protein,Helix-turn-helix domain-containing protein,4.631281645926113
+tRNA-Ile,classification,metallophosphoesterase,Metallophosphoesterase,4.597743945259724
+tRNA-Leu,classification,5s ribosomal rna,5S ribosomal RNA,16.83133603016233
+tRNA-Leu,classification,atp-binding protein,ATP-binding protein,12.461258209686497
+tRNA-Leu,classification,16s ribosomal rna,16S ribosomal RNA,8.422992057536524
+tRNA-Leu,classification,response regulator transcription factor,Response regulator transcription factor,6.90374218615102
+tRNA-Leu,classification,helix-turn-helix domain-containing protein,Helix-turn-helix domain-containing protein,2.737249818258918
+tRNA-Lys,classification,16s ribosomal rna,16S ribosomal RNA,20.465307431878724
+tRNA-Lys,classification,atp-binding protein,ATP-binding protein,13.027136360480355
+tRNA-Lys,classification,23s ribosomal rna,23S ribosomal RNA,11.741000760708358
+tRNA-Lys,classification,aminoacyltransferase,Aminoacyltransferase,1.720645948647982
+tRNA-Lys,classification,hnh endonuclease,HNH endonuclease,1.587234568384482
+tRNA-Met,classification,5s ribosomal rna,5S ribosomal RNA,28.75155163878136
+tRNA-Met,classification,atp-binding protein,ATP-binding protein,10.96492973838795
+tRNA-Met,classification,cold-shock protein,Cold-shock protein,10.33796413987409
+tRNA-Met,classification,fad-dependent oxidoreductase,FAD-dependent oxidoreductase,2.6817556049594287
+tRNA-Met,classification,hd domain-containing protein,HD domain-containing protein,2.55699755667631
+tRNA-Phe,classification,atp-binding protein,ATP-binding protein,17.276504596079928
+tRNA-Phe,classification,23s ribosomal rna,23S ribosomal RNA,9.216627509427672
+tRNA-Phe,classification,5s ribosomal rna,5S ribosomal RNA,9.148651418573246
+tRNA-Phe,classification,hnh endonuclease,HNH endonuclease,9.029174143553268
+tRNA-Phe,classification,16s ribosomal rna,16S ribosomal RNA,6.251418894571202
+tRNA-Pro,classification,16s ribosomal rna,16S ribosomal RNA,32.16812112865304
+tRNA-Pro,classification,atp-binding protein,ATP-binding protein,17.330848164051176
+tRNA-Pro,classification,metallophosphoesterase,Metallophosphoesterase,2.001229049917032
+tRNA-Pro,classification,php domain-containing protein,PHP domain-containing protein,1.7306784131035846
+tRNA-Pro,classification,hnh endonuclease domain-containing protein,HNH endonuclease domain-containing protein,1.551373300461578
+tRNA-Ser,classification,phage tail protein,Phage tail protein,19.392034157952224
+tRNA-Ser,classification,5s ribosomal rna,5S ribosomal RNA,14.137550828509726
+tRNA-Ser,classification,thymidylate synthase,Thymidylate synthase,8.760193082596702
+tRNA-Ser,classification,helix-turn-helix domain-containing protein,Helix-turn-helix domain-containing protein,4.565480622577801
+tRNA-Ser,classification,duf968 domain-containing protein,DUF968 domain-containing protein,4.004287229461098
+tRNA-Thr,classification,metallophosphoesterase,Metallophosphoesterase,11.048183572116647
+tRNA-Thr,classification,phage tail protein,Phage tail protein,8.2512786010599
+tRNA-Thr,classification,recombination-associated protein rdgc,Recombination-associated protein RdgC,7.845046035505447
+tRNA-Thr,classification,aaa family atpase,AAA family ATPase,5.133142518347436
+tRNA-Thr,classification,5s ribosomal rna,5S ribosomal RNA,4.74844180544618
+tRNA-Trp,classification,hnh endonuclease,HNH endonuclease,14.927031946325327
+tRNA-Trp,classification,16s ribosomal rna,16S ribosomal RNA,10.713895203390948
+tRNA-Trp,classification,giy-yig nuclease family protein,GIY-YIG nuclease family protein,6.6062504346030755
+tRNA-Trp,classification,5s ribosomal rna,5S ribosomal RNA,4.914355516688225
+tRNA-Trp,classification,nucleoside 2-deoxyribosyltransferase,Nucleoside 2-deoxyribosyltransferase,4.4982560533526295
+tRNA-Tyr,classification,5s ribosomal rna,5S ribosomal RNA,22.905687445099414
+tRNA-Tyr,classification,metallophosphoesterase,Metallophosphoesterase,15.47213934094866
+tRNA-Tyr,classification,phage tail protein,Phage tail protein,6.884210599861941
+tRNA-Tyr,classification,methionine--trna ligase,Methionine--tRNA ligase,4.315028354400039
+tRNA-Tyr,classification,aaa family atpase,AAA family ATPase,3.8914941600668462
+tRNA-Val,classification,16s ribosomal rna,16S ribosomal RNA,20.138913058466017
+tRNA-Val,classification,5s ribosomal rna,5S ribosomal RNA,11.657128708595712
+tRNA-Val,classification,helix-turn-helix domain-containing protein,Helix-turn-helix domain-containing protein,11.09233323979918
+tRNA-Val,classification,gnat family n-acetyltransferase,GNAT family N-acetyltransferase,5.007797360399552
+tRNA-Val,classification,repb family plasmid replication initiator protein,RepB family plasmid replication initiator protein,3.703876943955929

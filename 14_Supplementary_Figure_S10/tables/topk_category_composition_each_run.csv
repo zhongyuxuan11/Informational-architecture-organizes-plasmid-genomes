@@ -1,0 +1,1280 @@
+task,run,K,Category,fraction_pct
+classification,1,5,Enzymes,9.35723108230191
+classification,1,5,Membrane trafficking,11.734284708873146
+classification,1,5,Non-coding RNAs,6.665604209337953
+classification,1,5,Ribosome,6.665604209337953
+classification,1,5,Transporters,23.210787309265147
+classification,1,5,Viral proteins,42.366488480883895
+classification,1,10,CD molecules,1.8562299231521198
+classification,1,10,DNA repair and recombination proteins,1.4279833260945605
+classification,1,10,DNA replication proteins,4.101327796596083
+classification,1,10,Enzymes,14.493626835740967
+classification,1,10,Membrane trafficking,8.925150880063207
+classification,1,10,Non-coding RNAs,8.016545315757192
+classification,1,10,Peptidases and inhibitors,1.4279833260945605
+classification,1,10,Polyketide biosynthesis proteins,1.8562299231521198
+classification,1,10,Ribosome,8.016545315757192
+classification,1,10,Transporters,17.654231503655197
+classification,1,10,Viral proteins,32.224145853936804
+classification,1,20,CD molecules,1.433566420981166
+classification,1,20,Chromosome and associated proteins,0.8571638026813362
+classification,1,20,DNA repair and recombination proteins,4.4349473624895275
+classification,1,20,DNA replication proteins,3.7699471022091764
+classification,1,20,Enzymes,13.067833307582658
+classification,1,20,IS elements/Transposase,2.584357442187096
+classification,1,20,Membrane trafficking,6.892894271482212
+classification,1,20,Non-coding RNAs,7.36313409278628
+classification,1,20,Peptidases and inhibitors,1.1028315622312042
+classification,1,20,Polyketide biosynthesis proteins,1.433566420981166
+classification,1,20,Protein kinases,1.2719133700610812
+classification,1,20,Ribosome,7.36313409278628
+classification,1,20,Transcription factors,2.187796188211554
+classification,1,20,Transporters,15.71716837012056
+classification,1,20,Viral proteins,27.776657151127953
+classification,1,20,nan,2.743089042080746
+classification,1,50,Amino acid related enzymes,0.20338255014147266
+classification,1,50,CD molecules,1.1197100533621334
+classification,1,50,Chaperones and folding catalysts,0.3672641428648729
+classification,1,50,Chromosome and associated proteins,0.6695015404891501
+classification,1,50,Cilium and associated proteins,0.3672641428648729
+classification,1,50,DNA repair and recombination proteins,5.830548427316699
+classification,1,50,DNA replication proteins,5.106435136510008
+classification,1,50,Enzymes,14.770828052177789
+classification,1,50,IS elements/Transposase,3.0806360550979197
+classification,1,50,Membrane trafficking,7.984304505532778
+classification,1,50,Non-coding RNAs,5.751094017885471
+classification,1,50,Peptidases and inhibitors,1.1098906026567215
+classification,1,50,Polyketide biosynthesis proteins,1.671256659776619
+classification,1,50,Protein kinases,0.9934483443664691
+classification,1,50,Protein of unknown functions,1.1779894914035751
+classification,1,50,Ribosome,5.751094017885471
+classification,1,50,Ribosome biogenesis,0.28044279459522603
+classification,1,50,Secretion system,0.28730383696660766
+classification,1,50,Spliceosome,0.28044279459522603
+classification,1,50,Transcription factors,3.456908199085193
+classification,1,50,Transporters,12.650618276093745
+classification,1,50,Viral proteins,21.695403718806674
+classification,1,50,nan,5.394232639525289
+classification,1,100,Amino acid related enzymes,0.17172257901834564
+classification,1,100,Bacterial toxins,0.18335416131709578
+classification,1,100,CD molecules,0.9454080400819321
+classification,1,100,Chaperones and folding catalysts,0.44944775553930827
+classification,1,100,Chromosome and associated proteins,0.5652821793687818
+classification,1,100,Cilium and associated proteins,0.31009319998125895
+classification,1,100,DNA repair and recombination proteins,5.088226272115285
+classification,1,100,DNA replication proteins,5.489476788979364
+classification,1,100,Enzymes,16.57222869755675
+classification,1,100,Exosome,0.08331477449386097
+classification,1,100,IS elements/Transposase,3.8910549191797315
+classification,1,100,Membrane trafficking,9.970287861247845
+classification,1,100,Messenger RNA biogenesis,0.0643667084741419
+classification,1,100,Mitochondrial biogenesis,0.1396274298586863
+classification,1,100,Non-coding RNAs,4.85583790861755
+classification,1,100,Peptidases and inhibitors,1.548716350113836
+classification,1,100,Polyketide biosynthesis proteins,1.729811704402496
+classification,1,100,Prokaryotic defense system,0.34865655262882417
+classification,1,100,Protein kinases,0.8388011247643823
+classification,1,100,Protein of unknown functions,0.994615287199518
+classification,1,100,Protein phosphatases and associated proteins,0.13282349740671565
+classification,1,100,Ribosome,4.85583790861755
+classification,1,100,Ribosome biogenesis,0.301153787412357
+classification,1,100,Secretion system,0.5027930595511456
+classification,1,100,Spliceosome,0.23678707893821507
+classification,1,100,Transcription factors,3.169125756960036
+classification,1,100,Transcription machinery,0.15392908031085076
+classification,1,100,Transfer RNA biogenesis,0.0643667084741419
+classification,1,100,Translation factors,0.1396274298586863
+classification,1,100,Transporters,10.681333256153584
+classification,1,100,Unknown,0.272454887109388
+classification,1,100,Viral proteins,18.31814320769492
+classification,1,100,nan,6.931294046573427
+classification,1,200,Amino acid related enzymes,0.14642097454257869
+classification,1,200,Antimicrobial resistance genes,0.2624065571307749
+classification,1,200,Bacterial motility proteins,0.16372643927088873
+classification,1,200,Bacterial toxins,0.5625729586945635
+classification,1,200,CD molecules,1.1505050538113182
+classification,1,200,Chaperones and folding catalysts,0.5670720808258325
+classification,1,200,Chromosome and associated proteins,0.9788338898630751
+classification,1,200,Cilium and associated proteins,0.26440406846808434
+classification,1,200,Cytochrome,0.12781920725177734
+classification,1,200,DNA repair and recombination proteins,4.730163441885861
+classification,1,200,DNA replication proteins,5.368400751358833
+classification,1,200,Enzymes,16.173216409736224
+classification,1,200,Exosome,0.11015781771103127
+classification,1,200,Glycosyltransferases,0.05309117580524825
+classification,1,200,IS elements/Transposase,4.281750134662886
+classification,1,200,Lipid biosynthesis proteins,0.044428777366892845
+classification,1,200,Lipopolysaccharide biosynthesis proteins,0.051495793469654265
+classification,1,200,Membrane trafficking,10.612391467402865
+classification,1,200,Messenger RNA biogenesis,0.23162160101209217
+classification,1,200,Mitochondrial biogenesis,0.19063698339420848
+classification,1,200,Non-coding RNAs,4.140378760119955
+classification,1,200,Peptidases and inhibitors,1.4509720706386962
+classification,1,200,Peptidoglycan biosynthesis and degradation proteins,0.04080138525613315
+classification,1,200,Polyketide biosynthesis proteins,1.8203704553291342
+classification,1,200,Prokaryotic defense system,0.7035196959753738
+classification,1,200,Protein kinases,0.7628015877795428
+classification,1,200,Protein of unknown functions,0.9898590092042563
+classification,1,200,Protein phosphatases and associated proteins,0.16188902591964574
+classification,1,200,Ribosome,4.140378760119955
+classification,1,200,Ribosome biogenesis,0.28859258486345
+classification,1,200,Secretion system,0.8639511837880076
+classification,1,200,Spliceosome,0.24948829035479952
+classification,1,200,Transcription factors,3.537380763950346
+classification,1,200,Transcription machinery,0.13124916990182042
+classification,1,200,Transfer RNA biogenesis,0.0866937136991636
+classification,1,200,Translation factors,0.19063698339420848
+classification,1,200,Transporters,10.019222307849502
+classification,1,200,Unknown,0.23231138454531916
+classification,1,200,Viral proteins,15.924187917962405
+classification,1,200,nan,8.194199365683595
+classification,1,500,Amino acid related enzymes,0.1391323147122878
+classification,1,500,Antimicrobial resistance genes,0.3768883661793659
+classification,1,500,Bacterial motility proteins,0.3831179411463372
+classification,1,500,Bacterial toxins,1.0122505202559946
+classification,1,500,CD molecules,1.1771169032761626
+classification,1,500,Chaperones and folding catalysts,0.6820216929563624
+classification,1,500,Chromosome and associated proteins,0.9378966922679137
+classification,1,500,Cilium and associated proteins,0.2161021177184013
+classification,1,500,Cytochrome,0.10446889691309917
+classification,1,500,DNA repair and recombination proteins,4.838875034045687
+classification,1,500,DNA replication proteins,4.516778744691351
+classification,1,500,Enzymes,17.392009571586367
+classification,1,500,Exosome,0.11241557711209786
+classification,1,500,Glycosaminoglycan binding proteins,0.0338862689288309
+classification,1,500,Glycosylphosphatidylinositol (GPI)-anchored proteins,0.022907420660403063
+classification,1,500,Glycosyltransferases,0.11626464711122239
+classification,1,500,IS elements/Transposase,4.176480144012353
+classification,1,500,Lipid biosynthesis proteins,0.061202122584043665
+classification,1,500,Lipopolysaccharide biosynthesis proteins,0.08882387319052731
+classification,1,500,Membrane trafficking,11.887892430997907
+classification,1,500,Messenger RNA biogenesis,0.18930842773352266
+classification,1,500,Mitochondrial biogenesis,0.19776709836560924
+classification,1,500,Non-coding RNAs,3.384004729587637
+classification,1,500,Peptidases and inhibitors,1.5161865240528838
+classification,1,500,Peptidoglycan biosynthesis and degradation proteins,0.07108711637353841
+classification,1,500,Polyketide biosynthesis proteins,1.9284838208589108
+classification,1,500,Prokaryotic defense system,1.2443680225816567
+classification,1,500,Protein kinases,0.6879893818039162
+classification,1,500,Protein of unknown functions,1.2511714547574275
+classification,1,500,Protein phosphatases and associated proteins,0.150259123387861
+classification,1,500,Ribosome,3.384004729587637
+classification,1,500,Ribosome biogenesis,0.3046710302136408
+classification,1,500,Secretion system,1.4008863155776554
+classification,1,500,Spliceosome,0.20391118867417704
+classification,1,500,Transcription factors,3.564409837825123
+classification,1,500,Transcription machinery,0.10727226600141863
+classification,1,500,Transfer RNA biogenesis,0.09463440171122296
+classification,1,500,Translation factors,0.1558109754725993
+classification,1,500,Transporters,8.696364592164496
+classification,1,500,Unknown,0.18987220000511168
+classification,1,500,Viral proteins,13.433249261147838
+classification,1,500,nan,9.567756221769391
+classification,1,1000,Amino acid related enzymes,0.14264418200873558
+classification,1,1000,Antimicrobial resistance genes,0.34947472934379864
+classification,1,1000,Bacterial motility proteins,0.45696671896835594
+classification,1,1000,Bacterial toxins,1.0081115220540315
+classification,1,1000,CD molecules,1.2117297255062718
+classification,1,1000,Chaperones and folding catalysts,0.7359949666314203
+classification,1,1000,Chromosome and associated proteins,0.8625654217769867
+classification,1,1000,Cilium and associated proteins,0.1996149170755051
+classification,1,1000,Cytochrome,0.13534709097276304
+classification,1,1000,Cytokines and growth factors,0.006135336070722531
+classification,1,1000,Cytoskeleton proteins,0.015088170124586924
+classification,1,1000,DNA repair and recombination proteins,4.582737685445243
+classification,1,1000,DNA replication proteins,4.228807375189578
+classification,1,1000,Enzymes,18.199871334778
+classification,1,1000,Exosome,0.18589645927320328
+classification,1,1000,G protein-coupled receptors,0.005301574439025856
+classification,1,1000,Glycosaminoglycan binding proteins,0.03622053510168406
+classification,1,1000,Glycosylphosphatidylinositol (GPI)-anchored proteins,0.034792822085098596
+classification,1,1000,Glycosyltransferases,0.11419008063345097
+classification,1,1000,IS elements/Transposase,3.99052805049133
+classification,1,1000,Lipid biosynthesis proteins,0.059943011379772496
+classification,1,1000,Lipopolysaccharide biosynthesis proteins,0.0976173001079487
+classification,1,1000,Membrane trafficking,12.907550109188039
+classification,1,1000,Messenger RNA biogenesis,0.1734268697631267
+classification,1,1000,Metal Tolerance,0.0948352920374974
+classification,1,1000,Mitochondrial biogenesis,0.20117486730219442
+classification,1,1000,Non-coding RNAs,3.0044162142837507
+classification,1,1000,Peptidases and inhibitors,1.5887496514622597
+classification,1,1000,Peptidoglycan biosynthesis and degradation proteins,0.10492396560696074
+classification,1,1000,Photosynthesis proteins,0.016190608971622833
+classification,1,1000,Polyketide biosynthesis proteins,2.1519045268396058
+classification,1,1000,Prokaryotic defense system,1.2983033356436378
+classification,1,1000,Protein kinases,0.6723525079823289
+classification,1,1000,Protein of unknown functions,1.3476179255271346
+classification,1,1000,Protein phosphatases and associated proteins,0.14699051333581264
+classification,1,1000,Ribosome,3.045257965335995
+classification,1,1000,Ribosome biogenesis,0.29114576264192654
+classification,1,1000,Secretion system,1.667316696560455
+classification,1,1000,Spliceosome,0.19647703674369907
+classification,1,1000,Transcription factors,3.4344218961339252
+classification,1,1000,Transcription machinery,0.10758453950261641
+classification,1,1000,Transfer RNA biogenesis,0.09661959741047066
+classification,1,1000,Translation factors,0.16392502104574397
+classification,1,1000,Transporters,8.202075110961546
+classification,1,1000,Unknown,0.19276794322855242
+classification,1,1000,Viral proteins,12.247289760691942
+classification,1,1000,nan,9.987103272341656
+classification,2,5,Enzymes,9.735417598836477
+classification,2,5,Membrane trafficking,13.217217655146229
+classification,2,5,Non-coding RNAs,6.39456851484205
+classification,2,5,Ribosome,6.39456851484205
+classification,2,5,Transporters,23.538594331369776
+classification,2,5,Viral proteins,40.71963338496343
+classification,2,10,CD molecules,1.803842454305418
+classification,2,10,Enzymes,14.409935036832167
+classification,2,10,IS elements/Transposase,4.18909874697733
+classification,2,10,Membrane trafficking,9.713367971421283
+classification,2,10,Non-coding RNAs,8.183944048694874
+classification,2,10,Polyketide biosynthesis proteins,1.803842454305418
+classification,2,10,Ribosome,8.183944048694874
+classification,2,10,Transporters,17.29857480114836
+classification,2,10,Viral proteins,29.924965529755035
+classification,2,10,nan,4.488484907865252
+classification,2,20,Bacterial toxins,0.8130195927572473
+classification,2,20,CD molecules,1.438472570502483
+classification,2,20,Chaperones and folding catalysts,0.7680902610038394
+classification,2,20,Cilium and associated proteins,0.7680902610038394
+classification,2,20,DNA repair and recombination proteins,5.2166021656397845
+classification,2,20,DNA replication proteins,1.5846802196751015
+classification,2,20,Enzymes,14.886107231285672
+classification,2,20,IS elements/Transposase,3.3405930924125675
+classification,2,20,Membrane trafficking,9.659693549970434
+classification,2,20,Messenger RNA biogenesis,0.29847839756663597
+classification,2,20,Non-coding RNAs,6.526278946632094
+classification,2,20,Peptidases and inhibitors,0.6645504683229406
+classification,2,20,Polyketide biosynthesis proteins,1.438472570502483
+classification,2,20,Prokaryotic defense system,0.8130195927572473
+classification,2,20,Ribosome,6.526278946632094
+classification,2,20,Ribosome biogenesis,0.29847839756663597
+classification,2,20,Transfer RNA biogenesis,0.29847839756663597
+classification,2,20,Transporters,15.617043845557669
+classification,2,20,Viral proteins,23.863637306596257
+classification,2,20,nan,5.1799341860483485
+classification,2,50,Amino acid related enzymes,0.2615521787382395
+classification,2,50,Bacterial toxins,0.6331035170126708
+classification,2,50,CD molecules,1.120147720453888
+classification,2,50,Chaperones and folding catalysts,0.5981167612155018
+classification,2,50,Chromosome and associated proteins,0.2454602033545387
+classification,2,50,Cilium and associated proteins,0.5981167612155018
+classification,2,50,DNA repair and recombination proteins,6.618778341240213
+classification,2,50,DNA replication proteins,2.7191238705523504
+classification,2,50,Enzymes,16.294789804116547
+classification,2,50,IS elements/Transposase,3.160026060926996
+classification,2,50,Membrane trafficking,8.509172006181059
+classification,2,50,Messenger RNA biogenesis,0.2324270225898058
+classification,2,50,Non-coding RNAs,5.653860052323166
+classification,2,50,Peptidases and inhibitors,0.5174896675009075
+classification,2,50,Polyketide biosynthesis proteins,2.2378113340585415
+classification,2,50,Prokaryotic defense system,0.6331035170126708
+classification,2,50,Protein kinases,0.5260865574685423
+classification,2,50,Protein of unknown functions,1.1286062870162024
+classification,2,50,Ribosome,5.653860052323166
+classification,2,50,Ribosome biogenesis,0.5394531594001258
+classification,2,50,Secretion system,0.28256212206405024
+classification,2,50,Spliceosome,0.30702613681032
+classification,2,50,Transcription factors,1.2879505775888438
+classification,2,50,Transfer RNA biogenesis,0.2324270225898058
+classification,2,50,Transporters,12.486599721269567
+classification,2,50,Unknown,0.5877883888193285
+classification,2,50,Viral proteins,19.464483988250347
+classification,2,50,nan,7.470077167907095
+classification,2,100,Amino acid related enzymes,0.22199729992008896
+classification,2,100,Antimicrobial resistance genes,0.410106539914489
+classification,2,100,Bacterial motility proteins,0.3131703296285122
+classification,2,100,Bacterial toxins,0.6210186893326668
+classification,2,100,CD molecules,1.1391956247538446
+classification,2,100,Chaperones and folding catalysts,0.831047316149423
+classification,2,100,Chromosome and associated proteins,0.20833893506610188
+classification,2,100,Cilium and associated proteins,0.5076627794397999
+classification,2,100,DNA repair and recombination proteins,5.883688194201285
+classification,2,100,DNA replication proteins,3.5194745108719454
+classification,2,100,Enzymes,17.20626154218038
+classification,2,100,Exosome,0.10986236960215073
+classification,2,100,Glycosyltransferases,0.09608664087875322
+classification,2,100,IS elements/Transposase,3.917046132443495
+classification,2,100,Lipopolysaccharide biosynthesis proteins,0.09449383859774003
+classification,2,100,Membrane trafficking,8.949694150230574
+classification,2,100,Messenger RNA biogenesis,0.27461178444002754
+classification,2,100,Non-coding RNAs,4.7988193858554595
+classification,2,100,Peptidases and inhibitors,0.9281533131294883
+classification,2,100,Polyketide biosynthesis proteins,2.1864084650621325
+classification,2,100,Prokaryotic defense system,0.739466814955818
+classification,2,100,Protein kinases,0.44652579781854507
+classification,2,100,Protein of unknown functions,0.957925678918473
+classification,2,100,Protein phosphatases and associated proteins,0.18688179316796402
+classification,2,100,Ribosome,4.7988193858554595
+classification,2,100,Ribosome biogenesis,0.535205956148305
+classification,2,100,Secretion system,0.590214651966002
+classification,2,100,Spliceosome,0.2605941717082775
+classification,2,100,Transcription factors,1.3975300056182063
+classification,2,100,Transfer RNA biogenesis,0.27461178444002754
+classification,2,100,Transporters,11.149985251549744
+classification,2,100,Unknown,0.49889638033893685
+classification,2,100,Viral proteins,17.204900128529527
+classification,2,100,nan,8.741304357286356
+classification,2,200,Amino acid related enzymes,0.1884561219580406
+classification,2,200,Antimicrobial resistance genes,0.41670430049043017
+classification,2,200,Bacterial motility proteins,0.3054912807087036
+classification,2,200,Bacterial toxins,0.9316817611978367
+classification,2,200,CD molecules,1.169337895468833
+classification,2,200,Chaperones and folding catalysts,0.8483451299547698
+classification,2,200,Chromosome and associated proteins,0.36467699975531925
+classification,2,200,Cilium and associated proteins,0.43096091128181885
+classification,2,200,DNA repair and recombination proteins,6.058651689037397
+classification,2,200,DNA replication proteins,3.650043692012826
+classification,2,200,Enzymes,17.812279371684998
+classification,2,200,Exosome,0.09326345920331028
+classification,2,200,Glycosyltransferases,0.08156908087847481
+classification,2,200,IS elements/Transposase,4.009595173145559
+classification,2,200,Lipopolysaccharide biosynthesis proteins,0.08021693226660558
+classification,2,200,Membrane trafficking,10.362457896499016
+classification,2,200,Messenger RNA biogenesis,0.3757912926519169
+classification,2,200,Mitochondrial biogenesis,0.06989688613811681
+classification,2,200,Non-coding RNAs,4.0737742835652755
+classification,2,200,Peptidases and inhibitors,1.0331931398146235
+classification,2,200,Polyketide biosynthesis proteins,2.03529344296319
+classification,2,200,Prokaryotic defense system,1.0666165821140265
+classification,2,200,Protein kinases,0.419918316061688
+classification,2,200,Protein of unknown functions,0.9469447230677527
+classification,2,200,Protein phosphatases and associated proteins,0.20635893032594738
+classification,2,200,Ribosome,4.0737742835652755
+classification,2,200,Ribosome biogenesis,0.4543426383152484
+classification,2,200,Secretion system,1.0765654850153201
+classification,2,200,Spliceosome,0.26207876928023377
+classification,2,200,Transcription factors,1.6543464331950235
+classification,2,200,Transcription machinery,0.07168856526488326
+classification,2,200,Transfer RNA biogenesis,0.23312117741149976
+classification,2,200,Translation factors,0.06989688613811681
+classification,2,200,Transporters,9.87678054294537
+classification,2,200,Unknown,0.4235190118592593
+classification,2,200,Viral proteins,14.67960098413672
+classification,2,200,nan,10.092765930626564
+classification,2,500,Amino acid related enzymes,0.16675159714868737
+classification,2,500,Antimicrobial resistance genes,0.40300982581767164
+classification,2,500,Bacterial motility proteins,0.5590968941286074
+classification,2,500,Bacterial toxins,1.269676592587192
+classification,2,500,CD molecules,1.1753173713354852
+classification,2,500,Chaperones and folding catalysts,0.9923395576251158
+classification,2,500,Chromosome and associated proteins,0.6322496148191598
+classification,2,500,Cilium and associated proteins,0.3510990817902191
+classification,2,500,Cytochrome,0.09335534268207105
+classification,2,500,Cytokines and growth factors,0.023605920191249165
+classification,2,500,DNA repair and recombination proteins,5.566298793460105
+classification,2,500,DNA replication proteins,3.1951977897198716
+classification,2,500,Enzymes,18.398083633351284
+classification,2,500,Exosome,0.12343469187726502
+classification,2,500,Glycosaminoglycan binding proteins,0.023605920191249165
+classification,2,500,Glycosylphosphatidylinositol (GPI)-anchored proteins,0.011085424485233947
+classification,2,500,Glycosyltransferases,0.18398614094668425
+classification,2,500,IS elements/Transposase,4.340025573913519
+classification,2,500,Lipid biosynthesis proteins,0.03210188370597763
+classification,2,500,Lipopolysaccharide biosynthesis proteins,0.06535184636366252
+classification,2,500,Membrane trafficking,11.608884411784741
+classification,2,500,Messenger RNA biogenesis,0.3305134794131027
+classification,2,500,Metal Tolerance,0.048635076008952935
+classification,2,500,Mitochondrial biogenesis,0.06945249478690295
+classification,2,500,Non-coding RNAs,3.3188587942377423
+classification,2,500,Others,0.05219252289031025
+classification,2,500,Peptidases and inhibitors,1.2127815920800702
+classification,2,500,Peptidoglycan biosynthesis and degradation proteins,0.09029039409581739
+classification,2,500,Polyketide biosynthesis proteins,2.2629727596360674
+classification,2,500,Prokaryotic defense system,1.4411657917776601
+classification,2,500,Protein kinases,0.4342398732097019
+classification,2,500,Protein of unknown functions,1.0115580271651037
+classification,2,500,Protein phosphatases and associated proteins,0.18975651003001795
+classification,2,500,Ribosome,3.3864230739578702
+classification,2,500,Ribosome biogenesis,0.41809109647472326
+classification,2,500,Secretion system,1.5204350688839388
+classification,2,500,Spliceosome,0.2351264979117526
+classification,2,500,Transcription factors,2.1645327590698766
+classification,2,500,Transcription machinery,0.05840388021385865
+classification,2,500,Transfer RNA biogenesis,0.22590699307546994
+classification,2,500,Translation factors,0.0569442190710432
+classification,2,500,Transporters,8.572039382598028
+classification,2,500,Two-component system,0.051122310680570555
+classification,2,500,Unknown,0.34503624874518873
+classification,2,500,Viral proteins,12.388619052444021
+classification,2,500,nan,10.900344193617165
+classification,2,1000,Amino acid related enzymes,0.15659774529510914
+classification,2,1000,Antimicrobial resistance genes,0.45426825083616895
+classification,2,1000,Bacterial motility proteins,0.6253969066935879
+classification,2,1000,Bacterial toxins,1.284338237231075
+classification,2,1000,CD molecules,1.3257190340363691
+classification,2,1000,Chaperones and folding catalysts,1.057422572636932
+classification,2,1000,Chromosome and associated proteins,0.5775767807439173
+classification,2,1000,Cilium and associated proteins,0.3205626758158312
+classification,2,1000,Cytochrome,0.1107646041174476
+classification,2,1000,Cytokines and growth factors,0.020855730311004905
+classification,2,1000,Cytoskeleton proteins,0.00841444041848566
+classification,2,1000,DNA repair and recombination proteins,5.122782163133259
+classification,2,1000,DNA replication proteins,2.910865406881735
+classification,2,1000,Enzymes,19.049297014124036
+classification,2,1000,Exosome,0.20480720402901675
+classification,2,1000,Glycosaminoglycan binding proteins,0.020855730311004905
+classification,2,1000,Glycosylphosphatidylinositol (GPI)-anchored proteins,0.02311342413314753
+classification,2,1000,Glycosyltransferases,0.1795124174236026
+classification,2,1000,IS elements/Transposase,4.077079647046886
+classification,2,1000,Lipid biosynthesis proteins,0.037345364446282996
+classification,2,1000,Lipopolysaccharide biosynthesis proteins,0.08095913238325946
+classification,2,1000,Membrane trafficking,12.644299764326275
+classification,2,1000,Messenger RNA biogenesis,0.2947616314732976
+classification,2,1000,Metal Tolerance,0.09276270418677067
+classification,2,1000,Mitochondrial biogenesis,0.09067468092275195
+classification,2,1000,Non-coding RNAs,2.9321976602542463
+classification,2,1000,Others,0.04611187248081853
+classification,2,1000,Peptidases and inhibitors,1.307387284731542
+classification,2,1000,Peptidoglycan biosynthesis and degradation proteins,0.07977118001249456
+classification,2,1000,Polyketide biosynthesis proteins,2.3762668208179996
+classification,2,1000,Prokaryotic defense system,1.5415934400788232
+classification,2,1000,Protein kinases,0.44869682123269905
+classification,2,1000,Protein of unknown functions,1.1177258563670187
+classification,2,1000,Protein phosphatases and associated proteins,0.1983485743096149
+classification,2,1000,Ribosome,3.0365023573220444
+classification,2,1000,Ribosome biogenesis,0.4035083912565887
+classification,2,1000,Secretion system,1.9139321991506093
+classification,2,1000,Spliceosome,0.21810139011952884
+classification,2,1000,Transcription factors,2.3001967326118695
+classification,2,1000,Transcription machinery,0.05961464902755278
+classification,2,1000,Transfer RNA biogenesis,0.21875347697648415
+classification,2,1000,Translation factors,0.07402435012724001
+classification,2,1000,Transporters,8.130945705433865
+classification,2,1000,Two-component system,0.045166344535241994
+classification,2,1000,Unknown,0.33122260360358896
+classification,2,1000,Viral proteins,11.101535353517438
+classification,2,1000,nan,11.347363673075442
+classification,3,5,Membrane trafficking,11.378787676159465
+classification,3,5,Non-coding RNAs,8.106689443200956
+classification,3,5,Ribosome,8.106689443200956
+classification,3,5,Transporters,28.952492299032542
+classification,3,5,Viral proteins,43.4553411384061
+classification,3,10,CD molecules,1.7884478349695454
+classification,3,10,DNA repair and recombination proteins,1.6594873728812745
+classification,3,10,Enzymes,13.084776210067476
+classification,3,10,Membrane trafficking,8.62994641124976
+classification,3,10,Non-coding RNAs,8.23678177208838
+classification,3,10,Peptidases and inhibitors,1.6594873728812745
+classification,3,10,Polyketide biosynthesis proteins,1.7884478349695454
+classification,3,10,Ribosome,8.23678177208838
+classification,3,10,Transporters,21.958266919442483
+classification,3,10,Viral proteins,32.95757649936188
+classification,3,20,CD molecules,1.3855929930485258
+classification,3,20,Chaperones and folding catalysts,0.6322787818711579
+classification,3,20,Cilium and associated proteins,0.6322787818711579
+classification,3,20,DNA repair and recombination proteins,4.589402407428602
+classification,3,20,DNA replication proteins,0.5595788530910414
+classification,3,20,Enzymes,11.53379449013755
+classification,3,20,IS elements/Transposase,1.8780291806440979
+classification,3,20,Membrane trafficking,9.637121372913398
+classification,3,20,Non-coding RNAs,7.715393702689619
+classification,3,20,Peptidases and inhibitors,1.2856813774252214
+classification,3,20,Polyketide biosynthesis proteins,1.3855929930485258
+classification,3,20,Protein kinases,0.8368362414734376
+classification,3,20,Protein of unknown functions,1.4763569446619644
+classification,3,20,Ribosome,7.715393702689619
+classification,3,20,Transporters,17.012081755007877
+classification,3,20,Viral proteins,28.618708880486416
+classification,3,20,nan,3.1058775415117945
+classification,3,50,CD molecules,1.3771655317530942
+classification,3,50,Chaperones and folding catalysts,0.49823044750266254
+classification,3,50,Chromosome and associated proteins,0.30477316581511626
+classification,3,50,Cilium and associated proteins,0.49823044750266254
+classification,3,50,DNA repair and recombination proteins,5.798046846139936
+classification,3,50,DNA replication proteins,3.7680467746669026
+classification,3,50,Enzymes,15.603343194872041
+classification,3,50,IS elements/Transposase,2.047176389941604
+classification,3,50,Membrane trafficking,9.128649218061422
+classification,3,50,Non-coding RNAs,6.079666386675601
+classification,3,50,Peptidases and inhibitors,1.0131062853710284
+classification,3,50,Polyketide biosynthesis proteins,1.8082573644479578
+classification,3,50,Protein kinases,0.6594200327929366
+classification,3,50,Protein of unknown functions,1.1633570543610041
+classification,3,50,Ribosome,6.079666386675601
+classification,3,50,Ribosome biogenesis,0.24500312238320102
+classification,3,50,Spliceosome,0.24500312238320102
+classification,3,50,Transcription factors,0.6518344111431503
+classification,3,50,Transporters,13.737390668191242
+classification,3,50,Viral proteins,22.714716759805636
+classification,3,50,nan,6.578916389513988
+classification,3,100,Antimicrobial resistance genes,0.34173860352534663
+classification,3,100,Bacterial motility proteins,0.2557259170338172
+classification,3,100,Bacterial toxins,0.3079919387452132
+classification,3,100,CD molecules,1.2892199407177236
+classification,3,100,Chaperones and folding catalysts,0.4263096090522284
+classification,3,100,Chromosome and associated proteins,0.2607783804050993
+classification,3,100,Cilium and associated proteins,0.4263096090522284
+classification,3,100,DNA repair and recombination proteins,5.538534356761596
+classification,3,100,DNA replication proteins,3.9177377160334443
+classification,3,100,Enzymes,15.358204663834648
+classification,3,100,Glycosyltransferases,0.1053786885585626
+classification,3,100,IS elements/Transposase,2.918905211995237
+classification,3,100,Membrane trafficking,9.956689240665908
+classification,3,100,Messenger RNA biogenesis,0.062092753496148796
+classification,3,100,Mitochondrial biogenesis,0.13896569656707677
+classification,3,100,Non-coding RNAs,5.202051005639913
+classification,3,100,Peptidases and inhibitors,1.3420832086867767
+classification,3,100,Polyketide biosynthesis proteins,1.6526094809912193
+classification,3,100,Prokaryotic defense system,0.3079919387452132
+classification,3,100,Protein kinases,0.6548639172517577
+classification,3,100,Protein of unknown functions,0.9954234903119632
+classification,3,100,Protein phosphatases and associated proteins,0.1637082274373778
+classification,3,100,Ribosome,5.202051005639913
+classification,3,100,Ribosome biogenesis,0.2717290489961333
+classification,3,100,Secretion system,0.33956017130763
+classification,3,100,Spliceosome,0.30026914700648344
+classification,3,100,Transcription factors,1.375786943763503
+classification,3,100,Transfer RNA biogenesis,0.062092753496148796
+classification,3,100,Translation factors,0.13896569656707677
+classification,3,100,Transporters,12.510829879361301
+classification,3,100,Viral proteins,19.700139414428772
+classification,3,100,nan,8.475262343924543
+classification,3,200,Antimicrobial resistance genes,0.2940447767684183
+classification,3,200,Bacterial motility proteins,0.4169423755667859
+classification,3,200,Bacterial toxins,0.5709040856896695
+classification,3,200,CD molecules,1.2423098066349205
+classification,3,200,Chaperones and folding catalysts,0.5267838317929305
+classification,3,200,Chromosome and associated proteins,0.3487308377350595
+classification,3,200,Cilium and associated proteins,0.3668128579412794
+classification,3,200,DNA repair and recombination proteins,5.363840663852089
+classification,3,200,DNA replication proteins,3.888091856368021
+classification,3,200,Enzymes,16.195663027737652
+classification,3,200,Exosome,0.06278310001223607
+classification,3,200,Glycosyltransferases,0.09067179602685123
+classification,3,200,IS elements/Transposase,3.3724868326607322
+classification,3,200,Lipopolysaccharide biosynthesis proteins,0.03640955942972464
+classification,3,200,Membrane trafficking,11.250146118503373
+classification,3,200,Messenger RNA biogenesis,0.07404574599060781
+classification,3,200,Mitochondrial biogenesis,0.11957132382471128
+classification,3,200,Non-coding RNAs,4.4760407835454314
+classification,3,200,Peptidases and inhibitors,1.3890371665221601
+classification,3,200,Peptidoglycan biosynthesis and degradation proteins,0.044588888114623554
+classification,3,200,Polyketide biosynthesis proteins,1.7793945687166925
+classification,3,200,Prokaryotic defense system,0.6592131438167828
+classification,3,200,Protein kinases,0.5634696003774796
+classification,3,200,Protein of unknown functions,1.0320258676618823
+classification,3,200,Protein phosphatases and associated proteins,0.18413798922090108
+classification,3,200,Ribosome,4.4760407835454314
+classification,3,200,Ribosome biogenesis,0.2544247171602466
+classification,3,200,Secretion system,0.5706410593885921
+classification,3,200,Spliceosome,0.25836289313278055
+classification,3,200,Transcription factors,1.895408950340103
+classification,3,200,Transcription machinery,0.0794272124039879
+classification,3,200,Transfer RNA biogenesis,0.07404574599060781
+classification,3,200,Translation factors,0.11957132382471128
+classification,3,200,Transporters,11.117509059138165
+classification,3,200,Viral proteins,16.950742575363694
+classification,3,200,nan,9.85567907520068
+classification,3,500,Amino acid related enzymes,0.04058646076595423
+classification,3,500,Antimicrobial resistance genes,0.311876688920464
+classification,3,500,Bacterial motility proteins,0.563988876116856
+classification,3,500,Bacterial toxins,0.9570163080335068
+classification,3,500,CD molecules,1.4712711762895074
+classification,3,500,Chaperones and folding catalysts,0.7589099529084543
+classification,3,500,Chromosome and associated proteins,0.5333825052759271
+classification,3,500,Cilium and associated proteins,0.30411301389668816
+classification,3,500,Cytochrome,0.12392296063429292
+classification,3,500,DNA repair and recombination proteins,5.082141235909511
+classification,3,500,DNA replication proteins,3.523041685998156
+classification,3,500,Enzymes,17.23563213403975
+classification,3,500,Exosome,0.12380953768719209
+classification,3,500,Glycosylphosphatidylinositol (GPI)-anchored proteins,0.02495540535038566
+classification,3,500,Glycosyltransferases,0.19014057284203287
+classification,3,500,IS elements/Transposase,3.498571134189714
+classification,3,500,Lipid biosynthesis proteins,0.01603320847108046
+classification,3,500,Lipopolysaccharide biosynthesis proteins,0.056511011579908496
+classification,3,500,Membrane trafficking,12.140345202702937
+classification,3,500,Messenger RNA biogenesis,0.06138900120845043
+classification,3,500,Mitochondrial biogenesis,0.09913282720795726
+classification,3,500,Non-coding RNAs,3.71094475981102
+classification,3,500,Others,0.053754107104582255
+classification,3,500,Peptidases and inhibitors,1.3969759715038583
+classification,3,500,Peptidoglycan biosynthesis and degradation proteins,0.06368234985716102
+classification,3,500,Polyketide biosynthesis proteins,1.9429797227518846
+classification,3,500,Prokaryotic defense system,1.1440423152396497
+classification,3,500,Protein kinases,0.5835713731891158
+classification,3,500,Protein of unknown functions,1.112421276779598
+classification,3,500,Protein phosphatases and associated proteins,0.15266302056349554
+classification,3,500,Ribosome,3.7597648370262498
+classification,3,500,Ribosome biogenesis,0.27312963021556774
+classification,3,500,Secretion system,1.1447701320123052
+classification,3,500,Spliceosome,0.21420055597466497
+classification,3,500,Transcription factors,2.242766913412879
+classification,3,500,Transcription machinery,0.0658506059061211
+classification,3,500,Transfer RNA biogenesis,0.06138900120845043
+classification,3,500,Translation factors,0.09913282720795726
+classification,3,500,Transporters,9.698892008028558
+classification,3,500,Two-component system,0.04090251755552739
+classification,3,500,Unknown,0.08064252246204899
+classification,3,500,Viral proteins,14.544443290293776
+classification,3,500,nan,10.496309361866805
+classification,3,1000,Amino acid related enzymes,0.04491311488237276
+classification,3,1000,Antimicrobial resistance genes,0.38918184871682104
+classification,3,1000,Bacterial motility proteins,0.6064719789254562
+classification,3,1000,Bacterial toxins,0.991468670392537
+classification,3,1000,CD molecules,1.4053035828199585
+classification,3,1000,Chaperones and folding catalysts,0.8187513555313034
+classification,3,1000,Chromosome and associated proteins,0.5261355722974332
+classification,3,1000,Cilium and associated proteins,0.26951529021930476
+classification,3,1000,Cytochrome,0.10982474006039457
+classification,3,1000,Cytokines and growth factors,0.010424122649453306
+classification,3,1000,DNA repair and recombination proteins,4.8084820398843195
+classification,3,1000,DNA replication proteins,3.258121134314575
+classification,3,1000,Enzymes,17.85142800458838
+classification,3,1000,Exosome,0.17784454987494455
+classification,3,1000,Glycosaminoglycan binding proteins,0.010424122649453306
+classification,3,1000,Glycosylphosphatidylinositol (GPI)-anchored proteins,0.07123165343535322
+classification,3,1000,Glycosyltransferases,0.1882702702419393
+classification,3,1000,IS elements/Transposase,3.3483902103585654
+classification,3,1000,Lipid biosynthesis proteins,0.03324602289844111
+classification,3,1000,Lipopolysaccharide biosynthesis proteins,0.0639353417886161
+classification,3,1000,Membrane trafficking,12.754959707806057
+classification,3,1000,Messenger RNA biogenesis,0.06986164368309135
+classification,3,1000,Metal Tolerance,0.04913926325457795
+classification,3,1000,Mitochondrial biogenesis,0.13570999178011697
+classification,3,1000,Non-coding RNAs,3.2887653872913303
+classification,3,1000,Others,0.0476387169070401
+classification,3,1000,Peptidases and inhibitors,1.5802627224284052
+classification,3,1000,Peptidoglycan biosynthesis and degradation proteins,0.0694192873220966
+classification,3,1000,Polyketide biosynthesis proteins,2.2873593489951403
+classification,3,1000,Prokaryotic defense system,1.2170691874586619
+classification,3,1000,Protein kinases,0.5577350684914473
+classification,3,1000,Protein of unknown functions,1.225319287857305
+classification,3,1000,Protein phosphatases and associated proteins,0.14190249869088845
+classification,3,1000,Ribosome,3.3408221157006652
+classification,3,1000,Ribosome biogenesis,0.27914794899685536
+classification,3,1000,Secretion system,1.667014231505209
+classification,3,1000,Spliceosome,0.20743677829440585
+classification,3,1000,Transcription factors,2.307934424273017
+classification,3,1000,Transcription machinery,0.07578346103435742
+classification,3,1000,Transfer RNA biogenesis,0.08565333220137543
+classification,3,1000,Translation factors,0.11320021245993354
+classification,3,1000,Transporters,9.137302918645622
+classification,3,1000,Two-component system,0.03624920140189444
+classification,3,1000,Unknown,0.07146814457851332
+classification,3,1000,Viral proteins,13.107588530759992
+classification,3,1000,nan,11.161892961652363
+regression,1,5,DNA repair and recombination proteins,18.711490063488917
+regression,1,5,Exosome,11.617909418130926
+regression,1,5,Mitochondrial biogenesis,11.617909418130926
+regression,1,5,Others,12.098768911499032
+regression,1,5,Ribosome,22.898391142769487
+regression,1,5,Translation factors,11.617909418130926
+regression,1,5,nan,11.437621627849797
+regression,1,10,DNA repair and recombination proteins,12.824909006126237
+regression,1,10,Enzymes,7.982728800203321
+regression,1,10,Exosome,7.9629484676734545
+regression,1,10,Membrane trafficking,4.744307148531733
+regression,1,10,Mitochondrial biogenesis,7.9629484676734545
+regression,1,10,Non-coding RNAs,6.680410094293684
+regression,1,10,Others,8.292530944870785
+regression,1,10,Peptidases and inhibitors,1.790618928155511
+regression,1,10,Polyketide biosynthesis proteins,1.790618928155511
+regression,1,10,Ribosome,22.375033119839543
+regression,1,10,Translation factors,9.753567395828966
+regression,1,10,nan,7.839378698647806
+regression,1,20,Chaperones and folding catalysts,1.0250291851951479
+regression,1,20,DNA repair and recombination proteins,11.031924787574916
+regression,1,20,Enzymes,11.251115560112027
+regression,1,20,Exosome,6.461910871873522
+regression,1,20,Membrane trafficking,3.8499922568959755
+regression,1,20,Mitochondrial biogenesis,6.461910871873522
+regression,1,20,Non-coding RNAs,6.511033901894767
+regression,1,20,Others,6.729366149428858
+regression,1,20,Peptidases and inhibitors,1.4530823558891208
+regression,1,20,Polyketide biosynthesis proteins,1.4530823558891208
+regression,1,20,Ribosome,26.910352423663795
+regression,1,20,Ribosome biogenesis,1.5595425239981726
+regression,1,20,Secretion system,1.0250291851951479
+regression,1,20,Translation factors,7.914993227762643
+regression,1,20,nan,6.361634342753268
+regression,1,50,CD molecules,0.3076932117629244
+regression,1,50,Chaperones and folding catalysts,1.1368327725147203
+regression,1,50,Chromosome and associated proteins,0.15677491663627824
+regression,1,50,DNA repair and recombination proteins,9.969136339049209
+regression,1,50,DNA replication proteins,0.9278132754446123
+regression,1,50,Enzymes,14.454751336692608
+regression,1,50,Exosome,5.51967082926436
+regression,1,50,Membrane trafficking,9.644889236745149
+regression,1,50,Messenger RNA biogenesis,0.16548632861286292
+regression,1,50,Mitochondrial biogenesis,5.284830808514999
+regression,1,50,Non-coding RNAs,5.325005751749495
+regression,1,50,Others,5.503567327595858
+regression,1,50,Peptidases and inhibitors,1.1883937358433267
+regression,1,50,Polyketide biosynthesis proteins,1.423233756592687
+regression,1,50,Ribosome,22.00845266616025
+regression,1,50,Ribosome biogenesis,1.4409478045501163
+regression,1,50,Secretion system,1.1368327725147203
+regression,1,50,Transcription factors,0.5576285927595178
+regression,1,50,Transfer RNA biogenesis,0.16548632861286292
+regression,1,50,Translation factors,6.4732245443583265
+regression,1,50,Transporters,0.6568067789774282
+regression,1,50,nan,6.552540885047689
+regression,1,100,Bacterial motility proteins,0.16994978930033705
+regression,1,100,CD molecules,0.33556790266095876
+regression,1,100,Chaperones and folding catalysts,1.0718953691890496
+regression,1,100,Chromosome and associated proteins,0.22436437367032377
+regression,1,100,DNA repair and recombination proteins,9.371089630896755
+regression,1,100,DNA replication proteins,0.8876130452242079
+regression,1,100,Enzymes,16.53255127707694
+regression,1,100,Exosome,5.035638636984424
+regression,1,100,Glycosyltransferases,0.052806805000026984
+regression,1,100,Membrane trafficking,9.728127787507539
+regression,1,100,Messenger RNA biogenesis,0.2064030213829262
+regression,1,100,Mitochondrial biogenesis,4.822938344594334
+regression,1,100,Non-coding RNAs,4.7583878678039655
+regression,1,100,Others,4.917949242152556
+regression,1,100,Peptidases and inhibitors,1.46907656382805
+regression,1,100,Peptidoglycan biosynthesis and degradation proteins,0.07569817066490624
+regression,1,100,Polyketide biosynthesis proteins,1.920538762497542
+regression,1,100,Protein kinases,0.14389040196702696
+regression,1,100,Ribosome,19.66659925604553
+regression,1,100,Ribosome biogenesis,1.346146468788066
+regression,1,100,Secretion system,1.8125806757366782
+regression,1,100,Transcription factors,1.5911009609024844
+regression,1,100,Transfer RNA biogenesis,0.2064030213829262
+regression,1,100,Translation factors,5.884878668875347
+regression,1,100,Transporters,0.9014382583190717
+regression,1,100,nan,6.86636569754804
+regression,1,200,Bacterial motility proteins,0.1573708563463726
+regression,1,200,CD molecules,0.3845225549874399
+regression,1,200,Chaperones and folding catalysts,1.0111333122664172
+regression,1,200,Chromosome and associated proteins,0.4188761775847624
+regression,1,200,Cytoskeleton proteins,0.05160077776223825
+regression,1,200,DNA repair and recombination proteins,9.304226599361002
+regression,1,200,DNA replication proteins,0.8782795139095657
+regression,1,200,Enzymes,17.035472076407626
+regression,1,200,Exosome,4.698187797781975
+regression,1,200,Glycosylphosphatidylinositol (GPI)-anchored proteins,0.04069725776140214
+regression,1,200,Glycosyltransferases,0.07791459218046312
+regression,1,200,IS elements/Transposase,0.3514013909050446
+regression,1,200,Lipopolysaccharide biosynthesis proteins,0.054948267202246326
+regression,1,200,Membrane trafficking,10.374547370074099
+regression,1,200,Messenger RNA biogenesis,0.21318607347291516
+regression,1,200,Mitochondrial biogenesis,4.465965745054688
+regression,1,200,Non-coding RNAs,4.406193009519754
+regression,1,200,Others,4.553944355516815
+regression,1,200,Peptidases and inhibitors,1.5348157507848885
+regression,1,200,Peptidoglycan biosynthesis and degradation proteins,0.07009532633393227
+regression,1,200,Photosynthesis proteins,0.13463449482623116
+regression,1,200,Polyketide biosynthesis proteins,2.15214738555934
+regression,1,200,Protein kinases,0.18077736106040648
+regression,1,200,Protein of unknown functions,0.09720626964266783
+regression,1,200,Protein phosphatases and associated proteins,0.07694580697592887
+regression,1,200,Ribosome,18.354509890788783
+regression,1,200,Ribosome biogenesis,1.3066110836775855
+regression,1,200,Secretion system,1.7392165410495404
+regression,1,200,Spliceosome,0.03804033999279638
+regression,1,200,Transcription factors,1.7504572790916442
+regression,1,200,Transfer RNA biogenesis,0.23511836900096753
+regression,1,200,Translation factors,5.4493059357595675
+regression,1,200,Transporters,1.0100834523711641
+regression,1,200,nan,7.391566984989739
+regression,1,500,Amino acid related enzymes,0.015687159481804807
+regression,1,500,Antimicrobial resistance genes,0.02969955064952235
+regression,1,500,Bacterial motility proteins,0.17547750753067348
+regression,1,500,Bacterial toxins,0.0359929493661646
+regression,1,500,CD molecules,0.413778327911975
+regression,1,500,Chaperones and folding catalysts,0.9875744667533242
+regression,1,500,Chromosome and associated proteins,0.44503377237475167
+regression,1,500,Cilium and associated proteins,0.007426921546120087
+regression,1,500,Cytochrome,0.04282982769304026
+regression,1,500,Cytoskeleton proteins,0.053597401541256286
+regression,1,500,DNA repair and recombination proteins,9.002513557681704
+regression,1,500,DNA replication proteins,0.9289080875658572
+regression,1,500,Enzymes,17.76716302113869
+regression,1,500,Exosome,4.503731367027029
+regression,1,500,G protein-coupled receptors,0.010511811049540925
+regression,1,500,Glycosylphosphatidylinositol (GPI)-anchored proteins,0.03857244303606936
+regression,1,500,Glycosyltransferases,0.07384665045932927
+regression,1,500,IS elements/Transposase,0.461860407564745
+regression,1,500,Lipid biosynthesis proteins,0.010689786814570551
+regression,1,500,Lipopolysaccharide biosynthesis proteins,0.05207940345797741
+regression,1,500,Membrane trafficking,10.58736020254843
+regression,1,500,Messenger RNA biogenesis,0.21157822368782228
+regression,1,500,Mitochondrial biogenesis,4.236654487103501
+regression,1,500,Non-coding RNAs,4.176144492635028
+regression,1,500,Others,4.316181701293822
+regression,1,500,Peptidases and inhibitors,1.5632364762956645
+regression,1,500,Peptidoglycan biosynthesis and degradation proteins,0.07993789512591053
+regression,1,500,Photosynthesis proteins,0.16395589837202648
+regression,1,500,Polyketide biosynthesis proteins,2.3235215833704412
+regression,1,500,Prokaryotic defense system,0.057471322238732456
+regression,1,500,Protein kinases,0.22320786681975674
+regression,1,500,Protein of unknown functions,0.15895520305268498
+regression,1,500,Protein phosphatases and associated proteins,0.08786679254199277
+regression,1,500,Ribosome,17.478445274347003
+regression,1,500,Ribosome biogenesis,1.2457867429447171
+regression,1,500,Secretion system,1.7574935379964098
+regression,1,500,Spliceosome,0.046916861084707745
+regression,1,500,Transcription factors,1.8434744229409556
+regression,1,500,Transcription machinery,0.04005377742131331
+regression,1,500,Transfer RNA biogenesis,0.22471100315862766
+regression,1,500,Translation factors,5.164796213678815
+regression,1,500,Transporters,1.232316495692043
+regression,1,500,Unknown,0.022275276527405363
+regression,1,500,Viral proteins,0.061281261600104935
+regression,1,500,nan,7.639402566877937
+regression,1,1000,Amino acid related enzymes,0.017781740415588596
+regression,1,1000,Antimicrobial resistance genes,0.03507734205970977
+regression,1,1000,Bacterial motility proteins,0.19419488672827062
+regression,1,1000,Bacterial toxins,0.05149347471738937
+regression,1,1000,CD molecules,0.43688423204307136
+regression,1,1000,Chaperones and folding catalysts,0.9897106020078122
+regression,1,1000,Chromosome and associated proteins,0.4446334946717741
+regression,1,1000,Cilium and associated proteins,0.010845223448014434
+regression,1,1000,Cytochrome,0.04605742643735362
+regression,1,1000,Cytoskeleton proteins,0.05573488498716946
+regression,1,1000,DNA repair and recombination proteins,8.884963868260018
+regression,1,1000,DNA replication proteins,0.9403046779850966
+regression,1,1000,Enzymes,17.9439445283225
+regression,1,1000,Exosome,4.43672253171595
+regression,1,1000,G protein-coupled receptors,0.010325314929551662
+regression,1,1000,Glycosaminoglycan binding proteins,0.0007755233686914857
+regression,1,1000,Glycosylphosphatidylinositol (GPI)-anchored proteins,0.042708934635773244
+regression,1,1000,Glycosyltransferases,0.07791941589790526
+regression,1,1000,IS elements/Transposase,0.5057379005293767
+regression,1,1000,Lipid biosynthesis proteins,0.01243602064550314
+regression,1,1000,Lipopolysaccharide biosynthesis proteins,0.05389648917291941
+regression,1,1000,Membrane trafficking,10.656144410335413
+regression,1,1000,Messenger RNA biogenesis,0.2216538180730152
+regression,1,1000,Mitochondrial biogenesis,4.166589871760201
+regression,1,1000,Non-coding RNAs,4.102053097658424
+regression,1,1000,Others,4.239605825199178
+regression,1,1000,Peptidases and inhibitors,1.5893096065663808
+regression,1,1000,Peptidoglycan biosynthesis and degradation proteins,0.08734189690803655
+regression,1,1000,Photosynthesis proteins,0.1651531369515461
+regression,1,1000,Polyketide biosynthesis proteins,2.3482700837253763
+regression,1,1000,Prokaryotic defense system,0.08236218698848986
+regression,1,1000,Protein kinases,0.2324112448286979
+regression,1,1000,Protein of unknown functions,0.169061009305859
+regression,1,1000,Protein phosphatases and associated proteins,0.09240526070157183
+regression,1,1000,Ribosome,17.214187428887687
+regression,1,1000,Ribosome biogenesis,1.2395979061886913
+regression,1,1000,Secretion system,1.7556866303770082
+regression,1,1000,Spliceosome,0.050375069151741676
+regression,1,1000,Transcription factors,1.8701825336827789
+regression,1,1000,Transcription machinery,0.043467786587862565
+regression,1,1000,Transfer RNA biogenesis,0.22921022758395423
+regression,1,1000,Translation factors,5.076584460252616
+regression,1,1000,Transporters,1.289098514377701
+regression,1,1000,Two-component system,0.0028872719499506184
+regression,1,1000,Ubiquitin system,0.001135882004828276
+regression,1,1000,Unknown,0.023882932723140675
+regression,1,1000,Viral proteins,0.08215343741224422
+regression,1,1000,nan,7.7770399568381645
+regression,2,5,Exosome,3.766907162759893
+regression,2,5,Mitochondrial biogenesis,3.766907162759893
+regression,2,5,Non-coding RNAs,7.147876719244057
+regression,2,5,Ribosome,81.55140179247626
+regression,2,5,Translation factors,3.766907162759893
+regression,2,10,Enzymes,5.73705489322779
+regression,2,10,Exosome,2.747223952385145
+regression,2,10,Membrane trafficking,4.235869725674379
+regression,2,10,Mitochondrial biogenesis,2.747223952385145
+regression,2,10,Non-coding RNAs,7.572937139460399
+regression,2,10,Others,7.3700171247033115
+regression,2,10,Peptidases and inhibitors,1.6688849057822461
+regression,2,10,Polyketide biosynthesis proteins,1.6688849057822461
+regression,2,10,Ribosome,61.83579454243195
+regression,2,10,Translation factors,4.416108858167392
+regression,2,20,CD molecules,0.6834344176805874
+regression,2,20,DNA repair and recombination proteins,3.204135650561898
+regression,2,20,Enzymes,10.35705173966638
+regression,2,20,Exosome,2.2465768199514846
+regression,2,20,Membrane trafficking,8.020089241479798
+regression,2,20,Mitochondrial biogenesis,2.2465768199514846
+regression,2,20,Non-coding RNAs,7.559314247793898
+regression,2,20,Others,6.026923877330373
+regression,2,20,Peptidases and inhibitors,1.3647515490108408
+regression,2,20,Polyketide biosynthesis proteins,1.3647515490108408
+regression,2,20,Ribosome,53.315065718600074
+regression,2,20,Translation factors,3.611328368962326
+regression,2,50,Bacterial motility proteins,0.3930175614539371
+regression,2,50,Bacterial toxins,0.20887151505255697
+regression,2,50,CD molecules,0.5654829717707329
+regression,2,50,Chromosome and associated proteins,0.49892550457646906
+regression,2,50,DNA repair and recombination proteins,3.3877226411792387
+regression,2,50,DNA replication proteins,0.4107370881688331
+regression,2,50,Enzymes,12.972817789553822
+regression,2,50,Exosome,2.1116872766737087
+regression,2,50,Membrane trafficking,9.137610737940987
+regression,2,50,Mitochondrial biogenesis,1.8588483453450362
+regression,2,50,Non-coding RNAs,6.254679856332841
+regression,2,50,Others,4.9867591338977615
+regression,2,50,Peptidases and inhibitors,1.3172398862294075
+regression,2,50,Polyketide biosynthesis proteins,1.5700788175580798
+regression,2,50,Prokaryotic defense system,0.20887151505255697
+regression,2,50,Ribosome,44.11361357103373
+regression,2,50,Ribosome biogenesis,0.4390238610794373
+regression,2,50,Secretion system,0.3930175614539371
+regression,2,50,Transfer RNA biogenesis,0.18249900795397478
+regression,2,50,Translation factors,2.988062417241612
+regression,2,50,Transporters,0.37786601890402416
+regression,2,50,nan,5.622566921547316
+regression,2,100,Amino acid related enzymes,0.06958188411371449
+regression,2,100,Bacterial motility proteins,0.4247647297124146
+regression,2,100,Bacterial toxins,0.18906464994484484
+regression,2,100,CD molecules,0.6366485543352162
+regression,2,100,Chaperones and folding catalysts,0.04877438541963146
+regression,2,100,Chromosome and associated proteins,0.5387779469727522
+regression,2,100,DNA repair and recombination proteins,3.332433810510302
+regression,2,100,DNA replication proteins,0.744121113898093
+regression,2,100,Enzymes,15.111981643774882
+regression,2,100,Exosome,2.0002495498409503
+regression,2,100,Glycosyltransferases,0.07551579957157856
+regression,2,100,Membrane trafficking,10.408203239110035
+regression,2,100,Messenger RNA biogenesis,0.02640707674242003
+regression,2,100,Mitochondrial biogenesis,1.682577500454201
+regression,2,100,Non-coding RNAs,5.6615611624068825
+regression,2,100,Others,4.513874808503219
+regression,2,100,Peptidases and inhibitors,1.240561064146815
+regression,2,100,Photosynthesis proteins,0.16648596302445154
+regression,2,100,Polyketide biosynthesis proteins,2.051473060816202
+regression,2,100,Prokaryotic defense system,0.18906464994484484
+regression,2,100,Ribosome,39.93040844038033
+regression,2,100,Ribosome biogenesis,0.4237991892644759
+regression,2,100,Secretion system,0.606513996282149
+regression,2,100,Transcription factors,0.650083494944577
+regression,2,100,Transcription machinery,0.06515773307211102
+regression,2,100,Transfer RNA biogenesis,0.19160007132292875
+regression,2,100,Translation factors,2.7047104761363987
+regression,2,100,Transporters,0.5695687189713262
+regression,2,100,nan,5.74603528638223
+regression,2,200,Amino acid related enzymes,0.06477052886435468
+regression,2,200,Antimicrobial resistance genes,0.02417307886456523
+regression,2,200,Bacterial motility proteins,0.4912234181937206
+regression,2,200,Bacterial toxins,0.17599145988155343
+regression,2,200,CD molecules,0.6290499374264891
+regression,2,200,Chaperones and folding catalysts,0.06268392783932711
+regression,2,200,Chromosome and associated proteins,0.644189971865184
+regression,2,200,Cytoskeleton proteins,0.02727751199722551
+regression,2,200,DNA repair and recombination proteins,3.393437096996894
+regression,2,200,DNA replication proteins,0.8279049483802952
+regression,2,200,Enzymes,16.285600929455406
+regression,2,200,Exosome,1.9282085904601334
+regression,2,200,Glycosylphosphatidylinositol (GPI)-anchored proteins,0.03274948423451248
+regression,2,200,Glycosyltransferases,0.07029413385633952
+regression,2,200,IS elements/Transposase,0.12662721708949418
+regression,2,200,Membrane trafficking,10.370694632059886
+regression,2,200,Messenger RNA biogenesis,0.04763727328938814
+regression,2,200,Mitochondrial biogenesis,1.5662328772468879
+regression,2,200,Non-coding RNAs,5.270083087829291
+regression,2,200,Others,4.201755418068886
+regression,2,200,Peptidases and inhibitors,1.3504972368780876
+regression,2,200,Peptidoglycan biosynthesis and degradation proteins,0.041880931531787735
+regression,2,200,Photosynthesis proteins,0.2163405106074854
+regression,2,200,Polyketide biosynthesis proteins,2.406640585739582
+regression,2,200,Prokaryotic defense system,0.17599145988155343
+regression,2,200,Protein kinases,0.15228733435017286
+regression,2,200,Protein of unknown functions,0.07373083424941676
+regression,2,200,Protein phosphatases and associated proteins,0.08456520133835835
+regression,2,200,Ribosome,37.2166140333335
+regression,2,200,Ribosome biogenesis,0.41755104642769725
+regression,2,200,Secretion system,0.5645755760023342
+regression,2,200,Transcription factors,0.8364646542185045
+regression,2,200,Transcription machinery,0.06065229311390934
+regression,2,200,Transfer RNA biogenesis,0.20140772316941868
+regression,2,200,Translation factors,2.5176887662026712
+regression,2,200,Transporters,0.8669532019677004
+regression,2,200,Unknown,0.07788283441363357
+regression,2,200,Viral proteins,0.055597205951497995
+regression,2,200,nan,6.44209304672285
+regression,2,500,Amino acid related enzymes,0.06727521180393611
+regression,2,500,Antimicrobial resistance genes,0.02631214825044885
+regression,2,500,Bacterial motility proteins,0.4754088411589636
+regression,2,500,Bacterial toxins,0.2011901823977563
+regression,2,500,CD molecules,0.6786020159046223
+regression,2,500,Chaperones and folding catalysts,0.11879649855372641
+regression,2,500,Chromosome and associated proteins,0.6787338667175876
+regression,2,500,Cilium and associated proteins,0.007737451321205522
+regression,2,500,Cytochrome,0.006854014821514325
+regression,2,500,Cytoskeleton proteins,0.02586027907287322
+regression,2,500,DNA repair and recombination proteins,3.424845781860541
+regression,2,500,DNA replication proteins,0.8633328027411048
+regression,2,500,Enzymes,17.073900139961907
+regression,2,500,Exosome,1.8560602007246514
+regression,2,500,Glycosylphosphatidylinositol (GPI)-anchored proteins,0.0344429571134963
+regression,2,500,Glycosyltransferases,0.08792846973968552
+regression,2,500,IS elements/Transposase,0.19260233866625542
+regression,2,500,Lipid biosynthesis proteins,0.004584962167708671
+regression,2,500,Lipopolysaccharide biosynthesis proteins,0.01547526153489573
+regression,2,500,Membrane trafficking,10.562359829192276
+regression,2,500,Messenger RNA biogenesis,0.08184126505082362
+regression,2,500,Mitochondrial biogenesis,1.4970954978121571
+regression,2,500,Non-coding RNAs,4.996270165781872
+regression,2,500,Others,3.983448626776171
+regression,2,500,Peptidases and inhibitors,1.4487317310224572
+regression,2,500,Peptidoglycan biosynthesis and degradation proteins,0.0757212751532593
+regression,2,500,Photosynthesis proteins,0.217384896316624
+regression,2,500,Polyketide biosynthesis proteins,2.4940556186202687
+regression,2,500,Prenyltransferases,0.013511064791186116
+regression,2,500,Prokaryotic defense system,0.22614264110082588
+regression,2,500,Protein kinases,0.1787238064672482
+regression,2,500,Protein of unknown functions,0.1401426816607813
+regression,2,500,Protein phosphatases and associated proteins,0.08417734751654037
+regression,2,500,Ribosome,35.36994291825652
+regression,2,500,Ribosome biogenesis,0.4299608294728131
+regression,2,500,Secretion system,0.5805061353890965
+regression,2,500,Spliceosome,0.01131155197073788
+regression,2,500,Transcription factors,1.0069240688018848
+regression,2,500,Transcription machinery,0.05750103698955163
+regression,2,500,Transfer RNA biogenesis,0.205360048856035
+regression,2,500,Translation factors,2.3991174570153233
+regression,2,500,Transporters,1.094030272783372
+regression,2,500,Unknown,0.08677482413143965
+regression,2,500,Viral proteins,0.07491118372979885
+regression,2,500,nan,6.844109800828033
+regression,2,1000,Amino acid related enzymes,0.06951353062791392
+regression,2,1000,Antimicrobial resistance genes,0.02652981314888007
+regression,2,1000,Bacterial motility proteins,0.4833833234768139
+regression,2,1000,Bacterial toxins,0.20717636198429687
+regression,2,1000,CD molecules,0.6808331939642913
+regression,2,1000,Chaperones and folding catalysts,0.1313850043453011
+regression,2,1000,Chromosome and associated proteins,0.6787526357062705
+regression,2,1000,Cilium and associated proteins,0.008704969139019572
+regression,2,1000,Cytochrome,0.013336475185132706
+regression,2,1000,Cytoskeleton proteins,0.027979350874595348
+regression,2,1000,DNA repair and recombination proteins,3.4324355689594888
+regression,2,1000,DNA replication proteins,0.8690907624017168
+regression,2,1000,Enzymes,17.2174880821509
+regression,2,1000,Exosome,1.8450939814013325
+regression,2,1000,Glycosylphosphatidylinositol (GPI)-anchored proteins,0.03501544933454229
+regression,2,1000,Glycosyltransferases,0.0928388960153588
+regression,2,1000,IS elements/Transposase,0.22415630088431684
+regression,2,1000,Lipid biosynthesis proteins,0.007055356386561321
+regression,2,1000,Lipopolysaccharide biosynthesis proteins,0.01570835022969983
+regression,2,1000,Membrane trafficking,10.610268764699098
+regression,2,1000,Messenger RNA biogenesis,0.08591574029732513
+regression,2,1000,Metal Tolerance,0.0026306230747280713
+regression,2,1000,Mitochondrial biogenesis,1.4802588228739084
+regression,2,1000,Non-coding RNAs,4.933612453785177
+regression,2,1000,Others,3.9334926058789073
+regression,2,1000,Peptidases and inhibitors,1.4624015382320035
+regression,2,1000,Peptidoglycan biosynthesis and degradation proteins,0.07886729331668808
+regression,2,1000,Photosynthesis proteins,0.22422630664469925
+regression,2,1000,Polyketide biosynthesis proteins,2.5094313110149566
+regression,2,1000,Prenyltransferases,0.013341623912617784
+regression,2,1000,Prokaryotic defense system,0.2444377699145571
+regression,2,1000,Protein kinases,0.18903809904691957
+regression,2,1000,Protein of unknown functions,0.16729764648820494
+regression,2,1000,Protein phosphatases and associated proteins,0.08525318093582988
+regression,2,1000,Ribosome,34.947282085007714
+regression,2,1000,Ribosome biogenesis,0.44090224266320505
+regression,2,1000,Secretion system,0.5841476150784564
+regression,2,1000,Spliceosome,0.017537949074033606
+regression,2,1000,Transcription factors,1.0409845677782479
+regression,2,1000,Transcription machinery,0.0628025283141333
+regression,2,1000,Transfer RNA biogenesis,0.20712468859833644
+regression,2,1000,Translation factors,2.3705826032476134
+regression,2,1000,Transporters,1.1515828980988703
+regression,2,1000,Two-component system,0.0031491216302065236
+regression,2,1000,Unknown,0.09013772125165828
+regression,2,1000,Viral proteins,0.09025135711679956
+regression,2,1000,nan,6.90656343580867
+regression,3,5,DNA repair and recombination proteins,33.104417478525114
+regression,3,5,Enzymes,14.11786146295385
+regression,3,5,Exosome,7.104313945858343
+regression,3,5,Mitochondrial biogenesis,7.104313945858343
+regression,3,5,Others,22.039030840381535
+regression,3,5,Translation factors,7.104313945858343
+regression,3,5,nan,9.42574838056445
+regression,3,10,Chaperones and folding catalysts,1.9675462602195106
+regression,3,10,DNA repair and recombination proteins,23.72938117415607
+regression,3,10,Enzymes,13.443451575788504
+regression,3,10,Exosome,5.092401148925339
+regression,3,10,Mitochondrial biogenesis,5.092401148925339
+regression,3,10,Non-coding RNAs,6.312580428384937
+regression,3,10,Others,15.797666998963138
+regression,3,10,Peptidases and inhibitors,1.3561647632490228
+regression,3,10,Polyketide biosynthesis proteins,1.3561647632490228
+regression,3,10,Ribosome,10.67971476644568
+regression,3,10,Secretion system,1.9675462602195106
+regression,3,10,Translation factors,6.448565912174362
+regression,3,10,nan,6.75641479929956
+regression,3,20,CD molecules,0.6109956774327828
+regression,3,20,Chaperones and folding catalysts,2.324500346878466
+regression,3,20,DNA repair and recombination proteins,19.861051195580174
+regression,3,20,Enzymes,17.600153649931595
+regression,3,20,Exosome,4.131123526485166
+regression,3,20,Mitochondrial biogenesis,4.131123526485166
+regression,3,20,Non-coding RNAs,5.120973143687655
+regression,3,20,Others,12.815587754073015
+regression,3,20,Peptidases and inhibitors,1.1001655202341096
+regression,3,20,Polyketide biosynthesis proteins,1.1001655202341096
+regression,3,20,Ribosome,14.387732906741261
+regression,3,20,Secretion system,3.7598483281452735
+regression,3,20,Translation factors,5.231289046719276
+regression,3,20,nan,7.825289857371962
+regression,3,50,CD molecules,0.49279217842699785
+regression,3,50,Chaperones and folding catalysts,2.106839548135551
+regression,3,50,DNA repair and recombination proteins,17.41755349499774
+regression,3,50,DNA replication proteins,0.402507920249587
+regression,3,50,Enzymes,20.29385390119115
+regression,3,50,Exosome,3.751172074893937
+regression,3,50,Membrane trafficking,3.939207435924715
+regression,3,50,Messenger RNA biogenesis,0.08207948661449876
+regression,3,50,Mitochondrial biogenesis,3.3319145080066606
+regression,3,50,Non-coding RNAs,4.587713250475005
+regression,3,50,Others,10.33627837382986
+regression,3,50,Peptidases and inhibitors,0.8873270030720993
+regression,3,50,Polyketide biosynthesis proteins,1.5378118413206487
+regression,3,50,Protein kinases,0.4226533832745785
+regression,3,50,Ribosome,13.759340860925947
+regression,3,50,Ribosome biogenesis,0.08207948661449876
+regression,3,50,Secretion system,3.264504462331412
+regression,3,50,Transcription factors,0.47065277056576743
+regression,3,50,Transfer RNA biogenesis,0.08207948661449876
+regression,3,50,Translation factors,4.21924151107876
+regression,3,50,nan,8.53239702145607
+regression,3,100,CD molecules,0.4399801875703577
+regression,3,100,Chaperones and folding catalysts,1.9848064005083732
+regression,3,100,DNA repair and recombination proteins,16.316344088293956
+regression,3,100,DNA replication proteins,0.9150694804129685
+regression,3,100,Enzymes,21.005219704028768
+regression,3,100,Exosome,3.404786272178825
+regression,3,100,Membrane trafficking,5.477645795664056
+regression,3,100,Messenger RNA biogenesis,0.10501698235421505
+regression,3,100,Mitochondrial biogenesis,3.0691794392834852
+regression,3,100,Non-coding RNAs,4.096053112908789
+regression,3,100,Others,9.22855089180519
+regression,3,100,Peptidases and inhibitors,1.1882882895405789
+regression,3,100,Peptidoglycan biosynthesis and degradation proteins,0.0870768285573569
+regression,3,100,Photosynthesis proteins,0.16130999310143565
+regression,3,100,Polyketide biosynthesis proteins,1.8267155451443946
+regression,3,100,Protein kinases,0.3773580892537305
+regression,3,100,Ribosome,12.801120700723745
+regression,3,100,Ribosome biogenesis,0.42947481050391223
+regression,3,100,Secretion system,3.097189751192776
+regression,3,100,Transcription factors,0.8779756346396294
+regression,3,100,Transfer RNA biogenesis,0.10501698235421505
+regression,3,100,Translation factors,3.861412592200177
+regression,3,100,Transporters,0.3106606413116784
+regression,3,100,nan,8.83374778646739
+regression,3,200,Amino acid related enzymes,0.02224557714147109
+regression,3,200,Bacterial motility proteins,0.03602340917049579
+regression,3,200,CD molecules,0.5211697502337238
+regression,3,200,Chaperones and folding catalysts,1.8901773574415104
+regression,3,200,Chromosome and associated proteins,0.23904268634432324
+regression,3,200,Cytochrome,0.05101810694100701
+regression,3,200,Cytoskeleton proteins,0.047034795884458074
+regression,3,200,DNA repair and recombination proteins,15.466654511240405
+regression,3,200,DNA replication proteins,0.9438562341985979
+regression,3,200,Enzymes,21.165058337936962
+regression,3,200,Exosome,3.2102484832332263
+regression,3,200,Glycosylphosphatidylinositol (GPI)-anchored proteins,0.030672738977937403
+regression,3,200,IS elements/Transposase,0.40962605324234397
+regression,3,200,Lipid biosynthesis proteins,0.0161221037756828
+regression,3,200,Membrane trafficking,5.983276452272853
+regression,3,200,Messenger RNA biogenesis,0.11629364750547697
+regression,3,200,Mitochondrial biogenesis,2.849475157130887
+regression,3,200,Non-coding RNAs,3.8028410584709973
+regression,3,200,Others,8.567933880286919
+regression,3,200,Peptidases and inhibitors,1.1746100837618054
+regression,3,200,Peptidoglycan biosynthesis and degradation proteins,0.08084351685669425
+regression,3,200,Photosynthesis proteins,0.14976277113559802
+regression,3,200,Polyketide biosynthesis proteins,1.9820432312966796
+regression,3,200,Protein kinases,0.41823957484233565
+regression,3,200,Protein phosphatases and associated proteins,0.07908638271538478
+regression,3,200,Ribosome,12.051577612153151
+regression,3,200,Ribosome biogenesis,0.41752547156104336
+regression,3,200,Secretion system,2.925161258896981
+regression,3,200,Transcription factors,1.3245492951429678
+regression,3,200,Transcription machinery,0.02694629317954656
+regression,3,200,Transfer RNA biogenesis,0.17407300199757397
+regression,3,200,Translation factors,3.584997055589388
+regression,3,200,Transporters,1.0285342034911567
+regression,3,200,nan,9.213279905950403
+regression,3,500,Amino acid related enzymes,0.030623023824860332
+regression,3,500,Antimicrobial resistance genes,0.02009814000100584
+regression,3,500,Bacterial motility proteins,0.08754785381235493
+regression,3,500,Bacterial toxins,0.019511327254555958
+regression,3,500,CD molecules,0.5893514424126799
+regression,3,500,Chaperones and folding catalysts,1.8284931173248509
+regression,3,500,Chromosome and associated proteins,0.28344709786273714
+regression,3,500,Cilium and associated proteins,0.010856757983727672
+regression,3,500,Cytochrome,0.06012864049223862
+regression,3,500,Cytoskeleton proteins,0.05111813609763003
+regression,3,500,DNA repair and recombination proteins,14.92954879649435
+regression,3,500,DNA replication proteins,0.9737343801341272
+regression,3,500,Enzymes,21.432833085652433
+regression,3,500,Exosome,3.0601955027652883
+regression,3,500,Glycosylphosphatidylinositol (GPI)-anchored proteins,0.031938394141914184
+regression,3,500,Glycosyltransferases,0.017854109164971224
+regression,3,500,IS elements/Transposase,0.5142145174987088
+regression,3,500,Lipid biosynthesis proteins,0.01527329055143652
+regression,3,500,Lipopolysaccharide biosynthesis proteins,0.007625344918024292
+regression,3,500,Membrane trafficking,6.519803589837875
+regression,3,500,Messenger RNA biogenesis,0.15725490930622196
+regression,3,500,Mitochondrial biogenesis,2.7084152543777362
+regression,3,500,Non-coding RNAs,3.6026251421706945
+regression,3,500,Others,8.116840419827707
+regression,3,500,Peptidases and inhibitors,1.2246672028519312
+regression,3,500,Peptidoglycan biosynthesis and degradation proteins,0.09308647433103169
+regression,3,500,Photosynthesis proteins,0.1797824289485912
+regression,3,500,Polyketide biosynthesis proteins,2.1554126706514443
+regression,3,500,Prokaryotic defense system,0.0524601507233672
+regression,3,500,Protein kinases,0.43839949208201445
+regression,3,500,Protein of unknown functions,0.07955775455549954
+regression,3,500,Protein phosphatases and associated proteins,0.07861965223182085
+regression,3,500,Ribosome,11.580319307362196
+regression,3,500,Ribosome biogenesis,0.4054043514736695
+regression,3,500,Secretion system,2.827223291843315
+regression,3,500,Spliceosome,0.008750230552301015
+regression,3,500,Transcription factors,1.418723604059517
+regression,3,500,Transcription machinery,0.05591588643392464
+regression,3,500,Transfer RNA biogenesis,0.16990153788459125
+regression,3,500,Translation factors,3.405212633826754
+regression,3,500,Transporters,1.2384799532510862
+regression,3,500,Unknown,0.01040208104685797
+regression,3,500,Viral proteins,0.04145726559131715
+regression,3,500,nan,9.466891756390636
+regression,3,1000,Amino acid related enzymes,0.032589518652364376
+regression,3,1000,Antimicrobial resistance genes,0.02327688500000282
+regression,3,1000,Bacterial motility proteins,0.11123391415925284
+regression,3,1000,Bacterial toxins,0.04510964335789485
+regression,3,1000,CD molecules,0.5918783612827725
+regression,3,1000,Chaperones and folding catalysts,1.8099222930121353
+regression,3,1000,Chromosome and associated proteins,0.28981780893981324
+regression,3,1000,Cilium and associated proteins,0.01376729118887203
+regression,3,1000,Cytochrome,0.08174313978281811
+regression,3,1000,Cytoskeleton proteins,0.05310132361636083
+regression,3,1000,DNA repair and recombination proteins,14.686958105486625
+regression,3,1000,DNA replication proteins,0.9727898792946773
+regression,3,1000,Enzymes,21.63164315852451
+regression,3,1000,Exosome,3.021273427809959
+regression,3,1000,G protein-coupled receptors,0.0006224033717807394
+regression,3,1000,Glycosylphosphatidylinositol (GPI)-anchored proteins,0.03133992223495677
+regression,3,1000,Glycosyltransferases,0.020642647108204158
+regression,3,1000,IS elements/Transposase,0.5305352138972631
+regression,3,1000,Lipid biosynthesis proteins,0.015623320575555728
+regression,3,1000,Lipopolysaccharide biosynthesis proteins,0.008681813542840849
+regression,3,1000,Membrane trafficking,6.667995909111723
+regression,3,1000,Messenger RNA biogenesis,0.16106511915448984
+regression,3,1000,Metal Tolerance,0.0014369044067644215
+regression,3,1000,Mitochondrial biogenesis,2.6633343746264715
+regression,3,1000,Non-coding RNAs,3.535117992960017
+regression,3,1000,Others,7.96474445210501
+regression,3,1000,Peptidases and inhibitors,1.263672667978572
+regression,3,1000,Peptidoglycan biosynthesis and degradation proteins,0.09694567505906354
+regression,3,1000,Photosynthesis proteins,0.1860898234090346
+regression,3,1000,Polyketide biosynthesis proteins,2.2013242241713624
+regression,3,1000,Prokaryotic defense system,0.09820088044773682
+regression,3,1000,Protein kinases,0.4569096405620734
+regression,3,1000,Protein of unknown functions,0.08460126899081902
+regression,3,1000,Protein phosphatases and associated proteins,0.08537289007472994
+regression,3,1000,Ribosome,11.383458076177062
+regression,3,1000,Ribosome biogenesis,0.410636242687007
+regression,3,1000,Secretion system,2.7907684667832013
+regression,3,1000,Spliceosome,0.019962905619418554
+regression,3,1000,Transcription factors,1.450961790561514
+regression,3,1000,Transcription machinery,0.05571066654310787
+regression,3,1000,Transfer RNA biogenesis,0.17150592083185595
+regression,3,1000,Translation factors,3.3414046637232313
+regression,3,1000,Transporters,1.325227060696504
+regression,3,1000,Two-component system,0.0016053781007810295
+regression,3,1000,Ubiquitin system,0.0013861828872427705
+regression,3,1000,Unknown,0.014941321519580048
+regression,3,1000,Viral proteins,0.05344457070052333
+regression,3,1000,nan,9.539624859272436

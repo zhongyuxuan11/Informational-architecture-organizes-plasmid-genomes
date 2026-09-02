@@ -1,0 +1,7 @@
+stratum,group_1,group_2,test,U,p_raw,p_bh
+<100 kb,conjugative,mobilizable,two-sided Mann-Whitney U,2561.5,0.5052779564379295,0.5052779564379295
+<100 kb,conjugative,non-mobilizable,two-sided Mann-Whitney U,8670.0,1.2727211905660832e-10,1.9090817858491248e-10
+<100 kb,mobilizable,non-mobilizable,two-sided Mann-Whitney U,35159.0,3.3325275337674194e-25,9.997582601302259e-25
+≥100 kb,conjugative,mobilizable,two-sided Mann-Whitney U,76620.5,0.04885759834634027,0.04885759834634027
+≥100 kb,conjugative,non-mobilizable,two-sided Mann-Whitney U,277825.5,1.0356169642734096e-23,3.106850892820229e-23
+≥100 kb,mobilizable,non-mobilizable,two-sided Mann-Whitney U,341494.5,8.366163719485907e-15,1.2549245579228861e-14

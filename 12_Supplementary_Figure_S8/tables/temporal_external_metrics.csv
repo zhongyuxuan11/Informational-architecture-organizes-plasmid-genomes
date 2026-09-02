@@ -1,0 +1,3 @@
+task,historical_train_n,temporal_test_n,temporal_positive_n,temporal_positive_prevalence,F1_threshold_from_historical_validation,AUPRC,AUROC,F1,R2,RMSE,Spearman_rho
+classification,61961,15177,1104.0,0.0727416485471437,0.6651191741596137,0.9107942570896029,0.9770117861111369,0.8578336557059961,,,
+regression_tRNA_positive_only,4125,1104,,,,,,,0.8440940651248998,3.3159374425274013,0.7663977581906928

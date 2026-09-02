@@ -1,0 +1,21 @@
+analysis,target,module,subcategory,target_positive_n,target_positive_rate,target_count_mean,target_count_max
+cde_module,Replication,Replication,,51720,0.8347186133212827,3.0848759703684574,66.0
+cde_module,Transcription,Transcription,,36200,0.5842384725875954,3.781330191572118,413.0
+cde_module,Translation,Translation,,8422,0.13592421039040686,0.5424864027372056,312.0
+cde_subcategory,Replication | DNA repair & recombination,Replication,DNA repair & recombination,20478,0.330498216620132,0.5906134503962169,34.0
+cde_subcategory,Replication | Machinery / Elongation,Replication,Machinery / Elongation,14794,0.23876309291328415,0.3335969400106519,23.0
+cde_subcategory,Replication | Maintenance / Partition,Replication,Maintenance / Partition,24025,0.387743903423121,0.7459369603460241,12.0
+cde_subcategory,Replication | Replication Initiator,Replication,Replication Initiator,45572,0.7354949080873453,1.4147286196155646,14.0
+cde_subcategory,Transcription | Core transcription machinery,Transcription,Core transcription machinery,274,0.004422136505221026,0.005035425509594745,8.0
+cde_subcategory,Transcription | Initiation & promoter recognition,Transcription,Initiation & promoter recognition,6122,0.09880408644147125,0.17146269427543132,36.0
+cde_subcategory,Transcription | Termination & anti-termination,Transcription,Termination & anti-termination,4217,0.06805894030115718,0.07658042962508675,14.0
+cde_subcategory,Transcription | Transcription regulation,Transcription,Transcription regulation,34930,0.5637417084940527,3.528251642162005,377.0
+cde_subcategory,Translation | Regulation & Control,Translation,Regulation & Control,3426,0.055292845499588454,0.09612498184341764,74.0
+cde_subcategory,Translation | Ribosomal RNA,Translation,Ribosomal RNA,706,0.011394264133890674,0.04507674182146834,31.0
+cde_subcategory,Translation | Ribosomal proteins,Translation,Ribosomal proteins,816,0.013169574409709334,0.05821403786252643,59.0
+cde_subcategory,Translation | Ribosome assembly & maturation,Translation,Ribosome assembly & maturation,393,0.0063426994399703035,0.010555026548958216,12.0
+cde_subcategory,Translation | aaRS,Translation,aaRS,2069,0.03339197236971644,0.06329788092509804,28.0
+cde_subcategory,Translation | tRNA,Translation,tRNA,4125,0.06657413534319975,0.269217733735737,123.0
+cog_lkj,L,Replication,,58888,0.9504042865673569,28.80371524023176,1433.0
+cog_lkj,K,Transcription,,55715,0.8991946547021513,20.627975662110035,1746.0
+cog_lkj,J,Translation,,47894,0.7729700940914446,8.100353448136731,657.0

@@ -1,0 +1,4 @@
+target,task,run,seed,status
+tRNA-Sec,regression_type_positive_only,1,42,undefined: fitted model produced zero total gain
+tRNA-Sec,regression_type_positive_only,2,43,undefined: fitted model produced zero total gain
+tRNA-Sec,regression_type_positive_only,3,44,undefined: fitted model produced zero total gain

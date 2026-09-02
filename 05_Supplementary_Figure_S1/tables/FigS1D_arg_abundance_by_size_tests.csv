@@ -1,0 +1,3 @@
+size_group,group_1,group_2,test,U,p_raw,p_bh
+<100 kb,tRNA+,tRNA-,two-sided Mann-Whitney U on raw ARG counts,230845.5,9.621575070814343e-05,9.621575070814343e-05
+≥100 kb,tRNA+,tRNA-,two-sided Mann-Whitney U on raw ARG counts,1264772.5,1.2526425142352976e-121,2.5052850284705952e-121

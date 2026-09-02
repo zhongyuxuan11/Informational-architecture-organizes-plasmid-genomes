@@ -1,0 +1,18 @@
+{
+  "analysis": "size-effect sensitivity analysis",
+  "matrix": "same no-hypothetical raw product-count matrix as primary analysis",
+  "normalized_feature_definition": "100000 * product_count / plasmid_length_bp (product abundance per 100 kb)",
+  "regression_target": "original tRNA_count; not length-normalized",
+  "classifier": "LightGBM with locked latest parameters; scale_pos_weight recomputed from each training split",
+  "regressor": "LightGBMRegressor with locked latest parameters; fitted on tRNA-positive plasmids only",
+  "classifier_parameter_source": "D:\\LAB\\PTG_code\\ml_v4_unified_20260816\\results\\lightgbm_common_from_run_winners_20260820\\best_lightgbm_classifier_params.json",
+  "regressor_parameter_source": "D:\\LAB\\PTG_code\\ml_v4_unified_20260816\\results\\lightgbm_common_from_run_winners_20260820\\best_lightgbm_regressor_params.json",
+  "split_policy": "exact existing classifier and regressor split manifests; identical splits for raw and normalized features",
+  "seeds": [
+    42,
+    43,
+    44
+  ],
+  "replicates": 3,
+  "leakage_control": "no test rows used for fitting or threshold selection; only feature representation differs"
+}

@@ -1,0 +1,5 @@
+{
+  "evaluation": "filter untouched test rows within each phylum; no phylum-specific retraining",
+  "classification_rule": "retain phyla with positive and negative test rows",
+  "regression_rule": "tRNA-positive test rows; R2 retained for constant targets"
+}

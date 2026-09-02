@@ -1,0 +1,4 @@
+test,group_1,group_2,CDS_n_1,CDS_n_2,statistic,p,q,label
+Mann-Whitney U,Chromosome genes,tRNA+ plasmid genes,10243879,734716,2757474644385.0,0.0,0.0,***
+Mann-Whitney U,Chromosome genes,tRNA- plasmid genes,10243879,645653,2831180115055.0,0.0,0.0,***
+Mann-Whitney U,tRNA+ plasmid genes,tRNA- plasmid genes,734716,645653,269208061747.0,0.0,0.0,***

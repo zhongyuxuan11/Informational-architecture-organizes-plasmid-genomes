@@ -1,0 +1,14 @@
+{
+  "classifier_params_json": "D:\\LAB\\PTG_code\\ml_v4_unified_20260816\\results\\lightgbm_common_from_run_winners_20260820\\best_lightgbm_classifier_params.json",
+  "feature_source": "host_chromosome",
+  "host_vector": "sum of all non-plasmid replicon product counts per Assembly_ID",
+  "hyperparameter_tuning": false,
+  "regression_cohort": "tRNA-positive target plasmids only",
+  "regressor_params_json": "D:\\LAB\\PTG_code\\ml_v4_unified_20260816\\results\\lightgbm_common_from_run_winners_20260820\\best_lightgbm_regressor_params.json",
+  "seeds": [
+    42,
+    43,
+    44
+  ],
+  "split": "three approximately 80:20 Assembly_ID-group-constrained holdouts"
+}

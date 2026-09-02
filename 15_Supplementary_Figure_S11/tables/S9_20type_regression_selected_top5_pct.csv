@@ -1,0 +1,101 @@
+target,task,Product_Key,Product,normalized_gain_pct
+tRNA-Ala,regression_type_positive_only,16s ribosomal rna,16S ribosomal RNA,46.224710217243576
+tRNA-Ala,regression_type_positive_only,23s ribosomal rna,23S ribosomal RNA,8.16028972099792
+tRNA-Ala,regression_type_positive_only,5s ribosomal rna,5S ribosomal RNA,5.389963605223316
+tRNA-Ala,regression_type_positive_only,peptide chain release factor 3,Peptide chain release factor 3,2.372527368238945
+tRNA-Ala,regression_type_positive_only,atp phosphoribosyltransferase,ATP phosphoribosyltransferase,1.97362587810563
+tRNA-Arg,regression_type_positive_only,preprotein translocase subunit secy,Preprotein translocase subunit SecY,21.351661519295448
+tRNA-Arg,regression_type_positive_only,transfer-messenger rna,Transfer-messenger RNA,4.359967339818825
+tRNA-Arg,regression_type_positive_only,carbon storage regulator csra,Carbon storage regulator CsrA,2.7466846915343694
+tRNA-Arg,regression_type_positive_only,type iv pilus twitching motility protein pilt,Type IV pilus twitching motility protein PilT,2.3964635920306225
+tRNA-Arg,regression_type_positive_only,elongation factor tu,Elongation factor Tu,2.1864020410731118
+tRNA-Asn,regression_type_positive_only,exodeoxyribonuclease i,Exodeoxyribonuclease I,13.04153300874404
+tRNA-Asn,regression_type_positive_only,duf808 domain-containing protein,DUF808 domain-containing protein,9.007151101373305
+tRNA-Asn,regression_type_positive_only,fe-s cluster assembly scaffold iscu,Fe-S cluster assembly scaffold IscU,7.408626382732699
+tRNA-Asn,regression_type_positive_only,duf72 domain-containing protein,DUF72 domain-containing protein,6.66232100398095
+tRNA-Asn,regression_type_positive_only,multifunctional cca addition/repair protein,Multifunctional CCA addition/repair protein,4.966551732650271
+tRNA-Asp,regression_type_positive_only,adenylate kinase,Adenylate kinase,10.17194929915493
+tRNA-Asp,regression_type_positive_only,dna repair protein rada,DNA repair protein RadA,8.312521042763862
+tRNA-Asp,regression_type_positive_only,pts sugar transporter subunit iia,PTS sugar transporter subunit IIA,6.004819051787114
+tRNA-Asp,regression_type_positive_only,trna pseudouridine(38-40) synthase trua,TRNA pseudouridine(38-40) synthase TruA,4.591700784188605
+tRNA-Asp,regression_type_positive_only,bax inhibitor-1/ycca family protein,Bax inhibitor-1/YccA family protein,4.448135045047229
+tRNA-Cys,regression_type_positive_only,multidrug efflux smr transporter,Multidrug efflux SMR transporter,7.090683946768252
+tRNA-Cys,regression_type_positive_only,nadh:flavin oxidoreductase,NADH:flavin oxidoreductase,6.0414606801347475
+tRNA-Cys,regression_type_positive_only,anaerobic ribonucleoside-triphosphate reductase-activating protein,Anaerobic ribonucleoside-triphosphate reductase-activating protein,4.153868762190373
+tRNA-Cys,regression_type_positive_only,replication initiator protein rctb domain-containing protein,Replication initiator protein RctB domain-containing protein,3.705527361939447
+tRNA-Cys,regression_type_positive_only,duf1566 domain-containing protein,DUF1566 domain-containing protein,3.2330497593577388
+tRNA-Gln,regression_type_positive_only,serine--trna ligase,Serine--tRNA ligase,6.866917050110303
+tRNA-Gln,regression_type_positive_only,nucleoside-diphosphate kinase,Nucleoside-diphosphate kinase,6.630335263165551
+tRNA-Gln,regression_type_positive_only,multifunctional cca addition/repair protein,Multifunctional CCA addition/repair protein,5.678400380140215
+tRNA-Gln,regression_type_positive_only,dna polymerase iii subunit epsilon,DNA polymerase III subunit epsilon,5.199837142939237
+tRNA-Gln,regression_type_positive_only,dna topoisomerase (atp-hydrolyzing) subunit b,DNA topoisomerase (ATP-hydrolyzing) subunit B,4.278417736878057
+tRNA-Glu,regression_type_positive_only,bax inhibitor-1/ycca family protein,Bax inhibitor-1/YccA family protein,10.930945047743059
+tRNA-Glu,regression_type_positive_only,elongation factor tu,Elongation factor Tu,8.36137951308323
+tRNA-Glu,regression_type_positive_only,iron-sulfur cluster insertion protein erpa,Iron-sulfur cluster insertion protein ErpA,6.341233527898081
+tRNA-Glu,regression_type_positive_only,ychj family protein,YchJ family protein,3.5435938378096488
+tRNA-Glu,regression_type_positive_only,l-aspartate oxidase,L-aspartate oxidase,2.643136778273989
+tRNA-Gly,regression_type_positive_only,5s ribosomal rna,5S ribosomal RNA,17.792549174200218
+tRNA-Gly,regression_type_positive_only,ybab/ebfc family nucleoid-associated protein,YbaB/EbfC family nucleoid-associated protein,6.354304716337406
+tRNA-Gly,regression_type_positive_only,30s ribosomal protein s12,30S ribosomal protein S12,4.326154488887432
+tRNA-Gly,regression_type_positive_only,trna (uridine(34)/cytosine(34)/5- carboxymethylaminomethyluridine(34)-2'-o)- methyltransferase trml,TRNA (uridine(34)/cytosine(34)/5- carboxymethylaminomethyluridine(34)-2'-O)- methyltransferase TrmL,3.730499355992127
+tRNA-Gly,regression_type_positive_only,16s ribosomal rna,16S ribosomal RNA,3.1852582810603356
+tRNA-His,regression_type_positive_only,type ivb secretion system protein icmjdotn,Type IVB secretion system protein IcmJDotN,9.056825322162936
+tRNA-His,regression_type_positive_only,pin/tram domain-containing protein,PIN/TRAM domain-containing protein,7.309442249302521
+tRNA-His,regression_type_positive_only,iron-sulfur cluster assembly accessory protein,Iron-sulfur cluster assembly accessory protein,6.000821899143834
+tRNA-His,regression_type_positive_only,glycoside hydrolase family 5 protein,Glycoside hydrolase family 5 protein,4.38584733830758
+tRNA-His,regression_type_positive_only,kow domain-containing rna-binding protein,KOW domain-containing RNA-binding protein,3.37823392447255
+tRNA-Ile,regression_type_positive_only,5s ribosomal rna,5S ribosomal RNA,28.658837546085977
+tRNA-Ile,regression_type_positive_only,23s ribosomal rna,23S ribosomal RNA,16.521152042064895
+tRNA-Ile,regression_type_positive_only,16s ribosomal rna,16S ribosomal RNA,2.5932945799383464
+tRNA-Ile,regression_type_positive_only,protease sohb,Protease SohB,1.9040433950111482
+tRNA-Ile,regression_type_positive_only,elongation factor tu,Elongation factor Tu,1.7454825995274792
+tRNA-Leu,regression_type_positive_only,ssra-binding protein smpb,SsrA-binding protein SmpB,19.689702041601038
+tRNA-Leu,regression_type_positive_only,preprotein translocase subunit seca,Preprotein translocase subunit SecA,5.778019678387861
+tRNA-Leu,regression_type_positive_only,nad-dependent dna ligase liga,NAD-dependent DNA ligase LigA,4.743368411009677
+tRNA-Leu,regression_type_positive_only,nyn domain-containing protein,NYN domain-containing protein,2.322355181656168
+tRNA-Leu,regression_type_positive_only,30s ribosomal protein s12,30S ribosomal protein S12,1.4170870559675508
+tRNA-Lys,regression_type_positive_only,exodeoxyribonuclease i,Exodeoxyribonuclease I,9.000411080551224
+tRNA-Lys,regression_type_positive_only,dna repair protein rada,DNA repair protein RadA,8.258457406828734
+tRNA-Lys,regression_type_positive_only,class 1a ribonucleoside-diphosphate reductase subunit alpha,Class 1a ribonucleoside-diphosphate reductase subunit alpha,5.538995223689697
+tRNA-Lys,regression_type_positive_only,atp-dependent dna helicase ding,ATP-dependent DNA helicase DinG,5.193733160119258
+tRNA-Lys,regression_type_positive_only,lipoprotein,Lipoprotein,4.435044079501749
+tRNA-Met,regression_type_positive_only,elongation factor tu,Elongation factor Tu,13.646043553668918
+tRNA-Met,regression_type_positive_only,multifunctional cca addition/repair protein,Multifunctional CCA addition/repair protein,5.717744670173777
+tRNA-Met,regression_type_positive_only,trna pseudouridine(38-40) synthase trua,TRNA pseudouridine(38-40) synthase TruA,4.211772638899794
+tRNA-Met,regression_type_positive_only,recombination mediator recr,Recombination mediator RecR,3.8935879668287487
+tRNA-Met,regression_type_positive_only,5s ribosomal rna,5S ribosomal RNA,3.5789178177620653
+tRNA-Phe,regression_type_positive_only,mini-ribonuclease 3,Mini-ribonuclease 3,7.56946923974314
+tRNA-Phe,regression_type_positive_only,dna repair protein rada,DNA repair protein RadA,3.9386918560627326
+tRNA-Phe,regression_type_positive_only,elongation factor g,Elongation factor G,3.0176026299384406
+tRNA-Phe,regression_type_positive_only,nrtr dna-binding winged helix domain-containing protein,NrtR DNA-binding winged helix domain-containing protein,2.9436461498966344
+tRNA-Phe,regression_type_positive_only,elongation factor tu,Elongation factor Tu,2.8393496166864445
+tRNA-Pro,regression_type_positive_only,type iv pilus twitching motility protein pilt,Type IV pilus twitching motility protein PilT,13.649643550157274
+tRNA-Pro,regression_type_positive_only,preprotein translocase subunit seca,Preprotein translocase subunit SecA,4.407148660433314
+tRNA-Pro,regression_type_positive_only,"atpase, t2ss/t4p/t4ss family","ATPase, T2SS/T4P/T4SS family",2.764717634287311
+tRNA-Pro,regression_type_positive_only,anaerobic ribonucleoside triphosphate reductase,Anaerobic ribonucleoside triphosphate reductase,2.1856407782116554
+tRNA-Pro,regression_type_positive_only,fg-gap repeat domain-containing protein,FG-GAP repeat domain-containing protein,1.772073596106983
+tRNA-Ser,regression_type_positive_only,nad-dependent dna ligase liga,NAD-dependent DNA ligase LigA,20.836172604535786
+tRNA-Ser,regression_type_positive_only,type ii secretion system f family protein,Type II secretion system F family protein,8.562147393961546
+tRNA-Ser,regression_type_positive_only,nudix domain-containing protein,NUDIX domain-containing protein,2.760438789194302
+tRNA-Ser,regression_type_positive_only,5s ribosomal rna,5S ribosomal RNA,2.503509155340873
+tRNA-Ser,regression_type_positive_only,metallophosphoesterase,Metallophosphoesterase,1.8166837582319388
+tRNA-Thr,regression_type_positive_only,preprotein translocase subunit sece,Preprotein translocase subunit SecE,16.153286817154864
+tRNA-Thr,regression_type_positive_only,type iv pilus twitching motility protein pilt,Type IV pilus twitching motility protein PilT,6.4395268474875
+tRNA-Thr,regression_type_positive_only,preprotein translocase subunit secy,Preprotein translocase subunit SecY,5.338919293346453
+tRNA-Thr,regression_type_positive_only,nad-dependent dna ligase liga,NAD-dependent DNA ligase LigA,4.400681864032884
+tRNA-Thr,regression_type_positive_only,type ii secretion system f family protein,Type II secretion system F family protein,4.3186888422891325
+tRNA-Trp,regression_type_positive_only,regulatory protein recx,Regulatory protein RecX,27.666362180892502
+tRNA-Trp,regression_type_positive_only,duf2726 domain-containing protein,DUF2726 domain-containing protein,9.384183498035265
+tRNA-Trp,regression_type_positive_only,"ribosome hibernation-promoting factor, hpf/yfia family","Ribosome hibernation-promoting factor, HPF/YfiA family",2.7439870678303606
+tRNA-Trp,regression_type_positive_only,multifunctional cca addition/repair protein,Multifunctional CCA addition/repair protein,2.7318237551834756
+tRNA-Trp,regression_type_positive_only,lysm peptidoglycan-binding domain-containing protein,LysM peptidoglycan-binding domain-containing protein,2.0240421613743
+tRNA-Tyr,regression_type_positive_only,exodeoxyribonuclease i,Exodeoxyribonuclease I,22.321497320962237
+tRNA-Tyr,regression_type_positive_only,regulatory protein recx,Regulatory protein RecX,4.015901183965823
+tRNA-Tyr,regression_type_positive_only,fe-s cluster assembly scaffold iscu,Fe-S cluster assembly scaffold IscU,4.001341984905122
+tRNA-Tyr,regression_type_positive_only,anaerobic ribonucleoside-triphosphate reductase-activating protein,Anaerobic ribonucleoside-triphosphate reductase-activating protein,3.1903430227888414
+tRNA-Tyr,regression_type_positive_only,autonomous glycyl radical cofactor grca,Autonomous glycyl radical cofactor GrcA,3.0668240444296377
+tRNA-Val,regression_type_positive_only,5s ribosomal rna,5S ribosomal RNA,10.477860013292966
+tRNA-Val,regression_type_positive_only,cell division protein zipa,Cell division protein ZipA,8.279206536295199
+tRNA-Val,regression_type_positive_only,ycgl domain-containing protein,YcgL domain-containing protein,6.272676209951872
+tRNA-Val,regression_type_positive_only,16s rrna pseudouridine(516) synthase rsua,16S rRNA pseudouridine(516) synthase RsuA,4.759556857750334
+tRNA-Val,regression_type_positive_only,glutamate--trna ligase,Glutamate--tRNA ligase,3.583789068231869

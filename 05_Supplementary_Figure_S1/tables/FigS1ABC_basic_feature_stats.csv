@@ -1,0 +1,4 @@
+panel,metric,tRNA_plus_n,tRNA_minus_n,U,p_mannwhitney
+A,log10_Size_bp,4125,57836,184639276.5,0.0
+B,GC_Content,4125,57836,139003030.5,1.3421036047494151e-70
+C,Coding_Density,4125,57836,165557799.0,0.0

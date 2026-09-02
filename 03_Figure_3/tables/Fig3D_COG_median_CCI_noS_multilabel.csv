@@ -1,0 +1,23 @@
+COG_category,COG_super_category,product_n,CCI_median
+A,Information storage and processing,24,1.1715841147584913
+B,Information storage and processing,12,0.9828231351953374
+C,Metabolism,1536,1.2061317410122556
+D,Cellular processes and signaling,444,1.1077528751441794
+E,Metabolism,1525,1.18196568667082
+F,Metabolism,675,1.1330588661931944
+G,Metabolism,1334,1.1598278390130448
+H,Metabolism,1115,1.1607592643697129
+I,Metabolism,699,1.202482269503546
+J,Information storage and processing,738,1.1582010079940641
+K,Information storage and processing,1420,1.0929705873798115
+L,Information storage and processing,1585,1.094992898008333
+M,Cellular processes and signaling,1619,1.1145363408521305
+N,Cellular processes and signaling,595,1.1527629233511585
+O,Cellular processes and signaling,770,1.1423086173086172
+P,Metabolism,1247,1.1699234560134215
+Q,Metabolism,743,1.2000000000000002
+T,Cellular processes and signaling,975,1.1381984681984685
+U,Cellular processes and signaling,953,1.109948830021294
+V,Cellular processes and signaling,424,1.0999914135126554
+W,Cellular processes and signaling,38,1.0562804094054092
+Z,Cellular processes and signaling,41,1.233424848642758

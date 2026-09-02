@@ -1,0 +1,11 @@
+rank,Code,Product,run1_seed42_pct,run2_seed43_pct,run3_seed44_pct,mean_normalized_gain_pct
+1,AKYX,selenocysteine-specific translation elongation factor,0.0,97.85779541139274,0.0,32.61926513713092
+2,PWJ,PepSY domain-containing protein,0.0,0.0,88.87659477182416,29.625531590608052
+3,JLM,GTP-binding protein,87.55596148475762,0.0,0.0,29.185320494919207
+4,IIW,DeoR/GlpR family DNA-binding transcription regulator,6.043930750810712,0.0,0.0,2.0146435836035708
+5,NAM,L-seryl-tRNA(Sec) selenium transferase,3.633146760091379,0.0,0.4362767775378271,1.3564745125430688
+6,QWT,SDR family oxidoreductase,0.0621889472898003,0.0,2.7368922342575366,0.933027060515779
+7,ACJI,glycosyltransferase family 4 protein,0.0,0.0,2.166900305378086,0.7223001017926953
+8,BGJ,C45 family peptidase,0.0,2.1047610764624265,0.0,0.7015870254874755
+9,IXC,FAD-binding oxidoreductase,0.0,0.0,2.040342089333356,0.6801140297777853
+10,KZK,IS3 family transposase,0.0,0.0,1.0396337651681826,0.3465445883893942

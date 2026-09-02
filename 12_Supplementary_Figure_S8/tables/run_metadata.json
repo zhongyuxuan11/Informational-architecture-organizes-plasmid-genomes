@@ -1,0 +1,13 @@
+{
+  "F1_threshold_source": "mean validation F1 threshold from common classifier parameter selection",
+  "assembly_overlap_rule": "remove accession version suffix before comparison",
+  "classifier_parameter_source": "D:\\LAB\\PTG_code\\ml_v4_unified_20260816\\results\\lightgbm_common_from_run_winners_20260820\\best_lightgbm_classifier_params.json",
+  "evaluation_n": 1,
+  "external_data_used_for_model_development": false,
+  "historical_feature_vocabulary_frozen": true,
+  "historical_training_fraction": 1.0,
+  "overlap_excluded_n": 43,
+  "parameter_mode": "single common LightGBM parameter set",
+  "regressor_parameter_source": "D:\\LAB\\PTG_code\\ml_v4_unified_20260816\\results\\lightgbm_common_from_run_winners_20260820\\best_lightgbm_regressor_params.json",
+  "temporal_role": "external test only"
+}

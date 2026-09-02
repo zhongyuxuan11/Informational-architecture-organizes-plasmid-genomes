@@ -1,0 +1,24 @@
+[
+  {
+    "task": "classification",
+    "value": "mean normalized gain percent",
+    "color_scale": "continuous 0-40 percent, clipped only for display",
+    "union_rule": "union of per-tRNA top 5 products after product-name normalization",
+    "tRNA_type_n": 20,
+    "union_product_n": 33,
+    "width_cm": 18.0,
+    "height_cm": 32.80833333333333,
+    "colorbar_cm": 30.0
+  },
+  {
+    "task": "regression_type_positive_only",
+    "value": "mean normalized gain percent",
+    "color_scale": "continuous 0-40 percent, clipped only for display",
+    "union_rule": "union of per-tRNA top 5 products after product-name normalization",
+    "tRNA_type_n": 20,
+    "union_product_n": 68,
+    "width_cm": 18.0,
+    "height_cm": 32.80833333333333,
+    "colorbar_cm": 30.0
+  }
+]

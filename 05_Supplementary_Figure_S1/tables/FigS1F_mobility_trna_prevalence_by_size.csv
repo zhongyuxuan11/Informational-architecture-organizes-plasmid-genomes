@@ -1,0 +1,7 @@
+stratum,predicted_mobility,n_plasmids,tRNA_positive_n,tRNA_positive_percent
+<100 kb,conjugative,7856,39,0.49643584521384926
+<100 kb,mobilizable,15823,137,0.8658282247361436
+<100 kb,non-mobilizable,18964,1073,5.658089010757225
+≥100 kb,conjugative,9090,385,4.235423542354235
+≥100 kb,mobilizable,2288,426,18.61888111888112
+≥100 kb,non-mobilizable,7902,2065,26.13262465198684

@@ -1,0 +1,9 @@
+{
+  "sensitivity_step_model_refit": false,
+  "source_predictions_refit": true,
+  "new_split_generated": false,
+  "source_predictions": "D:\\LAB\\PTG_code\\ml_v4_unified_20260820\\results\\regressor_locked\\regressor_test_predictions.csv",
+  "source_prediction_rule": "locked LightGBMRegressor was refitted on each run's development partition before untouched-test prediction",
+  "subset_rule": "complete RefSeq test, plasflow_class equals plasmid, and all non-plasmid PlasFlow classes",
+  "purpose": "annotation sensitivity for RefSeq tRNA-positive plasmid regression"
+}
