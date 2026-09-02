@@ -1,6 +1,6 @@
 # Plasmid tRNA analysis
 
-This directory contains the code and compact tables used for Figures 1-4 and Supplementary Figures S1-S16 in manuscript V6. Each numbered directory is self-contained for the corresponding figure. Final images are stored in the parallel `GitHub_upload_V5_figures_20260831_figures_only` directory.
+This directory contains the code and compact tables used for Figures 1-4 and Supplementary Figures S1-S16 in manuscript. Each numbered directory is self-contained for the corresponding figure. 
 
 ## Analysis order
 
