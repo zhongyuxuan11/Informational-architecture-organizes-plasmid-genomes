@@ -1,4 +1,4 @@
-# Plasmid tRNA analysis
+# Informational-architecture-organizes-plasmid-genomes
 
 This directory contains the code and compact tables used for Figures 1-4 and Supplementary Figures S1-S16 in manuscript. Each numbered directory is self-contained for the corresponding figure. 
 
